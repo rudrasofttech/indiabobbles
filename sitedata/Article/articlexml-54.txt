@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>10 Evergreen Collecting Trends in India</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Most-Thoughtful-n-Unusual-Gifts-II/For-The-Collector.jpg</OGImage>
+  <OGDescription>;sanJSDO</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>1</Category>
+  <Tag>India Bobbles, Collecting,</Tag>
+  <Status>Draft</Status>
+  <Description>ooCJojds</Description>
+  <Text>Vintage Cars, Coins, Stamps, Bikes, Brass Items.</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>10-evergreen-collecting-trends-in-india</URL>
+  <Sitemap>true</Sitemap>
+</Article>

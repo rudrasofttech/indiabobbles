@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>31</ID>
+  <Name>master-blaster-bobblehead</Name>
+  <Title>Master Blaster Bobblehead - India Bobbles</Title>
+  <DateCreated>2016-08-13T11:40:17.393</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+        &lt;h1 class="bobbleheadname"&gt;Master Blaster Bobblehead&lt;/h1&gt;
+        &lt;div class="row productpagerow"&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Master-Blaster/Sachin.jpg" alt="" class="img-responsive" /&gt;
+
+            &lt;/div&gt;
+            &lt;div class="col-sm-8 productdescription" style="background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/sachinsketch.jpg);margin-top:40px;"&gt;
+                &lt;div class="subcontainer"&gt;
+                    &lt;p class="productcontent" style="line-height:35px;margin-bottom:0px;"&gt;
+                        Just as his real version has for years, this Master Blaster bobble head is here to
+                        mesmerize you with its elaborate craft. A must have for a Sachin and cricket lovers
+                        ,this limited edition bobble will be gone before you know. Pre-order now and assure
+                        yourself the company o this lil God of cricket.
+                    &lt;/p&gt;
+                    &lt;h5&gt;&lt;b&gt;Note:&lt;/b&gt;&lt;/h5&gt;
+                    &lt;ul&gt;
+                        &lt;li class="productcontentli"&gt;&lt;i&gt;This collectible is made out of Sachin Tendulkar's caricatured design.&lt;/i&gt;&lt;/li&gt;
+                        &lt;li class="productcontentli"&gt;&lt;i&gt;Each India Bobbles' product is hand crafted and painted to perfection. May vary from product graphics&lt;/i&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;table class="table table-bordered "&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;&lt;b&gt;Price&lt;/b&gt;&lt;/td&gt;
+                            &lt;td&gt;&lt;b&gt;899 INR&lt;/b&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;&lt;b&gt;Height&lt;/b&gt;&lt;/td&gt;
+                            &lt;td&gt;&lt;b&gt;5.5"&lt;/b&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                    &lt;button type="button" class="btn btn-primary cartbutton"&gt;Out of Stock&lt;/button&gt;
+                    &lt;br /&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row newslettersection" style="text-align:center;"&gt;
+
+            &lt;div class="col-sm-4"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-truck" aria-hidden="true"&gt;&lt;/i&gt;
+                    FREE SHIPPING
+                &lt;/h2&gt;
+            &lt;/div&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-gift" aria-hidden="true"&gt;&lt;/i&gt;
+                    SALE
+                &lt;/h2&gt;
+                &lt;!-- Modal --&gt;
+                &lt;div id="myModal" class="modal fade" role="dialog"&gt;
+                    &lt;div class="modal-dialog"&gt;
+                        &lt;!-- Modal content--&gt;
+                        &lt;div class="modal-content"&gt;
+                            &lt;div class="modal-header" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg)"&gt;
+                                &lt;h2 class="modal-title" style="font-family:'Spongeboy Me Bob';color:#330B41;"&gt;Subscribe &amp; Get &lt;span style="color:#fa9b03;"&gt; Rs.100&lt;/span&gt; Off&lt;/h2&gt;
+                            &lt;/div&gt;
+                            &lt;div class="modal-body" style="background-color:#330B41;"&gt;
+                                &lt;form class="form-horizontal" role="form"&gt;
+                                    &lt;div class="form-group"&gt;
+                                        &lt;label class="col-sm-2 control-label"
+                                               for="inputEmail3" style="color:white"&gt;Email&lt;/label&gt;
+                                        &lt;div class="col-sm-10"&gt;
+                                            &lt;input type="email" class="form-control"
+                                                   id="inputEmail3" placeholder="Email" /&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="form-group"&gt;
+                                        &lt;label class="col-sm-2 control-label"
+                                               for="inputPassword3" style="color:white"&gt;Password&lt;/label&gt;
+                                        &lt;div class="col-sm-10"&gt;
+                                            &lt;input type="password" class="form-control"
+                                                   id="inputPassword3" placeholder="Password" /&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="form-group"&gt;
+                                        &lt;div class="col-sm-offset-2 col-sm-10"&gt;
+                                            &lt;div class="checkbox"&gt;
+                                                &lt;label style="color:white"&gt;
+                                                    &lt;input type="checkbox" /&gt; &lt;b&gt;You are allowing us to send you india bobbles product related emails.&lt;/b&gt;
+                                                &lt;/label&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="form-group"&gt;
+                                        &lt;div class="col-sm-offset-2 col-sm-10"&gt;
+                                            &lt;button type="submit" class="btn btn-defaul"&gt;Subscribe&lt;/button&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                &lt;/form&gt;
+
+                            &lt;/div&gt;
+                            &lt;div class="modal-footer" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg)"&gt;
+                                &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;Close&lt;/button&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-money" aria-hidden="true"&gt;&lt;/i&gt;
+                    FULL REFUND
+                &lt;/h2&gt;
+
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="col-sm-12"&gt;
+                &lt;datasource name="ShareDataSource" /&gt;
+                &lt;datasource name="DisqusDataSource" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+        function doWorkAfterLoading() {
+            $(".thumb").modalbox({
+                Type: 'image'
+            });
+        }
+
+        $(document).ready(doWorkAfterLoading);
+    &lt;/script&gt;</Body>
+  <DateModified>2017-02-10T03:43:43.7155352-07:00</DateModified>
+  <Head>&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal.css" rel="stylesheet" /&gt;
+&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal-darktheme.css" rel="stylesheet" /&gt;
+&lt;script src="http://www.rudrasofttech.com/js-tools/modal/modal.js"&gt;&lt;/script&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="Master Blaster Bobblehead is a perfect gift for every cricket lover in India. He is known as a “God of Cricket”. Buy now this edition is limited in our stock."/&gt;
+
+
+&lt;meta name ="Keywords" Content="master blaster bobblehead online, sachin tendulkar collectibles"/&gt;</PageMeta>
+</CPage>

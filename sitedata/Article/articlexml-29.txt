@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>In India? Happy Head Bobbling!</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/teacher_scolding_a_young_student_in_class.jpg</OGImage>
+  <OGDescription>The Indian Head Wiggle and Why...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>The Indian Head wiggle, India Bobbles, Bobble Heads India, Great Indian Head Bobble.</Tag>
+  <Status>Publish</Status>
+  <Description>India bobbles, but why?</Description>
+  <Text>&lt;a href="http://www.indiabobbles.com/blog/India-Bobbles-Fun-With-Photoplasty/index" target="_blank"&gt;&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/teacher_scolding_a_young_student_in_class.jpg" alt="Teacher Scolding Student"&gt;&lt;/a&gt;
+&lt;hr&gt;
+&lt;h4&gt;Situation&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h5&gt;
+An average American woman called Jane took up the job of teaching (quite fictitious! :D) in an average school somewhere in the land of the famous, *trumpets blowing in the background* Great Indian Head Wobble/ Bobble/Wiggle- INDIA!!
+&lt;/h5&gt;
+&lt;h5&gt;
+You must now wobble your head!
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Ma'am Jane:&lt;/b&gt; Prateek, It's the fifth time I am asking you, did you empty the lunch boxes of your classmates?
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Prateek:&lt;/b&gt; *Wobbles his head"
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Ma'am Jane:&lt;/b&gt; Okay, so you are saying that you didn't do it. Are you sure?
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Prateek:&lt;/b&gt; *Wobbles his head"
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Ma'am Jane:&lt;/b&gt; All right. So do you know who did it?
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Prateek:&lt;/b&gt; *Wobbles his head"
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Ma'am Jane:&lt;/b&gt; But you must know. You were the one who left class at the last during sports period before break.
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Prateek:&lt;/b&gt; *Wobbles his head"
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Ma'am Jane:&lt;/b&gt; *death stare* All right. Now when you don't want to disclose the name of the lunch-thief of the class, you can say goodbye to that extra A I was going to give you in Math.
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Prateek:&lt;/b&gt; *Looks blankly at Ma'am Jane and once again, wobbles his head*
+&lt;/h5&gt;
+&lt;hr&gt;
+&lt;H4&gt;But, Why?&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h5&gt;
+The Famous Indian Head Wobble has caused mass confusion and anxiety ever since it came into picture. It has been deeply rooted in all cultures and in all parts of the Indian subcontinent. The precise reason or circumstance under which it originated remains a mystery, but the most famous theory is that during the period when the Indian Maharajas and after them during the period when the Englishmen ruled India, there were some really harsh rulers around who wouldn't take ''no'' for an answer. So the solution that the Indians came up with to avoid saying the hideous and unpleasant word was, the head wiggle.
+&lt;/h5&gt;
+&lt;a href="http://www.indiabobbles.com/blog/father-of-the-bobble-head" target="_blank"&gt;&lt;img src="http://www.indiabobbles.com/drive/Gags/Thanjavur.jpg" alt="Old Indian Bobble Heads" Title="Indian Clay Bobble Heads"&gt;&lt;/a&gt;
+&lt;h5&gt;
+It's one gesture that you would find prevalent and vigorously in use in all parts of this country. People of different regions, religions, languages and cultures, all united by the power of &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" target="_blank"&gt;the Great Head Wiggle&lt;/a&gt;. But this unique-to-India gesture has always caused great curiosity and bewilderment among foreigners. The wobble finds its place somewhere between a nod and shake but does it mean a yes? or a no? or a maybe? or a ''yeah sure, definitely"? or a "Of course I understand you?" 
+&lt;/h5&gt;
+&lt;a href="http://www.indiabobbles.com/blog/what-is-it-with-the-indian-head-bobble" target="_blank"&gt;&lt;img src="http://www.indiabobbles.com/drive/Gags/Indian-Head-Bobble.jpg" alt="The Indian Head Wobble" Title="The Indian Head bobble"&gt;&lt;/a&gt;
+&lt;h5&gt;
+Oh well, it could mean any of it or all of it, totally open to how you want to interpret the Wobble (That's exactly what Ma'am Jane did). Most often, this gesture proves a good bet to save you from many a dreadful situations( like in the case of Prateek) when you can just give the famous Indian Wobble and leave the other person to decode what it meant for the rest of his day.
+&lt;/h5&gt;
+&lt;h5&gt;
+My personal favorite if you ask, will be the ''silent head wobble". It takes the degree of bewilderment to an all new level. *evil grin*
+&lt;/h5&gt;
+&lt;h5&gt;
+Now, if you are new to India, the head wobble might take your head for a spin for a lot of people are high on saving words and energy and would prefer answering with just a little wobble of their head. It could get annoying when you actually seek verbal answers but with time not only does it grow on you but you become part of the ''universal community of head wobblers". 
+&lt;/h5&gt;
+&lt;h5&gt;
+Now before you underestimate the power of the Great Indian Head Wobble, I must tell you that it has more varieties to it than the types of enzymes in your body.
+&lt;/h5&gt;
+&lt;H5&gt;
+&lt;b&gt;Type 1:&lt;/b&gt; For example, a quick wobble from side to side means &lt;b&gt;"yes" or "all right, I get it"&lt;/b&gt;, a fast and continuous head wobble means that the person is really able to understand you and the faster the head wobbles, the more the person has understood whereas a soft and slow wobble with a smile could possibly be a sign of friendship. 
+&lt;/h5&gt;
+&lt;H5&gt;
+&lt;b&gt;Type 2:&lt;/b&gt; There is the &lt;b&gt;''yes''&lt;/b&gt; wobble that resembles a western nod while you are looking at the other person. 
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Type 3:&lt;/b&gt; There is also the &lt;b&gt;''no''&lt;/b&gt; wobble which comes as multiple shakes of the head, right to left. It could be accompanied by curling of the lips or narrowing of the eyes. 
+&lt;/h5&gt;
+&lt;H5&gt;
+&lt;b&gt;Type 4:&lt;/b&gt; Then again there is the &lt;b&gt;''maybe''&lt;/b&gt; wobble which is just a slight side movement of the head, a half tilt and a discerning eye. 
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Type 5:&lt;/b&gt; There is also &lt;b&gt;the whiplash wobble&lt;/b&gt; which you must have experienced if you have ever been a student, or have ever traveled in a train or bus or metro in India. It's the sudden free fall of the head forward or sideways till the neck almost snaps. It's extremely funny to look at when you are witnessing a whiplash head wobble but it's not when you are witnessed doing a whiplash head wobble yourself because obviously, you are not awake to witness it. Reason? The whiplash head wobble is specific to people who doze off. 
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;b&gt;Type 6:&lt;/b&gt; And how could I forget &lt;b&gt;the "Hey! What's up?"&lt;/b&gt; wobble. This is just a tilt of your head, usually accompanied by a smile, something that I have personally been subjected to by a person in my class in college, who always, with zero exceptions, ALWAYS says hi to me only and only through the famous head wobble. Not a word spoken. Not a single noise made. Just a big smile and the wobbling of the head.
+&lt;/h5&gt;
+&lt;h5&gt;
+Well now that you have read this, the Great Indian Head Wobble has become a part of your life too. And if you are an Indian, then I will not be wrong to say that it was anyway part of your life, but now it got its due.
+&lt;/h5&gt;
+&lt;h5&gt;
+So, if you are in India or if you are an Indian or if you are both, just keep the magic of the head wobble alive. It will only earn you more friends and smiles from strangers wherever you go.
+&lt;/h5&gt;
+&lt;h5&gt;Have a happy head-wobbling!! :)&lt;/h5&gt;
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Farah Hayat</WriterName>
+  <WriterEmail>farahhayat1991@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>in-india-happy-head-bobbling-try-these-6-purposeful-ways-of-head-bobbling</URL>
+  <Sitemap>true</Sitemap>
+</Article>

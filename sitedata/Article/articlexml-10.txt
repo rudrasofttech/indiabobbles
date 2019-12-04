@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Yes who?</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Badass.jpg</OGImage>
+  <OGDescription>Bollywood vs Hollywood.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Badass Villains, Joker, Daku Sambhar, Bollywood vs Hollywood.</Tag>
+  <Status>Publish</Status>
+  <Description>Bollywood vs Hollywood.</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Badass.jpg" title="Badass Villains of Hollywood and Bollywood" alt="Joker vs Sambhar"&gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/epic-war-of-the-old-and-badass" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/who-gives-a-shit-about-the-sarkaar" &gt;Next&lt;/a&gt;
+
+&lt;h3 class="align center"&gt;Bollywood vs Hollywood. &lt;/h3&gt;
+
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Fun at IB</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>gags/bollywood-vs-hollywood</URL>
+  <Sitemap>true</Sitemap>
+</Article>

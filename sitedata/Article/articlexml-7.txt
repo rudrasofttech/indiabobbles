@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Kiski?</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Abki-Baar.jpg</OGImage>
+  <OGDescription>Abki Baar ____ Sarkaar?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Mahatma Gandhi Bobble Head, Elections-India, Government, Gandhi Ji asks.</Tag>
+  <Status>Publish</Status>
+  <Description>Abki Baar ____ Sarkaar?</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Abki-Baar.jpg" alt="Gandhi JI Bobble Head" title="Gandhi Ji Wants To Know"&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/epic-war-of-the-old-and-badass" &gt;Next&lt;/a&gt;
+
+&lt;h4&gt;#Indian Elections 
+
+#Gandhi Ji Wants To Know&lt;/h4&gt;
+
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Fun at IB</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>gags/abki-baar-kiski-sarkaar</URL>
+  <Sitemap>true</Sitemap>
+</Article>

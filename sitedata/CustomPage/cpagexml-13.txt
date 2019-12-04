@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>13</ID>
+  <Name>amitabh-bachchan-bobblehead</Name>
+  <Title>Redirect To Chhote Bachchan Bobble head</Title>
+  <DateCreated>2013-12-22T10:52:05.747</DateCreated>
+  <CreatedByName>Raj Kiran Singh</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran Singh</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>Page will redirect to http://www.indiabobbles.com/chhote-bachchan-bobblehead</Body>
+  <DateModified>2013-12-22T10:52:30.6312553-07:00</DateModified>
+  <Head>&lt;META http-equiv="refresh" content="0;URL=http://www.indiabobbles.com/chhote-bachchan-bobblehead" /&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>true</NoTemplate>
+</CPage>

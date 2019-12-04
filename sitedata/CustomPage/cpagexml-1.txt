@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>1</ID>
+  <Name>home-old</Name>
+  <Title>home-old</Title>
+  <DateCreated>2013-08-21T20:27:25.097</DateCreated>
+  <CreatedByName>Raj Kiran Singh</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Inactive</Status>
+  <ModifiedByName>Preeti Singh</ModifiedByName>
+  <ModifiedBy>2</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="span12" style="text-align: right; padding-top: 20px;"&gt;&lt;a href="http://www.indiabobbles.com"&gt;
+            &lt;img src="http://www.indiabobbles.com/theme/img/LOGO-PSD-Final-website.png" class="e_wobble"
+                alt="India Bobble Logo" style="height: 100px;" /&gt;&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="span9"&gt;
+&lt;h1 style="font-size: 60px; color: #fff;"&gt;Unique, Inspirational and Jolly Bobbleheads&lt;/h1&gt;
+        &lt;/div&gt;
+        &lt;div class="span3" style="padding-top: 100px;"&gt;
+            &lt;a class="btn btn-large btn-theme" style="width: 100px;" href="collectibles"&gt;Bobbles&lt;/a&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            &lt;a class="btn btn-large btn-theme" style="width: 100px;" href="blog"&gt;Blah Blah&lt;/a&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            &lt;a class="btn btn-large btn-theme" style="width: 100px;" href="about"&gt;Our Story&lt;/a&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            &lt;a class="btn btn-large btn-theme" style="width: 100px;" href="contact"&gt;Contact&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;datasource name="CustomTheme" /&gt;</Body>
+  <DateModified>2013-10-30T23:38:54.1667572-07:00</DateModified>
+  <Head>&lt;title&gt;India Bobbles - Collectible Indian bobble heads, figurines and more.&lt;/title&gt;</Head>
+  <Sitemap>false</Sitemap>
+</CPage>

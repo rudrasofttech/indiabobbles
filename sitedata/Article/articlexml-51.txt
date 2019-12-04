@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Bollywood Memorabilia; A Must Have for every Bollywood Hound</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Daku Sambhar Singh/G1-thumb.jpg</OGImage>
+  <OGDescription>Are you a true Bollywood Fan?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bollywood Memorabilia, India Bobbles, Bobble heads, Indian Bobble heads, Unusual Gifts,</Tag>
+  <Status>Draft</Status>
+  <Description>From the all too collectible bobble heads to the official Bollywood Merchandise this list has it...</Description>
+  <Text>&lt;h5&gt;
+Crazy dance sequences, cheesy songs, absurd story lines and killer dialogues. All these may have put Bollywood subject to ridicule lately. But tell you what, to some its like drugs. You just gotta have it. Crazy fans would go to any extent to be part of a Hindi movie experience. The following limited edition items are certainly going to bring back grands of memories of your favorite films and actors.    
+
+&lt;hr&gt;
+&lt;h2&gt;Mad Apparel&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Poster Art&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Worthy Collectibles&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;House Hold&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;&lt;i&gt;Filmy&lt;/i&gt; Furniture&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Kitsch Accessories&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Arty Stuff&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Bobbling Heads&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Auctioned&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;Its Vintage!&lt;/h2&gt;
+&lt;hr&gt;
+Images sourced from: Indian Hippy and Gabambo.</Text>
+  <TemplateName />
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>bollywood-memorabilia-a-must-have-for-every-bollywood-hound</URL>
+  <Sitemap>true</Sitemap>
+</Article>

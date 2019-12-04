@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>21</ID>
+  <Name>terms-and-conditions</Name>
+  <Title>Terms and Conditions of using IndiaBobbles.com, please read carefully.</Title>
+  <DateCreated>2014-05-05T00:15:11.063</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+        &lt;div class="row" style="background-color:white;"&gt;
+            &lt;div class="col-sm-12" style="margin-bottom:35px;margin-top:85px;line-height:26px;text-align:justify;"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob'; color:#330B41;text-align:center"&gt;India Bobbles Terms and Conditions ("Agreement")&lt;/h2&gt;
+                &lt;br /&gt;
+                &lt;p&gt;This Agreement was last modified on May 05, 2014.&lt;/p&gt;
+
+                &lt;p&gt;Please read these Terms and Conditions ("Agreement", "Terms and Conditions") carefully before using http://www.indiabobbles.com ("the Site") operated by India Bobbles ("us", "we", or "our"). This Agreement sets forth the legally binding terms and conditions for your use of the Site at http://www.indiabobbles.com.&lt;/p&gt;
+                &lt;p&gt;By accessing or using the Site in any manner, including, but not limited to, visiting or browsing the Site or contributing content or other materials to the Site, you agree to be bound by these Terms and Conditions. Capitalized terms are defined in this Agreement.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Intellectual Property&lt;/strong&gt;&lt;br&gt;The Site and its original content, features and functionality are owned by India Bobbles and are protected by international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Termination&lt;/strong&gt;&lt;br&gt;We may terminate your access to the Site, without cause or notice, which may result in the forfeiture and destruction of all information associated with you. All provisions of this Agreement that by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Links To Other Sites&lt;/strong&gt;&lt;br&gt;Our Site may contain links to third-party sites that are not owned or controlled by India Bobbles.&lt;/p&gt;
+                &lt;p&gt;India Bobbles has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services. We strongly advise you to read the terms and conditions and privacy policy of any third-party site that you visit.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Governing Law&lt;/strong&gt;&lt;br&gt;This Agreement (and any further rules, polices, or guidelines incorporated by reference) shall be governed and construed in accordance with the laws of New Delhi, India, without giving effect to any principles of conflicts of law.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Changes To This Agreement&lt;/strong&gt;&lt;br&gt;We reserve the right, at our sole discretion, to modify or replace these Terms and Conditions by posting the updated terms on the Site. Your continued use of the Site after any such changes constitutes your acceptance of the new Terms and Conditions.&lt;/p&gt;
+                &lt;p&gt;Please review this Agreement periodically for changes. If you do not agree to any of this Agreement or any changes to this Agreement, do not use, access or continue to access the Site or discontinue any use of the Site immediately.&lt;/p&gt;
+
+                &lt;p&gt;&lt;strong&gt;Contact Us&lt;/strong&gt;&lt;br&gt;If you have any questions about this Agreement, please contact us.&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Body>
+  <DateModified>2016-08-13T12:20:29.3238877-07:00</DateModified>
+  <Head>&lt;style&gt;
+        body {
+            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+        }
+    &lt;/style&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+</CPage>

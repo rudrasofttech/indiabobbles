@@ -1,0 +1,21 @@
+﻿body {
+    font-family: arial;
+    font-size: 13px;
+}
+
+.purplebox {
+    border: 5px solid #320B40;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+section#subintro {
+    margin-bottom: 30px;
+}
+
+#maincontent > .container {
+}

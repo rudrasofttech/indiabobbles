@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>They Say Things are going Worse, I say No you Just started Noticing!</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Kejriwaal.jpg</OGImage>
+  <OGDescription>Is it the beginning of change, yet...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Indian Elections, Politics, Youth, Arvind Kejriwaal, India Bobbles, Upcoming IB Figurine.</Tag>
+  <Status>Publish</Status>
+  <Description>Is it the beginning of change, yet...</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Kejriwaal.jpg" alt="Arvind Kejriwaal on Indian Elections" title="Arvind Kejriwaal and Indian Youth"&gt;
+
+&lt;br&gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/kalaam-saab-had-a-dream-too" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/bollywood-movie-merchandise" &gt;Next&lt;/a&gt;
+
+&lt;h4 class="align center"&gt;Is it the beginning of change, yet again?&lt;/h4&gt;
+
+&lt;br&gt;
+
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>they-say-things-are-going-worse-kejriwaal-says-no-you-just-started-noticing</URL>
+  <Sitemap>true</Sitemap>
+</Article>

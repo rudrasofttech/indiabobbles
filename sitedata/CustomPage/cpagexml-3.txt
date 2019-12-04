@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>3</ID>
+  <Name>about</Name>
+  <Title>Handmade Bobble Heads | Hand Painted Figurines – India Boobles</Title>
+  <DateCreated>2013-10-07T10:39:59.417</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+        &lt;div class="row aboutrow"style="text-align:justify;background-color:white;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"&gt;
+            &lt;div class="col-sm-12"&gt;
+                &lt;div class="about"&gt;
+                    &lt;h2 class="about-heading" style="text-align:center"&gt;
+                        Welcome to India Bobbles
+                    &lt;/h2&gt;
+                    &lt;h5&gt;
+                        &lt;i class="fa fa-coffee fa-2x"style="color:#DC1019;" aria-hidden="true"&gt;&lt;/i&gt;So you landed all the way
+                        to know our story, right? Well, first things first!
+                    &lt;/h5&gt;
+                    &lt;p&gt;
+                        We are designers and makers of Bobble Heads and figurines based on India. Our first range includes collectible bobble head figurines of National Leaders, fictional character look-alikes of Bollywood stars and the very popular sports stars of the country. Looking to expand our realm, we have been working on famous comic characters and even fictional character creation.
+                    &lt;/p&gt;
+                    &lt;h5&gt;
+                        Here goes the story...
+                    &lt;/h5&gt;
+                    &lt;p&gt;
+                        Do we ever really grow up? It sure doesn't mean you have to give up on the habit
+                        of keeping your most favorite toys and http://www.indiabobbles.com/collectibles. Raj was forced ! To grow up, to earn, to take responsibility, but
+                        the child within was in utter state of denial. And that's when insanity
+                        took over...
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        Out of Raj’s love for small-fun-things-collectible was born the idea of India Bobbles.
+                        And once shared in the household there was no looking back. We just loved the idea
+                        of creating these amazing lil things ourselves. Our very first piece was for us
+                        to savour. Later came the making loads and selling part. Actually, we just adore
+                        small things. They may not matter but they are the things that count. After all
+                        they take up less space and possess the power to bestow happiness and inspire big
+                        time!
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        While randomly browsing through amazing collectible hubs like Royal Bobbles, Funko
+                        and NECA we thought why could we not own a piece of our favorite hero/celebrity in the form of a miniature or the most popular &lt;a href="http://www.indiabobbles.com/blog/history-and-evolution-of-the-bobble-head"&gt;'bobblehead'&lt;/a&gt; format? So, we decided to branch out of
+                        &lt;a href="http://www.rudrasofttech.com/"&gt;Rudra Softtech LLP&lt;/a&gt; (Raj’s Software Company)
+                        and make these lil-things-fun for our fellow Indians to buy.
+                    &lt;/p&gt;
+                    &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection"&gt;&lt;img src="http://www.indiabobbles.com/drive/IB%20New%20Folder/About/Tanjore-Doll.jpg" alt="Tanjore Doll" class="pull-left" style="margin-right:5px;"&gt;&lt;/a&gt;
+                    &lt;p&gt;
+                        The idea might seem to be coming from the west but we are pretty sure our world
+                        famous Tanjore Dolls gave birth to the concept. Remember the dancing &lt;i&gt;
+                            mitti ka lady
+                        &lt;/i&gt;we bought home for Diwali?
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        So, which was born first, the bobble head dolls or &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection"&gt;“The Great Indian Head-Nod”&lt;/a&gt;?
+                        What? Are you one of those who do it and don’t know if it’s actually something?
+                        O yeah it’s the head ‘‘bobble’’, we Indians are famous for. Sometimes it means yes
+                        sometimes it means no and sometimes may be. So how are the two related? Wanna find
+                        out? Grab one, give it a lil wiggle and voila! :)
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        One could say, we took the “I wanna take you home” idea quite literally! I mean
+                        tell me you have not felt the need of keeping to yourself, a piece of your favorite
+                        hero, super-hero, zombie or any creature for that matter? Just by the side, to play,
+                        to talk to, to get inspired by...Aah !!! And that’s the kinda joy we strive to bring
+                        to you. Each piece coming from India Bobbles is hand crafted and hand-painted to perfection because each piece has a story to tell…personal,
+                        historical or even a brag!
+                    &lt;/p&gt;
+                    &lt;p&gt;
+                        So who was blah-blahing about giving happiness and inspiring big time? We all want
+                        to do that, at some point, for some special ones. Then why just buy any &lt;a href="http://www.indiabobbles.com/blog/most-thoughtful-and-unusual-gifts-for-those-you-love" target="_blank"&gt;&lt;b&gt;gift&lt;/b&gt;&lt;/a&gt; and
+                        get it over with? Grab one (or a collection) of our insanest collector's delights
+                        and give a loved one (including you) a thought to remember! Inspiration and happiness
+                        for keeps! Go ahead, your inner child will jump for joy.
+                    &lt;/p&gt;
+                    &lt;h5&gt;And do not miss our bobbling logo, just place your cursor over it and see the wiggle for yourself :)&lt;/h5&gt;
+                    &lt;div class="hidden-xs" style="margin-top:50px;"&gt;                       
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Body>
+  <DateModified>2017-02-10T03:23:00.3394061-07:00</DateModified>
+  <Head />
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="We are happy to provide you handmade painted bobble heads &amp; figurines based on India. Visit our website to see some recent samples bobbleheads we have manufactured." /&gt;
+
+&lt;meta name ="Keywords" Content="handmade bobbleheads, hand painted figurines"/&gt;</PageMeta>
+</CPage>

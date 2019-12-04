@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>When Nagraj, Doga and Dhruv Lost to the Avengers</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/hulk-n-nag.jpg</OGImage>
+  <OGDescription>It’s very truly stated that the grass is always greener on the other side of the fence and so it comes as no surprise that even the American Avenger, Hulk’s green holds a brighter sheen than the green of our own bicep-strapped snake-inspired hero...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Indian Comics, Raj Comics, Avengers, Indian Super Heroes, India Bobbles, Collectible Figurines, Bobble Heads.</Tag>
+  <Status>Publish</Status>
+  <Description>It’s not that we have NEVER had any Indian superheroes on screen. Indian screens have had their fair share of do-and-dare geek to almost-a-freak kind of heroes like the almost-forgotten Ajooba, Captain Vyom, Ra One, Krissh, Shaktimaan...</Description>
+  <Text>&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/hulk-n-nag.jpg"  alt="Nagraj-vs-Hulk" class="pull-right" style="margin-left: 5px;"/&gt;
+&lt;h5&gt;
+It’s very truly stated that the grass is always greener on the other side of the fence.
+&lt;/h5&gt;
+&lt;h5&gt;
+So, it comes as no  surprise that even the American Avenger, Hulk’s green holds a brighter sheen than the green of our very own bicep-strapped snake-inspired hero, NAGRAJ.
+&lt;/h5&gt;
+&lt;h5&gt;
+And somewhere along the way the Iron Man and Thor outshone DOGA even on home ground. 
+&lt;/h5&gt;
+&lt;h5&gt;
+And so even as NAGRAJ swung across the Indian cityscape on green-snake-woven ropes, people were enamoured by the red and blue web-suited wonder from the west with even bluer eyes. Why?
+&lt;/h5&gt;
+&lt;hr&gt;
+&lt;h4&gt;All Eyes Trained West&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/Avengers-Figurines.JPG" title="Avenger Figurines" alt="Avengers Figurines" class="pull-right" style="margin-right: 5px;" /&gt;
+&lt;/h5&gt;
+&lt;h5&gt;
+India has looked to the west for everything. Western clothes and habits inspire us; we cold-shoulder our desi, refreshing and natural ‘nimbu paani” and settle for a lemon flavoured sprite- is that right? We give up fresh paneer and settle for tofu, and passing up our wholesome alphonso mango for passion and kiwi fruit has become a fashion. 
+&lt;/h5&gt;
+&lt;h5&gt;
+Another example in time is yoga. Only when Jennifer Aniston, Hillary Clinton, Robert Downey Jr, Russell Brand and Lady Gaga revealed that the secret to their good health and peachy complexion is our very own Indian-origin Yoga, did we start going ga-ga over it. Isn’t it an utter shame?
+&lt;/h5&gt;
+&lt;h5&gt;
+Panning back to comic book, it’s a pity if you ask me that the unsung heroes of Indian comics are definitely overshadowed by their western counterparts. No, it’s not because the latter are stronger or harbour more power than NAGRAJ and DOGA or PARMANU but until and unless we decide to look beyond Levis Jeans and Nike shoes, the situation will not change any. 
+&lt;/h5&gt;
+&lt;hr&gt;
+&lt;h4&gt;Our Unsung Heroes&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/raj-comics-super-hero-universe.jpg" title="Raj Comics Super Hero Universe" alt="Super Heroes of Raj Comics" /&gt;
+&lt;/h5&gt;
+&lt;h5&gt;
+And what is even more surprising is that Indian cartoon comic heroes are so region-specific that if you ask a South Indian or even someone a few hundred kms north, in Maharashtra whether they know who NAGRAJ and DOGA are, you will get the classic &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" target="_blank"&gt; Indian Bobble&lt;/a&gt; as an answer!  
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/Anurag-Kashyaps-Doga.jpg" title="Anurag Kashyap at Doga Preview" Alt="Doga Movie Preview" class="pull-right" style="margin-left: 5px;"&gt;
+&lt;h5&gt;
+That’s because &lt;a href="http://www.rajcomics.com/" target="_blank"&gt;Raj Comics &lt;/a&gt;have been based in the Northern part of India and were unable to circulate the comics across the country. It is only now that the internet has made them global-with a shopping cart on their website and huge anticipatory fan base on Facebook. They are one of the oldest and largest (along with Diamond Comics) comic book publishers in the country.
+&lt;/h5&gt;
+&lt;h5&gt;
+When Anurag Kashyap, who is leaving no stone unturned in bringing our very own Doga to the big screen, announced its making, the huge RC fan-base went Gaga. News has it that after all the ifs, buts’ and will-it happen; DOGA is all set to hit the big screen. So, hold your horses and breadth till it actually happens. 
+&lt;/h5&gt;
+&lt;h5&gt;
+It’s not that we have NEVER had any Indian superheroes on screen. Indian screens have had their fair share of do-and-dare geek to almost-a-freak kind of heroes like the almost-forgotten Ajooba, Captain Vyom, Ra One, Krissh, Shaktimaan (the TV love of the 90s kids) and even Nagraaj for that matter. Not many of us know that Raj Comics collaborated with the video guys and made a small series called Rakshak Nagraaj. 
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/Raj-Nagraj.jpg" title="Nagraj TV Series" alt="Raj Nagraj vs Rakshak Nagraj"&gt;
+&lt;h5&gt;
+O boy did I see it! Cheesy! :P Can even spoil the fun and devotion to the original comic character! Uncool!
+&lt;/h5&gt;
+&lt;h5&gt;
+Well, honestly Krissh and Ra One (the modern ones) have made it being immortalized into miniature collectible forms. Thank the 100 crores spent and bought in them flicks. Plus we need to appreciate them both for their ideas and CGI. Too cool! Right?
+&lt;/h5&gt;
+&lt;h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/Ra-one-KrrishMovie-Merchandise.jpg" Title="Ra One and Krrish Collectibles" alt="Super Hero Movie Merchandise"&gt;
+&lt;/h5&gt;
+&lt;h5&gt;
+But what about our favourite comic heroes? Super Commando Dhruv, Chacha Chowdhury (the common SUPER human), Doga and even Shaktimaan who was later adapted into a comic hero by Diamond Comics? A piece of them by the side wouldn’t hurt. Right?
+&lt;/h5&gt;
+&lt;h5&gt;
+The internet has brought about change. Yes! But so has mall culture. Why go Desi when Captain America/ Batman/ Green Lantern/ Wolverine/ Hulk/ Spiderman are just a mall away! 
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/Doga-Mold.jpg" title="India Bobbles Doga Clay Mold" alt="India Bobbles Doga" class="pull-right" style="margin-left: 5px;" /&gt;
+&lt;hr&gt;
+&lt;h4&gt;Don’t Shy Away From Going Desi&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h5&gt;
+Well- the truth is that currently, our desi superheroes can’t hold a candle to any fair-skinned hero from across the seas and you can’t really blame the aam-janta for looking westward for their shot of superhero action. They are superb, right? They enthral the cinema hall even as they swing, appear, disappear, jump and thump across the big screen. In our opinion, it’s not just about mass appeal, it’s about conditioning. We need to look at our own culture, traditions, innovations and trends in a less jaded manner.
+&lt;/h5&gt;
+&lt;h5&gt;
+Maybe that is when we will notice that the green-suited NAGRAJ with his Ichchadhari power, venomous breath and even more venomous bite can crawl on the most precipitous walls just as well as Spiderman can and Batman will only come second to our very own saviour “Raat Ka Rakshak” Doga.  
+&lt;/h5&gt; 
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>when-nagraj-doga-and-dhruv-lost-to-the-avengers</URL>
+  <Sitemap>true</Sitemap>
+</Article>

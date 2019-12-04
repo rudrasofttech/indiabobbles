@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>4</ID>
+  <Name>contact</Name>
+  <Title>Contact Us - India Boobles</Title>
+  <DateCreated>2013-10-07T10:40:54.283</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+        &lt;div class="row rowstyle" style="background-color:white;padding-bottom:30px;"&gt;
+            &lt;div class="col-sm-4" style="margin-bottom:35px;line-height:26px;text-align:justify;"&gt;
+                &lt;aside&gt;
+                    &lt;div class="widget"&gt;
+                        &lt;h4 class="rheading" style="color:#330B41;font-family:'Spongeboy Me Bob'"&gt;Get in touch with us&lt;span&gt;&lt;/span&gt;&lt;/h4&gt;
+                        &lt;ul style="list-style-type:none;"&gt;
+                            &lt;li&gt;
+                                &lt;label&gt;&lt;strong&gt;Email : &lt;/strong&gt;&lt;/label&gt;
+                                &lt;p&gt;
+                                    &lt;a href="mailto:preeti@indiabobbles.com"&gt;preeti@indiabobbles.com&lt;/a&gt;
+                                &lt;/p&gt;
+                                &lt;p&gt;
+                                    &lt;a href="mailto:rajkiran@indiabobbles.com"&gt;rajkiran@indiabobbles.com&lt;/a&gt;
+                                &lt;/p&gt;
+                            &lt;/li&gt;
+                            &lt;li&gt;
+                                &lt;label&gt;&lt;strong&gt;Adress : &lt;/strong&gt;&lt;/label&gt;
+                                &lt;address&gt;
+                                    Flat 25&lt;br&gt;
+                                    MIG, Pink Apartment&lt;br&gt;
+                                    Sector 18B, Dwarka&lt;br&gt;
+                                    New Delhi 110075&lt;br&gt;
+                                    India
+                                &lt;/address&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                        &lt;div class="widget"&gt;
+                            &lt;h4 class="rheading" style="color:#330B41;font-family:'Spongeboy Me Bob'"&gt;Find us on social networks&lt;span&gt;&lt;/span&gt;&lt;/h4&gt;
+                            &lt;ul class="social-links" style="list-style-type:none;"&gt;
+                                &lt;li&gt;
+                                    &lt;a href="https://www.twitter.com/IndiaBobbles" title="Twitter" target="_blank"&gt;
+                                        &lt;i class="fa fa-twitter fa-2x" aria-hidden="true" style="color:#00ACED;"&gt;&lt;/i&gt;
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                &lt;li&gt;
+                                    &lt;a href="https://www.facebook.com/IndiaBobbles" title="Facebook" target="_blank"&gt;
+                                        &lt;i class="fa fa-facebook fa-2x" aria-hidden="true"&gt;&lt;/i&gt;
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                                &lt;li&gt;
+                                    &lt;a href="https://www.instagram.com/india_bobbles/" title="Instagram" target="_blank"&gt;
+                                        &lt;i class="fa fa-instagram fa-2x" aria-hidden="true"&gt;&lt;/i&gt;
+                                    &lt;/a&gt;
+                                &lt;/li&gt;
+                            &lt;/ul&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/aside&gt;
+            &lt;/div&gt;
+            &lt;div class="col-sm-8"&gt;
+                &lt;div class="map-container"&gt;
+                    &lt;iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Pink+Apartments,+Sector+18,+Dwarka,+New+Delhi,+Delhi,+India&amp;amp;aq=0&amp;amp;oq=India,+new+delhi,+dwarka,+sector+18B,+pink&amp;amp;sll=37.0625,-95.677068&amp;amp;sspn=42.224734,86.572266&amp;amp;t=h&amp;amp;ie=UTF8&amp;amp;hq=Pink+Apartments,&amp;amp;hnear=Sector+18,+Sector+18B+Dwarka,+Kakrola,+New+Delhi,+South+West+Delhi,+Delhi,+India&amp;amp;ll=28.586104,77.029974&amp;amp;spn=0.006295,0.010743&amp;amp;output=embed" style="width:100%;"&gt;&lt;/iframe&gt;&lt;br&gt;&lt;small&gt;&lt;a href="https://maps.google.com/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Pink+Apartments,+Sector+18,+Dwarka,+New+Delhi,+Delhi,+India&amp;amp;aq=0&amp;amp;oq=India,+new+delhi,+dwarka,+sector+18B,+pink&amp;amp;sll=37.0625,-95.677068&amp;amp;sspn=42.224734,86.572266&amp;amp;t=h&amp;amp;ie=UTF8&amp;amp;hq=Pink+Apartments,&amp;amp;hnear=Sector+18,+Sector+18B+Dwarka,+Kakrola,+New+Delhi,+South+West+Delhi,+Delhi,+India&amp;amp;ll=28.586104,77.029974&amp;amp;spn=0.006295,0.010743" style="color:#0000FF;text-align:left; min-height:500px;"&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;
+                &lt;/div&gt;
+                &lt;div id="contactResult"&gt;&lt;/div&gt;
+                &lt;form id="contactform" method="post" class="contact-form" name="contact-form" action="http://www.indiabobbles.com/handlers/contact.ashx"&gt;
+                    &lt;div class="form-group col-sm-6"&gt;
+                        &lt;input type="text" class="form-control" placeholder="Your name" name="name"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="form-group col-sm-6"&gt;
+                        &lt;input type="email" class="form-control" placeholder="Your email" name="email"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="form-group col-sm-6"&gt;
+                        
+                        &lt;input type="url" class="form-control" placeholder="Your website" name="website"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="form-group col-sm-6"&gt;
+                        &lt;input type="text" class="form-control" placeholder="Your phone" name="phone"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="form-group col-sm-6"&gt;
+                        &lt;input type="text" class="form-control" placeholder="Your Purpose" name="purpose" maxlength="200"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="col-sm-12"&gt;
+                        &lt;textarea rows="9" class="form-control" placeholder="Your message" name="message"&gt;&lt;/textarea&gt;
+                        &lt;button class="btn btn-theme" type="button" onclick="contactFormSubmit()" style="background-color:#330B41;color:white;margin-top:30px;"&gt;
+                            Send a message
+                        &lt;/button&gt;
+                    &lt;/div&gt;
+                &lt;/form&gt;
+                &lt;script type="text/javascript"&gt;
+                    function contactFormSubmit() {
+                        $.ajax({
+                            type: $("#contactform").attr("method"),
+                            url: $("#contactform").attr("action"),
+                            data: $("#contactform").serialize(),
+                            success: function (data) {
+                                if (data.status == "success") {
+                                    $("#contactResult").html("&lt;div class='alert alert-success'&gt;" + data.message + "&lt;/div&gt;");
+                                } else {
+                                    $("#contactResult").html("&lt;div class='alert alert-danger'&gt;" + data.message + "&lt;/div&gt;");
+                                }
+                            },
+                            dataType: "json"
+                        });
+                    }
+                &lt;/script&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Body>
+  <DateModified>2017-08-05T05:01:08.3449649-07:00</DateModified>
+  <Head />
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="Please contact us at preeti@indiabobbles.com for your order related enquiries or any other purpose. We are here to serve you. We guarantee your satisfaction."/&gt;
+
+&lt;meta name ="Keywords" Content="contact us"/&gt;</PageMeta>
+</CPage>

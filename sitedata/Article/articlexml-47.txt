@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>11 Start-up Lessons that Need to be Applied to Your Love Life, Now!</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-Work.jpg</OGImage>
+  <OGDescription>These lessons will...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Valentines' Day, India Bobbles, Start-Ups, Entrepreneurship, Love-lessons, Start-up lessons, Love, Life.</Tag>
+  <Status>Publish</Status>
+  <Description>Love and business are no different. It's just that...</Description>
+  <Text>&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/love-startup.jpg" alt="Love at heart Start-up in Mind" title="Love at heart Start-up in Mind"&gt;
+&lt;h5&gt;
+We are often told not to bring work home. Justly! The time is supposed to be spent with family but let me tell you, work and love life are exactly the same when it comes to defining your approach towards them. Don't believe us? Read on to discover these eleven love lessons you learn from running a start-up. I did! 
+&lt;/h5&gt;
+&lt;hr&gt;
+&lt;h2&gt;1. You Gotta Work on it, every day!&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt;You send emails, you make calls, you follow up with prospects, you organize and be part of events, you finish daily tasks and get things done to grow your business bigger than ever; Love needs similar work! A romantic move, a caring gesture, that random kiss at every chance possible; yes the lover in you always needs that. &lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;2. There is No such thing as Perfection. You Gotta Work Out What's Best for You!&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt;
+Facebook marketing does not work for you but internet marketing, on the whole, gives you results. Just the right balance of You-tube, Facebook, and Ad-words marketing works best for your kind of product. Similarly, in case you love mornings and your spouse is a late-riser. Do not stress over making your day perfect by nagging your better half to wake up early or stay up all night for the other. Strike the right balance of what you both might like to do and what you should, for each other and the household and there it is...Perfection! Sorta!
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;3. Dreams vs Reality&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt;We all dream to be billionaires with that one idea we have been nurturing for years. That's what drives us. The dream of the perfect life with loads of money and the love of our dream person. It'll all come true one day and...Poof! Its all very passionate and lovey-dovey in the beginning but just like a business needs to go beyond the idea-validation period and be accepted by customers for a long-long time, love sparks also die off soon and sometimes do not even go beyond the honeymoon period. In both cases, what comes after that period is REAL! Can you handle REAL?   
+
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-vs-Money.jpg" alt="Love/Money" title"Love and Money"&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;4. Nothing is Permanent&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt; Suddenly the online sales have gone down. It was only last month that we were flooded with orders. What happened? He used to be such a passionate kisser earlier. What happened? Well, the sales went up because of the continuous "GOSF" TV ads of the big fishes and it is off-season now. And his passion seems to drop coz he is too busy worrying about buying that dream house of yours. Learn to cope and spice it up even in the off-season days ;)    
+
+&lt;hr&gt;
+&lt;h2&gt;5. Money Matters&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt;
+Capital money is crucial. It decides how big your business can become, it decides how well you can brand and market your product and it decides how long you can stay in the market without profits or breakeven. Similarly, "&lt;i&gt;Pyar se zindagi nahin chalti, ise chalane ke liye paisa chahiye paisa...",&lt;/i&gt;money issues can turn out to be the worst spoilers in marriage and live in relationships. Don't waste it. Save, for the bad days. 
+
+&lt;hr&gt;
+&lt;h2&gt;6. Be Nice&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt;Nobody likes a nasty boss or co-worker, no matter how important or urgent a task is, a great leader will always get it done politely (Even if it requires you to curb your anger). Likewise, no matter how well you know your spouse and vice-versa, filthy vocabulary will only earn you disrespect and bottled-up anger. Remember, criticism works but treat your better half with love and see what magic it brings to both your moods. You wouldn't even remember there was a problem in the first place! I speaketh from experience, my friend ;) 
+&lt;/h5&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-Work.jpg" alt="Work-Love balance" title="Work-Life Balance"&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;7. Celebrate&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt; Yes you want to be a billionaire, yes you want to own all your favorite things and yes you want to conquer the world. And all of that will happen, but, one by one. So celebrate each and every lil achievement of your life including personal ones :) Stressing over perfection and waiting to celebrate after you have achieved everything you wanted will only spoil the journey. And it is the journey that matters, destinations come one after another. 
+
+&lt;hr&gt;
+&lt;h2&gt;8. Be Remarkable! &lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt;Heard of the phrase 'Re-inventing the wheel', right? It means to waste time and energy on creating something that already exists. Just like you thought of that amazing product idea that nobody else did earlier, why waste time in doing things that other couples in love do? Enough with the flowers and diamonds. Love like no one could do it like you. Make breakfast in bed for your wife and you, girl, drive him for a surprise trip and run away like elopers. Make love in the middle of the night on the terrace may be or in the rain, in the morning. You get the drift. ;)
+&lt;/h5&gt;
+&lt;hr&gt;
+&lt;h2&gt;9. Patience is Key&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt; Just like every great business takes a while to set-up, grow and flourish, a good relationship demands a lot of 'being there'. Human beings are complicated and figuring one out and living with one to find out how you both would like to spend the rest of your lives takes tolerance. A crazy quarreling couple might just turn out to be the perfect one over the years, you know why? Because they realized they are ultimately humans and, found out what makes the other boil up and they steadily began to avoid those situations or let's say what makes the other person happy and they steadily began to create those situations. You just need to be willing, that's all. 
+
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Product-vs-Marketing.png" alt="Technology vs Marketing" title="Product vs Marketing"&gt;
+&lt;hr&gt;
+&lt;h2&gt;10. Forgiveness&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt; You made a huge mistake of spending half of your capital money on pre-production (branding, identity creation, and other design and technology stuff) and now you are left with no choice but to either create a cheap, low-quality product or stick with quality and have no funds left to market your amazing product later. This sucks! But forgiving yourself in time and adopting a new strategy or just working on a completely different idea altogether would be the right move to make. Holding grudges on petty arguments and name calling will only make things worse for your love. Forgive, forget and sleep together happy. Start the new day like nothing ever happened. Try! It works! 
+&lt;hr&gt;
+&lt;h2&gt;11. Just Love! &lt;/h2&gt;
+&lt;hr&gt;
+&lt;h5&gt; You created it. It's your baby! You love it for no reason. Whether the market accepts it or rejects it altogether. You still try and make it work. Make changes, improve packaging, market differently and what not? Because it was your idea. You won't abandon it, not until it just cannot work anymore. Love is the same. You made a choice, now you gotta stick with it, no matter what. At least try and make it work for the sake of your own decision and the reason you fell in love in the first place!
+&lt;/h5&gt;
+&lt;h4&gt; Do you think these tips make sense? Do you have any love advice that came out of your garage workstation? Tell us in the comments below :) ;)&lt;/h4&gt;
+
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Preeti Singh Chauhan</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>11-start-up-lessons-that-need-to-be-applied-to-your-love-life-now</URL>
+  <Sitemap>true</Sitemap>
+</Article>

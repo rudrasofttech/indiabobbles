@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>34</ID>
+  <Name>india-bobbles-fun-with-photoplasty/index</Name>
+  <Title>Gags of India Bobbles with Photoplasty</Title>
+  <DateCreated>2016-08-13T23:46:01.237</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;section id="header"&gt;
+        &lt;div class="container"&gt;
+            &lt;h1 class="cultindian"&gt;Gags&lt;/h1&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id="bobble-list"&gt;
+        &lt;div class="container"&gt;
+            &lt;datasource name="GagsDataSource" /&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;</Body>
+  <DateModified>2017-02-10T03:48:28.463162-07:00</DateModified>
+  <Head>&lt;style&gt;
+        body{
+            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+        }
+ &lt;/style&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="Choose the best collection of India Bobbles Gags with many celebrities photos with funny and inspirational things in it. Place your order now to get latest designs."/&gt;
+
+
+&lt;meta name ="Keywords" Content="gags with photoplasty, India Bobbles gags"/&gt;</PageMeta>
+</CPage>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Who Gives a Shit, Eh?</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Bhagat-Sambhar-Facebook.jpg</OGImage>
+  <OGDescription>Who gives a shit about the Sarkaar, eh? Somebody...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Daku Sambhar, Bhagat Singh, India, Elections, Government.</Tag>
+  <Status>Publish</Status>
+  <Description>Who gives a shit about the Sarkaar, eh? Somebody...</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Bhagat-Sambhar-Facebook.jpg" alt="Daku Sambhar vs Bhagat Singh" title="Daku Sambhar Bobble Head and Bhagat Singh Figurine discuss the government" &gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/bollywood-vs-hollywood" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/bhagat-is-coming-back" &gt;Next&lt;/a&gt;
+
+&lt;h4 class="align center"&gt;Who gives a shit about the Sarkaar, eh? Somebody Does...&lt;/h4&gt;
+
+&lt;br&gt;
+
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Fun at IB</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>gags/who-gives-a-shit-about-the-sarkaar</URL>
+  <Sitemap>true</Sitemap>
+</Article>

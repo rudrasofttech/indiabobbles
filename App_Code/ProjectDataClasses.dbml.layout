@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.75, 14.375" name="IndiaBobblesDataClasses">
+  <DataContextMoniker Name="/IndiaBobblesDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8dac128f-382d-48de-bb1b-f4d8293b17b5" absoluteBounds="0.75, 1.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1bf162a1-5585-48f6-aa63-2871ebadb1c9" absoluteBounds="0.765, 2.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51164496-ac07-43a0-8e92-54ba58a1a01b" absoluteBounds="6.25, 2.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/TopStory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4d9521d-7cf5-4274-be1b-6f1936f3024f" absoluteBounds="6.265, 2.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.45552987154447 : 3.39589680989583); (1.45552987154447 : 3.64589680989583); (2.05849251552484 : 3.64589680989583); (2.05849251552484 : 3.39589680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Category/Category_Category" />
+      <nodes>
+        <classShapeMoniker Id="8dac128f-382d-48de-bb1b-f4d8293b17b5" />
+        <classShapeMoniker Id="8dac128f-382d-48de-bb1b-f4d8293b17b5" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="584cc44a-2a08-454f-8f5b-1909874baca1" absoluteBounds="9, 0.625, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/EmailMessage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c45071df-0a0d-4c76-ab37-e858afad8fd1" absoluteBounds="9.015, 1.0850000000000009, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="320457fe-c4de-41b5-b577-4505c5fbe393" absoluteBounds="3.625, 5.375, 2, 5.0400211588541648">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/Member" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28df2bb1-4e58-4225-8590-3b066fe34ac4" absoluteBounds="3.64, 5.835, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.625 : 5.65625); (6.59375 : 5.65625); (6.59375 : 3.95359537760417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_TopStory" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="51164496-ac07-43a0-8e92-54ba58a1a01b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.33423076923077 : 10.4150211588542); (4.33423076923077 : 10.6650211588542); (4.92961538461539 : 10.6650211588542); (4.92961538461539 : 10.4150211588542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_Member" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="4b5dd7c8-dd49-4f32-a810-70a12642663e" absoluteBounds="6.25, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/WebsiteSetting" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c98fbed-ae29-4fa8-ab41-8e24319a940d" absoluteBounds="6.265, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a69b2bdb-59b1-4af7-b154-643fa3eb0b3b" absoluteBounds="3.625, 0.75, 2, 4.2708154296875">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/Post" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3859f1b7-fd57-400a-b522-e872942d201e" absoluteBounds="3.6399999999999997, 1.21, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.625 : 3.08742390950521); (6.25 : 3.08742390950521)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Post/Post_TopStory" />
+      <nodes>
+        <classShapeMoniker Id="a69b2bdb-59b1-4af7-b154-643fa3eb0b3b" />
+        <classShapeMoniker Id="51164496-ac07-43a0-8e92-54ba58a1a01b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.51044840494792); (3.625 : 2.51044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Category/Category_Post" />
+      <nodes>
+        <classShapeMoniker Id="8dac128f-382d-48de-bb1b-f4d8293b17b5" />
+        <classShapeMoniker Id="a69b2bdb-59b1-4af7-b154-643fa3eb0b3b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.625 : 5.375); (4.625 : 5.0208154296875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_Post" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="a69b2bdb-59b1-4af7-b154-643fa3eb0b3b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.1875 : 5.375); (5.1875 : 5.0208154296875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_Post1" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="a69b2bdb-59b1-4af7-b154-643fa3eb0b3b" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="2b2406ca-2142-4a76-bca7-0c60e8526e19" absoluteBounds="0.5, 6.25, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/CustomPage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="25b42fc7-0e26-478c-8ad2-2b364acf7f23" absoluteBounds="0.51499999999999968, 6.7100000000000009, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 7.52005126953125); (2.5 : 7.52005126953125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_CustomPage" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="2b2406ca-2142-4a76-bca7-0c60e8526e19" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.625 : 6.82252563476563); (2.5 : 6.82252563476563)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_CustomPage1" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="2b2406ca-2142-4a76-bca7-0c60e8526e19" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="9e3081a2-79d8-45be-98e0-98cfbd1e067a" absoluteBounds="0.5, 9.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/CustomDataSource" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ef70b935-3a33-43ea-ab56-60d9561cfb65" absoluteBounds="0.51499999999999968, 9.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 9.83251057942708); (2.5 : 9.83251057942708)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_CustomDataSource" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="9e3081a2-79d8-45be-98e0-98cfbd1e067a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.625 : 9.47875528971354); (2.5 : 9.47875528971354)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_CustomDataSource1" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="9e3081a2-79d8-45be-98e0-98cfbd1e067a" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="7e0a08b1-3b88-4157-883f-72771a53b679" absoluteBounds="10.5, 6, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/OrderItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6e67855-4afc-427b-be6f-8e0704d294d4" absoluteBounds="10.515, 6.4600000000000009, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fb9f5335-cd24-4912-bf47-41ec8a49c7e4" absoluteBounds="7, 6, 2, 7.7322412109375005">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="23b3e430-1c15-45af-a9d7-b7ae75a543fe" absoluteBounds="7.015, 6.46, 1.9700000000000002, 7.1722412109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9 : 7.17390055338542); (10.5 : 7.17390055338542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Order/Order_OrderItem" />
+      <nodes>
+        <classShapeMoniker Id="fb9f5335-cd24-4912-bf47-41ec8a49c7e4" />
+        <classShapeMoniker Id="7e0a08b1-3b88-4157-883f-72771a53b679" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.625 : 8.20751057942708); (7 : 8.20751057942708)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/IndiaBobblesDataClassesDataContext/Member/Member_Order" />
+      <nodes>
+        <classShapeMoniker Id="320457fe-c4de-41b5-b577-4505c5fbe393" />
+        <classShapeMoniker Id="fb9f5335-cd24-4912-bf47-41ec8a49c7e4" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="ffcce4b0-bc84-47cb-8d8c-06ddcd4d31f8" absoluteBounds="3.75, 12.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/IndiaBobblesDataClassesDataContext/CouponCode" />
+      <nestedChildShapes>
+        <elementListCompartment Id="279b340f-314e-4df1-939c-0aae66be823d" absoluteBounds="3.765, 12.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

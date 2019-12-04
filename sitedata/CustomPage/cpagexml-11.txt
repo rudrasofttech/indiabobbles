@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>11</ID>
+  <Name>android-figurine</Name>
+  <Title>Buy 3D Android Figurine Online - India Bobbles</Title>
+  <DateCreated>2013-12-03T20:12:19.483</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+        &lt;h1 class="bobbleheadname"&gt;Android Figurine&lt;/h1&gt;
+        &lt;div class="row productpagerow"&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Android%20Figurine%201.JPG" alt="" class="img-responsive" /&gt;
+                &lt;h5&gt;&lt;b&gt;Gallery&lt;/b&gt;&lt;/h5&gt;
+                &lt;ul class="gallery"&gt;
+                    &lt;li class="gallerycolumn"&gt;
+                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1.JPG" class="thumb" rel="group1"&gt;
+                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1-thumb.JPG"&gt;
+                        &lt;/a&gt;
+
+                    &lt;/li&gt;
+                    &lt;li class="gallerycolumn"&gt;
+                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad2.JPG" class="thumb" rel="group1"&gt;
+                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1-thumb.JPG"&gt;
+                        &lt;/a&gt;
+
+                    &lt;/li&gt;
+                    &lt;li class="gallerycolumn"&gt;
+                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad3.JPG" class="thumb" rel="group1"&gt;
+                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad3-thumb.JPG"&gt;
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class="col-sm-8 productdescription" style="background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/androidsketch.jpg);"&gt;
+                &lt;div class="subcontainer"&gt;
+                    &lt;p class="productcontent"&gt;
+                        &lt;br /&gt;
+                        For all you Android OS fans out there, imagine owning a piece of an
+                        Operating System that is not smartphone. This oh-so-cute and deliciously detailed,
+                        Android figurine can light up your day.
+                    &lt;/p&gt;
+                    &lt;p class="productcontent"&gt;
+                        This poly resin material, 4 inch Figurine of the world famous mobile platform mascot looks alive
+                        and vibrant and the classic green hue is a great geeky collector’s must-have. He’s tiny but stands proud and smiles wide.
+                    &lt;/p&gt;
+                    &lt;p class="productcontent"&gt;
+                        Place it any where you like and every time you look at him you will be reminded that how the droid changed the way you geek”ed”.
+                        Add him to your existing collection or start off on a collecting spree with this delightful green midget.
+                    &lt;/p&gt;
+                    &lt;h5&gt;&lt;b&gt;Note:&lt;/b&gt;&lt;/h5&gt;
+                    &lt;ul&gt;
+                        &lt;li class="productcontentli"&gt;&lt;i&gt;This collectible 3D figurine is inspired by the Android Robot.&lt;/i&gt;&lt;/li&gt;
+                        &lt;li class="productcontentli"&gt;&lt;i&gt;Each India Bobbles' product is hand crafted and painted to perfection. May vary from product graphics.&lt;/i&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;br /&gt;
+                    &lt;p class="productcontent"&gt;&lt;b&gt;This collectible is out of stock now and wont be available.&lt;/b&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row newslettersection" style="text-align:center;"&gt;
+
+            &lt;div class="col-sm-4"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-truck" aria-hidden="true"&gt;&lt;/i&gt;
+                    FREE SHIPPING
+                &lt;/h2&gt;
+
+            &lt;/div&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-gift" aria-hidden="true"&gt;&lt;/i&gt;
+                    SALE
+                &lt;/h2&gt;
+                &lt;!-- Modal --&gt;
+                &lt;div id="myModal" class="modal fade" role="dialog"&gt;
+                    &lt;div class="modal-dialog"&gt;
+                        &lt;!-- Modal content--&gt;
+                        &lt;div class="modal-content"&gt;
+                            &lt;div class="modal-header" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg)"&gt;
+                                &lt;h2 class="modal-title" style="font-family:'Spongeboy Me Bob';color:#330B41;"&gt;Subscribe &amp; Get &lt;span style="color:#fa9b03;"&gt; Rs.100&lt;/span&gt; Off&lt;/h2&gt;
+                            &lt;/div&gt;
+                            &lt;div class="modal-body" style="background-color:#330B41;"&gt;
+                                &lt;form class="form-horizontal" role="form"&gt;
+                                    &lt;div class="form-group"&gt;
+                                        &lt;label class="col-sm-2 control-label"
+                                               for="inputEmail3" style="color:white"&gt;Email&lt;/label&gt;
+                                        &lt;div class="col-sm-10"&gt;
+                                            &lt;input type="email" class="form-control"
+                                                   id="inputEmail3" placeholder="Email" /&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="form-group"&gt;
+                                        &lt;label class="col-sm-2 control-label"
+                                               for="inputPassword3" style="color:white"&gt;Password&lt;/label&gt;
+                                        &lt;div class="col-sm-10"&gt;
+                                            &lt;input type="password" class="form-control"
+                                                   id="inputPassword3" placeholder="Password" /&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="form-group"&gt;
+                                        &lt;div class="col-sm-offset-2 col-sm-10"&gt;
+                                            &lt;div class="checkbox"&gt;
+                                                &lt;label style="color:white"&gt;
+                                                    &lt;input type="checkbox" /&gt; &lt;b&gt;You are allowing us to send you india bobbles product related emails.&lt;/b&gt;
+                                                &lt;/label&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="form-group"&gt;
+                                        &lt;div class="col-sm-offset-2 col-sm-10"&gt;
+                                            &lt;button type="submit" class="btn btn-defaul"&gt;Subscribe&lt;/button&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                &lt;/form&gt;
+
+                            &lt;/div&gt;
+                            &lt;div class="modal-footer" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg)"&gt;
+                                &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;Close&lt;/button&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-money" aria-hidden="true"&gt;&lt;/i&gt;
+                    FULL REFUND
+                &lt;/h2&gt;
+
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="col-sm-12"&gt;
+                &lt;datasource name="ShareDataSource" /&gt;
+                &lt;datasource name="DisqusDataSource" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;script type="text/javascript"&gt;
+        function doWorkAfterLoading() {
+            $(".thumb").modalbox({
+                Type: 'image'
+            });
+        }
+
+        $(document).ready(doWorkAfterLoading);
+    &lt;/script&gt;</Body>
+  <DateModified>2017-02-10T03:41:36.0689714-07:00</DateModified>
+  <Head>&lt;meta name="description" content="" /&gt;
+&lt;meta property="og:type" content="article" /&gt;
+&lt;meta property="og:url" content="http://www.indiabobbles.com/android-figurine" /&gt;
+&lt;meta property="og:site_name" content="IndiaBobbles" /&gt;
+&lt;meta property="og:title" content="Buy Android Figurine Online" /&gt;
+&lt;meta property="og:description" content="" /&gt;
+&lt;meta property="og:image" content="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Android Figurine 1.JPG" /&gt;
+&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal.css" rel="Stylesheet" /&gt;
+&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal-darktheme.css" id="modaltheme"
+    rel="Stylesheet" /&gt;
+&lt;script src="http://www.rudrasofttech.com/js-tools/modal/modal.js" type="text/javascript"&gt;&lt;/script&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="If you are big fans of android like as green robot figurines. Buy online android robot figurine with an affordable price. Get free shipping on all India Bobble products."/&gt;
+
+
+&lt;meta name ="Keywords" Content="3D figurine, android robot, android figurine Online"/&gt;</PageMeta>
+</CPage>

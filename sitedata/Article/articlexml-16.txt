@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>He Had a Dream Too...</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Kalaam-Saab-Quote.jpg</OGImage>
+  <OGDescription>When Kalaam Saab...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Dr APJ Abdul Kalam, Dr. Kalaam Bobble Head, Dr. Kalaam Quotes. Dreams, Conviction.</Tag>
+  <Status>Publish</Status>
+  <Description>Dreams and...</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Kalaam-Saab-Quote.jpg" alt="Dreams and Dr. Kalaam Saab" title="Dr. APJ Abdul Kalaam on Conviction"&gt;
+
+&lt;br&gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/plight-of-the-indian-avengers" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/they-say-things-are-going-worse-kejriwaal-says-no-you-just-started-noticing" &gt;Next&lt;/a&gt;
+
+&lt;h4 class="align center"&gt;Dreams, Conviction and Kalaam Saab&lt;/h4&gt;
+
+&lt;br&gt;
+
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>kalaam-saab-had-a-dream-too</URL>
+  <Sitemap>true</Sitemap>
+</Article>

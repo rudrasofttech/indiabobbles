@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>When the Daku went Pooping</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Daku-Went-Pooping.jpg</OGImage>
+  <OGDescription>When the Daku said...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Daku Sambhar Singh Bobble Head, India Bobbles, Gabbar SIngh, Sholay, Bollywood Memorabilia, Bollywood.</Tag>
+  <Status>Publish</Status>
+  <Description>The Daku's day began like this...</Description>
+  <Text>&lt;div class="purplebox" style="text-align:center;"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Daku-Went-Pooping.jpg" alt="When the Daku said Gud Morning" title="The Daku's day begins like this"&gt;
+
+&lt;br&gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/the-pride-of-india-dr-kalaam-turns-83" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/grab-the-dr-kalaam-bobble-head-collectible-now" &gt;Next&lt;/a&gt; 
+&lt;H4 class="align center"&gt;Kya apke toothpaste me namak hai?&lt;/h4&gt;
+&lt;br&gt;
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>when-the-daku-went-pooping</URL>
+  <Sitemap>true</Sitemap>
+</Article>

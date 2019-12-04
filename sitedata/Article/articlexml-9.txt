@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Yes who?</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Badass.jpg</OGImage>
+  <OGDescription>Bollywood vs Hollywood.</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Badass Villains, Joker, Daku Sambhar, Bollywood vs Hollywood.</Tag>
+  <Status>Inactive</Status>
+  <Description>Bollywood vs Hollywood.</Description>
+  <Text>&lt;img src="http://www.indiabobbles.com/drive/Gags/Badass.jpg" title="Badass Villains of Hollywood and Bollywood" alt="Joker vs Sambhar"&gt;
+
+&lt;h2&gt;Bollywood vs Hollywood. &lt;/h2&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Fun at IB</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>gags/yes-who</URL>
+  <Sitemap>true</Sitemap>
+</Article>

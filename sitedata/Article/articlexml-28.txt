@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Comic vs Real Colors</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Avengers-vs-Nagraj-Doga-and-Dhruv/Doga-Mold.jpg</OGImage>
+  <OGDescription>Comic colors are all nice and good but real?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>2</Category>
+  <Tag>Comics</Tag>
+  <Status>Draft</Status>
+  <Description>Real? No?</Description>
+  <Text>&lt;p&gt;
+&lt;/p&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>comic-vs-real-colors</URL>
+  <Sitemap>true</Sitemap>
+</Article>

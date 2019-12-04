@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>29</ID>
+  <Name>nazarbattu-bobblehead</Name>
+  <Title>Nazarbattu Bobblehead - India Bobbles</Title>
+  <DateCreated>2016-04-01T01:56:55.757</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+        &lt;h1 class="bobbleheadname"&gt;Nazarbattu Bobblehead&lt;/h1&gt;
+        &lt;div class="row productpagerow"&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/nazabattu-c.png" alt="" class="img-responsive" /&gt;
+                &lt;h5&gt;&lt;b&gt;Gallery&lt;/b&gt;&lt;/h5&gt;
+                &lt;ul class="gallery"&gt;
+                    &lt;li class="gallerycolumn"&gt;
+                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/Nazarbattu-front.jpg" class="thumb" rel="group1"&gt;
+                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/Nazarbattu-front-thumb.jpg"&gt;
+                        &lt;/a&gt;
+
+                    &lt;/li&gt;
+                    &lt;li class="gallerycolumn"&gt;
+                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/Nazarbattu-Side.jpg" class="thumb" rel="group1"&gt;
+                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/Nazarbattu-Side-thumb.jpg"&gt;
+                        &lt;/a&gt;
+
+                    &lt;/li&gt;
+                    &lt;li class="gallerycolumn"&gt;
+                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/Nazarbattu-back.jpg" class="thumb" rel="group1"&gt;
+                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/Nazarbattu-back-thumb.jpg"&gt;
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class="col-sm-8 productdescription" style="background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/nazarbattusketch.jpg);"&gt;
+                &lt;div class="subcontainer"&gt;
+                    &lt;p class="productcontent"&gt;
+                        Meet NazarBattu a super hero with magical powers to ward off any evil eye prying on hapless people.
+                        We bet no negative energy can bypass the cuteness of our nazarbattu.
+                    &lt;/p&gt;
+                    &lt;h5&gt;&lt;b&gt;Note:&lt;/b&gt;&lt;/h5&gt;
+                    &lt;ul&gt;
+                        &lt;li class="productcontentli"&gt;&lt;i&gt;This collectible is conceptually based on fictitious beliefs, we do not promote or support superstition.&lt;/i&gt;&lt;/li&gt;
+                        &lt;li class="productcontentli"&gt;&lt;i&gt;Each India Bobbles' product is hand crafted and painted to perfection. May vary from product graphics.&lt;/i&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;br /&gt;
+                    &lt;table class="table table-bordered "&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;&lt;b&gt;Price&lt;/b&gt;&lt;/td&gt;
+                            &lt;td&gt;&lt;b&gt;2000 INR&lt;/b&gt; &lt;datasource name="CollectibleSubscribeDataSource" /&gt;&lt;button onclick="$('#collectiblesubscribe').click();" class='btn btn-info pull-right'&gt;Get 200Rs Off Now&lt;/button&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                            &lt;td&gt;&lt;b&gt;Height&lt;/b&gt;&lt;/td&gt;
+                            &lt;td&gt;&lt;b&gt;6"&lt;/b&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+                    &lt;h5&gt;&lt;b&gt;Quantity&lt;/b&gt;&lt;/h5&gt;
+                    &lt;select id="quantitysl" class="selectpicker col-sm-2"&gt;
+                        &lt;option&gt;1&lt;/option&gt;
+                        &lt;option&gt;2&lt;/option&gt;
+                        
+                    &lt;/select&gt;
+                    &lt;br /&gt;
+                    &lt;br /&gt;
+                    &lt;button type="button" id="buynowbtn" class="btn btn-primary cartbutton"&gt;Add to Cart&lt;/button&gt;
+                    &lt;script&gt;
+                        $("#buynowbtn").click(function () {
+                            addItemToCart('http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/Nazarbattu-front.jpg',
+                                'Nazarbattu Bobble head',
+                                'IBNBBH',
+                                $('#quantitysl').val(),
+                                2000,
+                                function (data) {
+                                     window.location.href = "http://www.indiabobbles.com/cart/cart.aspx";
+                                },
+                                    function (data) { alert("Unable to add item to cart."); })
+                        });
+                    &lt;/script&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row newslettersection" style="text-align:center;"&gt;
+
+            &lt;div class="col-sm-4"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-truck" aria-hidden="true"&gt;&lt;/i&gt;
+                    FREE SHIPPING
+                &lt;/h2&gt;
+
+            &lt;/div&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;a href="javascript:$('#collectiblesubscribe').click();"&gt;&lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-gift" aria-hidden="true"&gt;&lt;/i&gt;
+                    SALE
+                &lt;/h2&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+            &lt;div class="col-sm-4"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                    &lt;i class="fa fa-money" aria-hidden="true"&gt;&lt;/i&gt;
+                    FULL REFUND
+                &lt;/h2&gt;
+
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="col-sm-12"&gt;
+                &lt;datasource name="ShareDataSource" /&gt;
+                &lt;datasource name="DisqusDataSource" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;script type="text/javascript"&gt;
+        function doWorkAfterLoading() {
+            $(".thumb").modalbox({
+                Type: 'image'
+            });
+        }
+
+        $(document).ready(doWorkAfterLoading);
+    &lt;/script&gt;</Body>
+  <DateModified>2018-08-17T22:25:57.0871545-07:00</DateModified>
+  <Head>&lt;meta property="og:type" content="article" /&gt;
+&lt;meta property="og:url" content="http://www.indiabobbles.com/nazarbattu-bobblehead" /&gt;
+&lt;meta property="og:site_name" content="IndiaBobbles" /&gt;
+&lt;meta property="og:title" content="Buy Nazarbattu Bobblehead Figure Online" /&gt;
+&lt;meta property="og:description" content="" /&gt;
+&lt;meta property="og:image" content="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Nazarbattu/Nazarbattu-front.jpg" /&gt;
+&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal.css" rel="Stylesheet" /&gt;
+&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal-darktheme.css" id="modaltheme"
+    rel="Stylesheet" /&gt;
+&lt;script src="http://www.rudrasofttech.com/js-tools/modal/modal.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;script src="http://www.indiabobbles.com/handlers/cart/cart.js" type="text/javascript"&gt;&lt;/script&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="Nazarbattu Bobblehead is the best &amp; the easiest way to protect you &amp; your family from the evil eye. No negative energy can bypass the cuteness of our nazarbattu."/&gt;
+
+&lt;meta name ="Keywords" Content="nazarbattu bobblehead"/&gt;</PageMeta>
+</CPage>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Overwhelming Launch at Comic Con Delhi; Way to Go!</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming Launch at Comic Con Delhi/1.jpg</OGImage>
+  <OGDescription>Overwhelming Launch for India Bobbles. Love all round :) :) :)</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>India Bobbles, Comic Con India, Launch, Thyagaraj Stadium, Bobble Heads, Figurines, Collectibles, Merchandise, New Delhi.</Tag>
+  <Status>Publish</Status>
+  <Description>Cosplayers in their lovely, sometimes scary but creative costumes. Greatest comic personalities and artists from around the country and the world as guests. The best collectible merchandisers from around the country and none other than the fresh and budding breed of comic book publishers from all corners. We couldn't have...</Description>
+  <Text>&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming Launch at Comic Con Delhi/12.jpg" title="India Bobbles at Comic Con India" alt="Comic Con India Bobbles"/&gt;
+ &lt;h5&gt;
+Nervous, excited, unready, India Bobbles (we) reached the Thyagaraj Stadium of New Delhi for the exclusive launch of our first range of miniature collectibles at the mighty Indian Comic Con. Wow! The venue, the energy, what a place to start our journey from. This was what we wanted. Madness all around. 
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming Launch at Comic Con Delhi/Scary.jpg" title="Cosplayers at Comic Con India 2014" alt="Cosplayers at Comic Con"/&gt;
+&lt;h5&gt;
+Cosplayers in their lovely, sometimes scary but creative costumes. Greatest comic personalities from around the world as guests. The best collectible merchandisers from around the country and none other than the fresh and budding breed of comic book publishers from all corners. We couldn't have asked for more!
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming Launch at Comic Con Delhi/35.jpg" title"India Bobbles booth at Comic Con India" alt="India BObbles Comic Con"/&gt;
+&lt;h5&gt;
+We put up our stall, arranged stuff and were getting ready for the display. So scared that every one behind the stalls looked like competitors. But guess what? In that 3 day span at the event, we made friends for life. Actually every one out there was just like us. Trying to do their "thing" in this big-big world. Our immediate neighbors Purple Sack and Bushirt.com were too sweet and encouraging. But the best possible boost were the Save Indian Comics Team.
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming Launch at Comic Con Delhi/1.jpg" title="Save Indian Comics Booth" alt="India Bobbles and Save Indian Comics"/&gt;
+&lt;h5&gt;
+An extremely self motivated team comprising Yashwant, Pradyumndev and Paras, they not only stood there for us all the while but also made friends with us for life. They were not there to sell. They were there for a cause. They volunteered to educate people to save old Indian comics and publications. Although too ironical a cause represented at Comic Con, being part of it was totally worth it. 
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming Launch at Comic Con Delhi/15.jpg" title="Anupam Sinha and Sanjay Gupta with India Bobbles and Save Indian Comics Team" alt="India Bobbles and Save Indian Comics with Anupam Sinha and Sanjay Gupta"/&gt;
+&lt;h5&gt;
+Just the world we'd have wanted and to top that we got to meet in the person The great Anupam Sinha (Creator of Super Commando Dhruv) and Sanjay Gupta (Producer of Raj Comics). What a moment it was. They loved our work and even encouraged to try out some of their characters. :) :)
+&lt;/h5&gt;
+&lt;h5&gt;
+They say Comic Con is coming to Hyderabad and Bangalore as well soon. Well, with the kind of response we received in Delhi and our favorite Daku Sambhar Singh collectible ready for launch soon, we say we're excited already! Love all you lovely people who turned up at our booth and spread the love and enthusiasm that you did! Glance through the amazing experience we had at the event. Go swipe!
+&lt;/h5&gt;
+    &lt;style&gt;
+        .rstslidenavpanel {
+            top: 0px;
+            left: 0px;
+           margin-left: 0px;
+        }
+.rstslideprevbtn {
+border-bottom-left-radius: 0px;
+}
+    &lt;/style&gt;
+    &lt;div class="rst-slides" style="width: 100%; min-height: 400px;"&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/28.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/1.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/11.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/12.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/15.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/20.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/22.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/3.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/30.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/33.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/35.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/36.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/4.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/41.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/55.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/6.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/64.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/68.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/7.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/72.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/75.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/8.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/80.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/86.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/IB-Stall-in-Comic-Con.jpg.jpg" /&gt;
+        &lt;img class="rst-slide" src="http://www.indiabobbles.com/drive/Blog-Photos/Overwhelming%20Launch%20at%20Comic%20Con%20Delhi/scary.jpg" /&gt;
+    &lt;/div&gt;
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Preeti</WriterName>
+  <WriterEmail>preeti.singh@rudrasofttech.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>overwhelming-launch-at-comic-con-delhi-way-to-go</URL>
+  <Sitemap>true</Sitemap>
+</Article>

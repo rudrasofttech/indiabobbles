@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>10 Signs You are a Hard Core Collector</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Golden_Book_of_World_Records_largest-collection-of-currency-notes-ending-with-786.jpg</OGImage>
+  <OGDescription>You find treasure in scrap and are a crazy...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>India Bobbles, Bobble head India, Collecting, Hobbies, Action Figures, Collectibles, Stamp Collecting, Collector.</Tag>
+  <Status>Publish</Status>
+  <Description>You have scrappy issues, have a separate room for your collection and you...</Description>
+  <Text>&lt;h5&gt;
+&lt;i&gt;“Iss kachre ka kya karega? Kabadi ko de de.”&lt;/i&gt; You just heard someone yelling that and you are like &lt;i&gt; "Bandar kya jane adrak ka swaad”.&lt;/i&gt; No wonder, you are the modern day paleontologist who will sneak into every nook and corner of a room just to dig for a collection item. Your friends think you are a hippie or a gypsy, but in reality you are a hard core collector. 
+&lt;/h5&gt;
+&lt;h5&gt;
+We are issuing this as a part of ‘Performance Card’ to those have no clue if they rank at par with the league of hard core collectors. You are a hard core collector if you are subjected to any or all of the below mentioned ‘Syndromes, prejudices and consequences’, that accompany your hobby.   
+&lt;/h5&gt;
+&lt;hr&gt;
+&lt;h2&gt;1. You know all the Antique dealing Shops&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Bollywood-Bazaar.JPG" alt="Bollywood Memorabilia Shop" title="Bollywood Memorabilia Shop in Mumbai"&gt; 
+&lt;h5&gt;
+Your eyes are fixed on the shops and galleries like a hawk. Just like a cyborg, your senses light up as soon as an item of your liking drops by. Inadvertently, you are blamed for picking more dirt than gold.
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;2. You Beg Grandpa/Ma for their Old Collectibles&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Largest-Clock-Collection.jpg" alt="World's Largest Clock Collection" title="World's Largest Clock Collection"&gt; 
+&lt;h5&gt;
+If you have no access to the shops, your elders are like gold mines. From cologne to coins, you barter their stuff at exorbitant services. While they rejoice in wonder of owning the new found control over yourself, you relish in the glory of empty cans, rusted coins and ruffled papers. It’s not Generation Gap, it’s GENERATION Reversal.  
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;3. Your Vacations are meant for Item-Addition&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/travel-souvenirs.jpg" alt="Travel Souvenir Illusion" title="Optical Illusion Travel Souvenir"&gt; 
+&lt;h5&gt;
+You are well traveled and read a lot about places. Ahh… your vacation trips revolve around the idea of grabbing items from exotic locales. From bottle lids to idols, if you like amassing everything that fits your wallet first and then your bag, you are probably a nut case collector.
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;4. You have a Separate room for Your Collection&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Mario-Collector.jpg" alt="Mario Merchandise" title="Greatest Mario Merchandise Collection"&gt; 
+&lt;h5&gt;
+While you sleep on the floor, your collection is sparkling perfect and smiling from the cabinet. If you have a separate room for your collection, while you hang out in the living room, consider it a warning that your marital life would be a little dicey.  No wonder you are still ‘kadka’ in relationships!!!  
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;5. Scrappy Issues: Most of Your fights Occur only because Your mother or spouse called your Collections part of ‘rust’ or ‘Scrap’.&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Vintage-Collectors-Items.jpg" alt="" title=""&gt; 
+&lt;h5&gt;
+If your spouse does not understand if it’s an ash tray or a glass trophy, it’s time to impart some lessons to your relatives… if you have already considered this aspect then you need no introduction as a hard core collector.  
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;6. Half of your Salary is Chunked into Restoration&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Giant-Shoe-Under-Construction.jpg" alt="" title=""&gt; 
+&lt;h5&gt;
+Stupidity has no limits, and so does mastery. If you stash at least half of your income into restoration of collections, you deserve a place in ‘Hall of fame’ of hard core collectors. 
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;7. Your Rag picking Skills are Unassailable&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Extreme-Car-Toy-Collector.jpg" alt="" title=""&gt; 
+&lt;h5&gt;
+People are scared of inviting you to birthdays, parties and gatherings as you are often found looking into their items and toys. You are one of the most suspicious characters loitering around in the alley!!! Nothing to do with your character, it’s just your curiosity that is bringing you the notoriety…  You don’t borrow them. If you are one of those who manage to buy, beg, or steal, you are a hard core collector!!!
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;8. You dream of embarking your own gallery to showcase your collection&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Classic-Car-Woman-Collector.jpg" alt="" title=""&gt; 
+&lt;h5&gt;
+From comics to artifacts, you have a set dream to grow from a nonchalant collector to a hardcore connoisseur of collectible items. Be it a rusty iron sword or shredded comics from World War era, if you dare to earn fame from them too… you are a clear winner in the race of hardcore collectors.
+&lt;/h5&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;10. You have a story to narrate for every collection you own.&lt;/h2&gt;
+&lt;hr&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Hard-Core-Collector/Coin-Collection.jpg" alt="" title=""&gt; 
+&lt;h5&gt;
+Date of publication, year of manufacturing, artists name, country code, numismatic logic and statistics are all researched facts you have worked on.  If your items are carefully labelled just like the samples of an expert botanist or zoologist, you are set to become a ‘Zen’ master among hard core collectors. When you see other collectors with no labels on their items, you can proudly push them over saying, &lt;i&gt;"Tumse na ho paega”&lt;/i&gt;!!!
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>10-signs-you-are-a-hard-core-collector</URL>
+  <Sitemap>true</Sitemap>
+</Article>

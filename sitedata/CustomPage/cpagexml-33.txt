@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>33</ID>
+  <Name>articles/index</Name>
+  <Title>Articles</Title>
+  <DateCreated>2016-08-13T23:21:27.287</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;section id="header"&gt;
+        &lt;div class="container"&gt;
+            &lt;h1 class="cultindian"&gt;Blog&lt;/h1&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id="bobble-list"&gt;
+        &lt;div class="container"&gt;
+            &lt;datasource name="ArticleDataSource" /&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;</Body>
+  <DateModified>2016-08-14T03:50:59.7191977-07:00</DateModified>
+  <Head>&lt;style&gt;
+        body{
+            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+        }
+    &lt;/style&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+</CPage>

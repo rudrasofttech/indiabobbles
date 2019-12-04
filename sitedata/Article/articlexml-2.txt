@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>History and Evolution of the Bobble Head</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/History-Of-Bobble-Head/bobblehead.jpg</OGImage>
+  <OGDescription>The tiny dolls with oversized heads that wobble with the slightest of taps have adorned car dashboards, college dorm rooms and worktables the world over for decades, the slightly askew head wobble combined with a goofy smile on the...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Bobble Heads, Bobble Head History, Tanjore Dolls, Tanjavur Dolls, The Bobble Head Evolution, Traditional Indian Bobble Heads.</Tag>
+  <Status>Publish</Status>
+  <Description>The tiny dolls with oversized heads that wobble with the slightest of taps have adorned car dashboards, college dorm rooms and worktables the world over for decades, the slightly askew head wobble combined with a goofy smile on the...</Description>
+  <Text>&lt;a href="http://www.indiabobbles.com/mahatma-gandhi-bobblehead"&gt;&lt;div style="text-align:center"&gt;&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/History-Of-Bobble-Head/Gandhi-on-shelf.JPG" alt="Mahatma-Gandhi-Bobble-Head"/&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;h5&gt;
+The tiny dolls with over-sized heads that wobble with the slightest of taps have adorned car dashboards, college dorm rooms and worktables the world over for decades, the slightly askew head wobble combined with a goofy smile on the doll’s face working its magic in bringing a silly smile on the face of anyone who looks at them. Known as a Bobble head, wobbler or a nodder , these small figurines have had a colorful cast of celebrities and fictional characters light up its line-up, being the only way to put &lt;a href="http://www.indiabobbles.com/mahatma-gandhi-bobblehead"&gt;Mahatma Gandhi&lt;/a&gt; and Count Dracula on the same pedestal.
+&lt;/h5&gt;
+&lt;h5&gt;
+Countless Indians who remember growing up in the &lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/History-Of-Bobble-Head/Tanjore-Doll.jpg" alt="Tanjore Doll" class="pull-left" style="margin-right: 5px;"/&gt;80s and 90s probably recognize, the origins of the doll is in India.The tiny wobbly head Indian dancer figurine which was all the rage at local melas (back when local melas were the hippest places to go) was a staple at middle class Indian homes. The dancer doll would be usually in a classic dance pose or mudra and the tiniest of taps on her head would make it wobble sideways or in a circular motion, mocking the artful moves of traditional Indian dances. These figurines are the &lt;b&gt;Tanjavur Dolls&lt;/b&gt;, hailing from the Tanjavur district of Tamil Nadu where they are an ancient folk art.
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/History-Of-Bobble-Head/baseball-bobble.jpg" alt="Baseball-Bobble-Heads" class="pull-right" style="margin-right: 5px;"/&gt;
+&lt;br&gt;
+&lt;h5&gt;
+The western fascination with the bobble heads began in the middle part of the previous century and had largely to do with the game known as “America’s national pastime”: baseball. The bobble heads were introduced as mementos and collectibles for the various Major League baseball teams and their popularity soared after dolls bearing the likeness of the stars of the game were produced in the sixties. The craze transcended to all forms of pop culture and soon bobble heads depicting John Kennedy with a goofy smile and the Beatles with their adorable mops were being sold across USA.
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/History-Of-Bobble-Head/custom-bobblehead.jpg" alt="Custome-Bobble-Head" class="pull-left" style="margin-right: 5px;"/&gt;
+&lt;h5&gt;
+With the growth in technology, the traditional ceramic dolls gave way to mass produced poly-resin, marble-dust and plastic dolls and with this came an onslaught of improvisations and customization. Today online retailers offer wobblers of almost every real or fictional pop culture character and a few also offer the irresistible chance of immortalizing yourself as a bobble head with custom jobs and private orders becoming the new craze. So whether it’s the Joker from the Dark Knight trilogy or your own face that you need to see bobble up and down maniacally on your desk, the vast goofy world of bobble heads have it all for you. 
+&lt;/h5&gt;
+
+
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>history-and-evolution-of-the-bobble-head</URL>
+  <Sitemap>true</Sitemap>
+</Article>

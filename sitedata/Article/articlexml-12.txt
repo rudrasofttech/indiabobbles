@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>He is Coming Back</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Bhagtya.jpg</OGImage>
+  <OGDescription>If this is what you call freedom, then...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Bhagat Singh, India, Bhagat Singh Figurine, Slavery, Freedom.</Tag>
+  <Status>Publish</Status>
+  <Description>Bhagat Singh is...</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Bhagtya.jpg" alt="Bhagat Singh Figurine" title="Bhagat Singh is Coming Back"&gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/who-gives-a-shit-about-the-sarkaar" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/bollywood-now-in-comics-graphic-novels" &gt;Next&lt;/a&gt;
+
+&lt;H4 class="align center"&gt; If this is what you call Freedom then...&lt;/h4&gt;
+&lt;br&gt;
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>bhagat-is-coming-back</URL>
+  <Sitemap>true</Sitemap>
+</Article>

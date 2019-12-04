@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>The Bobble Head and The Great Indian Head Wobble Connection</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Tanjore-doll.jpg</OGImage>
+  <OGDescription>For decades foreign travellers in India have been faced with a vital question that no one has been able to explain. No it is not “whether this food will bring a painful round of Delhi belly or...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>India Bobbles, Mahatma Gandhi Bobble Head, The Great Indian Head Wobble, The Head Wiggle, Head-Shake, Head Nod, Bobble Heads.</Tag>
+  <Status>Publish</Status>
+  <Description>For decades foreign travelers in India have been faced with a vital question that no one has been able to explain. No it is not “whether this food will bring a painful round of Delhi belly or not “. Nor is it “what do the ridiculously in-comprehensive announcements in our platforms and bus stands ever mean”...</Description>
+  <Text>&lt;h5&gt;
+    For decades foreign &lt;a href="http://www.rockying.com/a/280?title=The%20Bobble-headed%20Indian%20and%20other%20Quirky%20baubles;%20Survival%20tips%20for%20the%20Maiden%20Indian%20Trip" title="The Bobble-headed Indian and other Quirky baubles; Survival tips for the Maiden Indian Trip" target="_blank"&gt;travelers in India &lt;/a&gt;have been faced with a vital question that
+    no one has been able to explain. No it is not “whether this food will bring a painful
+    round of Delhi belly or not “. Nor is it “what do the ridiculously in-comprehensive
+    announcements in our platforms and bus stands ever mean”!
+&lt;/h5&gt;
+&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Tanjore-doll.jpg" alt="Tanjore Dolls"/&gt;
+&lt;h5&gt;
+    For the hapless white folks used to the simple up and down nod of the head meaning
+    “yes” and the sideways shake of the head meaning “no”, the one mystery no mystic
+    on India seems to be able to answer is the great &lt;b&gt;Indian head wobble&lt;/b&gt;. The
+    sideways motion of the head usually coupled with a goofy grin confounds the &lt;i&gt;firangis&lt;/i&gt;
+    to no end. What is it that the wobble means? Yes? No? Maybe?
+&lt;/h5&gt;
+&lt;h5&gt;
+    The Indian head wobble has been immortalized in countless blog posts and journals
+    by amateur travelers and established travel writers alike, some describing it as
+    a vital skill to pick up while in India and others going as far as categorizing
+    it in different ways in order to explain which wobble means “yes”, which one signifies
+    “no” and which one says “I really like you" ...!
+&lt;/h5&gt;
+&lt;h5&gt;
+    What they should do is remember one iconic item from the great and weird cultural
+    melting pot of American consumerism- the bobble head. A small doll with an impossibly
+    large head which is prone to furious and completely pointless wobbling at the slightest
+    of taps, the bobble head is a popular toy and collectible in the USA where it is
+    sold in the likeness of almost every major global celebrity.
+&lt;/h5&gt;
+&lt;h5&gt;
+    From Michael Jackson doing his moon walk to General George Patton wearing his iconic
+    four starred helmet, there is a bobble head for almost everyone in the market, including
+    the discerning buyer himself, as getting a custom bobble head in your likeness is
+    becoming a popular choice.
+&lt;/h5&gt;
+&lt;a href="http://www.indiabobbles.com/mahatma-gandhi-bobblehead"&gt;
+    &lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Gandhi-Bobble.jpg"
+        alt="Mahatma Gandhi Bobble Head" class="pull-left" style="margin-right: 5px;" /&gt;&lt;/a&gt;
+&lt;h5&gt;
+    In the land where the wobbly head of the dolls have been around for centuries in
+    the form of the iconic Indian expression designed solely to mess with a foreigner
+    who asks a local a question, the bobble head as a toy has been around only as the
+    classical &lt;b&gt;Tanjavur doll&lt;/b&gt;(Remember the &lt;i&gt;mitti ka lady &lt;/i&gt;we bought home
+    for Diwali? )- the dancing lady whose head and waist rotate in an imitation of classical
+    dance moves. Modern bobble heads on the lines of what has been an insanely popular
+    toy abroad has been conspicuously absent from the market.
+&lt;/h5&gt;
+&lt;h5&gt;
+    &lt;a href="http://www.indiabobbles.com/"&gt;&lt;b&gt;India Bobbles&lt;/b&gt;&lt;/a&gt; brings a new and
+    completely &lt;i&gt;desi&lt;/i&gt; range of bobble-heads based on the iconic design combined
+    with personalities who have a larger than life presence in the Indian psyche. Starting
+    with none other than the Father of the Nation-complete with his &lt;i&gt;lathi&lt;/i&gt;, round
+    spectacles and blissful expression. India Bobbles aims to fill the shelf in your
+    house, your study corner, your work station or the dashboard of your car with delightful,
+    nodding dolls smiling and wobbling with you all the time, confusing every foreigner
+    coming your way even more!
+&lt;/h5&gt;
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>Sonali Chowdhury</WriterName>
+  <WriterEmail>media.sonali@gmail.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>the-bobble-head-and-the-great-indian-head-wobble-connection</URL>
+  <Sitemap>true</Sitemap>
+</Article>

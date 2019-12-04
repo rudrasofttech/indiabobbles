@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>7</ID>
+  <Name>home</Name>
+  <Title>Buy Bobble Heads &amp; Figurines Online in India – India Bobbles</Title>
+  <DateCreated>2013-10-14T04:51:31.537</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;section id="main-header"&gt;
+        &lt;div id="carousel-example-generic" class="carousel slide" data-keyboard="true"&gt;
+            &lt;!-- Indicators --&gt;
+            &lt;ol class="carousel-indicators visible-lg"&gt;
+                &lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active"&gt;&lt;/li&gt;
+                &lt;li data-target="#carousel-example-generic" data-slide-to="1"&gt;&lt;/li&gt;
+                &lt;li data-target="#carousel-example-generic" data-slide-to="2"&gt;&lt;/li&gt;
+            &lt;/ol&gt;
+            &lt;!-- Wrapper for slides --&gt;
+            &lt;div class="carousel-inner" role="listbox"&gt;
+                &lt;div class="item active"&gt;
+                    &lt;a href="http://www.indiabobbles.com/nazarbattu-bobblehead"&gt;
+                        &lt;img alt="nazarbattu" src="http://www.indiabobbles.com/drive/theme/khichdi/img/nazarbattu-poster.jpg" class="img-responsive" /&gt;
+                    &lt;/a&gt;
+                &lt;/div&gt;
+                &lt;div class="item"&gt;
+                    &lt;a href="http://www.indiabobbles.com/games"&gt;
+                        &lt;img alt="games" style="width:100%;" src="http://www.indiabobbles.com/drive/theme/khichdi/img/Agni%20Promo%20Art.jpg" class="img-responsive" /&gt;
+                    &lt;/a&gt;
+                &lt;/div&gt;
+&lt;div class="item "&gt;
+                    &lt;a class="image-bg" href="http://www.indiabobbles.com/games"&gt;
+                        &lt;img alt="games" src="http://www.indiabobbles.com/drive/theme/khichdi/img/meteor-new-poster-comp.jpg" class="img-responsive" /&gt;
+                    &lt;/a&gt;
+                &lt;/div&gt;
+                
+            &lt;/div&gt;
+            &lt;a class="left carousel-control visible-xs" href="#carousel-example-generic" role="button" data-slide="prev"&gt;
+                &lt;span class="glyphicon glyphicon-chevron-left" style="font-size:2em;" aria-hidden="true"&gt;&lt;/span&gt;
+                &lt;span class="sr-only"&gt;Previous&lt;/span&gt;
+            &lt;/a&gt;
+            &lt;a class="right carousel-control  visible-xs" href="#carousel-example-generic" role="button" data-slide="next"&gt;
+                &lt;span class="glyphicon glyphicon-chevron-right" style="font-size:2em;" aria-hidden="true"&gt;&lt;/span&gt;
+                &lt;span class="sr-only"&gt;Next&lt;/span&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id="yellow"&gt;
+        &lt;div class="container"&gt;
+            &lt;div class="row"&gt;
+                &lt;div class="yellow-tabs"&gt;
+                    &lt;div class="col-sm-6"&gt;
+                        &lt;div class="collectibles-img"&gt;
+                            &lt;a href="http://www.indiabobbles.com/collectibles"&gt;
+                                &lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/collectibles-Sketchy.jpg" alt="collectibles" class="img-responsive" /&gt;
+                                &lt;h3 class="collectables"&gt;&lt;span&gt;Collectibles&lt;/span&gt;&lt;/h3&gt;
+                            &lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class="col-sm-6"&gt;
+                        &lt;div class="game-img"&gt;
+                            &lt;a href="http://www.indiabobbles.com/games"&gt;
+                                &lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/agni-game.jpg" alt="agni-game" class="img-responsive"&gt;
+                                &lt;h3 class="games"&gt;&lt;span&gt;Games&lt;/span&gt;&lt;/h3&gt;
+                            &lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section id="indiabobbles-tabs" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);"&gt;
+        &lt;div class="container"&gt;
+            &lt;div class="row center"&gt;
+                &lt;div class="col-sm-12 tabcolumn ul-tab"&gt;
+                    &lt;div class="tab-list col-sm-4"&gt;
+                        &lt;a href="http://www.indiabobbles.com/articles/index"&gt;
+                            &lt;div class="li-image-tab" style="background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/blog.JPG);list-style-type:none;"&gt;
+                                &lt;h3 class="image-tab-headings"&gt;Blog&lt;/h3&gt;
+                            &lt;/div&gt;
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                    &lt;div class="tab-list col-sm-4"&gt;
+                        &lt;a href="http://www.indiabobbles.com/India-Bobbles-Fun-With-Photoplasty/index"&gt;
+                            &lt;div class="li-image-tab" style="background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/gag.jpg);"&gt;
+                                &lt;h3 class="image-tab-headings"&gt; Gags&lt;/h3&gt;
+                            &lt;/div&gt;
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                    &lt;div class="tab-list col-sm-4"&gt;
+                        &lt;a href="https://www.instagram.com/india_bobbles/" target="_blank"&gt;
+                            &lt;div class="li-image-tab" style="background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/fan-comp.jpg);"&gt;
+                                &lt;h3 class="image-tab-heading "&gt; #instalove&lt;/h3&gt;
+                            &lt;/div&gt;
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;</Body>
+  <DateModified>2017-02-13T07:39:04.7409608-07:00</DateModified>
+  <Head>&lt;meta property="og:type" content="article" /&gt;
+&lt;meta property="og:url" content="http://www.indiabobbles.com/" /&gt;
+&lt;meta property="og:site_name" content="IndiaBobbles" /&gt;
+&lt;meta property="og:title" content="India Bobbles - Collectible Indian bobble heads, figurines and games." /&gt;
+&lt;meta property="og:description" content="Shop the best range of Bollywood and Indian bobble heads each piece hand painted by master artists. Start collecting now, Free Shipping all over India." /&gt;
+&lt;meta property="og:image" content="http://www.indiabobbles.com/drive/theme/khichdi/img/Agni-poster.jpg" /&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="Shop the best range of Bollywood and Indian bobble heads each piece hand painted by master artists. Start collecting now, Free Shipping all over India." /&gt;
+
+
+&lt;meta name ="Keywords" Content="buy bobblehead online india, buy bobbleheads online, bobble head figurines, bobble heads, indian bobble heads, india bobbles, indian figurines"/&gt;</PageMeta>
+</CPage>

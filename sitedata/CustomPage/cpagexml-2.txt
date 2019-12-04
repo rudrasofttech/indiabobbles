@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>2</ID>
+  <Name>collectibles</Name>
+  <Title>Action Figures, Bobble Head Dolls, Toys, Collectible at India Bobbles</Title>
+  <DateCreated>2013-10-07T10:39:08.043</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container "&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="col-sm-12 cultindianimage"&gt;
+                &lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/Cult-India-collectibles-Log.png" alt="Cult India" /&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row productrow"&gt;
+            &lt;div class="productlist col-sm-4"&gt;
+                &lt;a href="http://www.indiabobbles.com/daku-sambhar-singh-bobble-head"&gt;&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/daku-product-thumbnail.jpg" alt="daku" class="img-responsive" /&gt;&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class="productlist col-sm-4"&gt;
+                &lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead"&gt;&lt;img alt="Bachchan" src="http://www.indiabobbles.com/drive/theme/khichdi/img/Bachchan.jpg" class="img-responsive" /&gt;&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class="productlist col-sm-4"&gt;
+                &lt;a href="http://www.indiabobbles.com/nazarbattu-bobblehead"&gt;&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/Nazarbattu.jpg" alt="Nazarbattu" class="img-responsive" /&gt;&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row productrow"&gt;
+            &lt;div class="productlist col-sm-4"&gt;
+                &lt;a href="http://www.indiabobbles.com/bhagat-singh-figurine"&gt;&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/Bhagat.jpg" alt="Bhagat" class="img-responsive" /&gt;&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class="productlist col-sm-4"&gt;
+                &lt;a href="http://www.indiabobbles.com/mahatma-gandhi-bobblehead"&gt;&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/Gandhi.jpg" alt="Gandhi" class="img-responsive" /&gt;&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class="productlist col-sm-4"&gt;
+                &lt;a href="http://www.indiabobbles.com/dr-abdul-kalam-bobblehead"&gt;&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/Kalam.jpg"  alt="Kalam" class="img-responsive" /&gt;&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row productrow"&gt;
+            &lt;div class="productlist col-sm-4"&gt;
+                &lt;a href="http://www.indiabobbles.com/android-figurine"&gt;&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/Android.jpg" alt="Android" class="img-responsive" /&gt;&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class="productlist col-sm-4"&gt;
+                &lt;a href="http://www.indiabobbles.com/master-blaster-bobblehead"&gt;&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/Sachin.jpg" alt="Sachin" class="img-responsive" /&gt;&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class="row newslettersection" style="text-align:center;"&gt;
+            &lt;div class="container"&gt;
+                &lt;div class="col-sm-4"&gt;
+                    &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                        &lt;i class="fa fa-truck" aria-hidden="true"&gt;&lt;/i&gt;
+                        FREE SHIPPING
+                    &lt;/h2&gt;
+                &lt;/div&gt;
+                &lt;div class="col-sm-4"&gt;
+                    &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                        &lt;i class="fa fa-gift" aria-hidden="true"&gt;&lt;/i&gt;
+                        SALE
+                    &lt;/h2&gt;
+                    &lt;div id="myModal" class="modal fade" role="dialog"&gt;
+                        &lt;div class="modal-dialog"&gt;
+                            &lt;!-- Modal content--&gt;
+                            &lt;div class="modal-content"&gt;
+                                &lt;div class="modal-header" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg)"&gt;
+                                    &lt;h2 class="modal-title" style="font-family:'Spongeboy Me Bob';color:#330B41;"&gt;Subscribe &amp; Get &lt;span style="color:#fa9b03;"&gt; Rs.100&lt;/span&gt; Off&lt;/h2&gt;
+                                &lt;/div&gt;
+                                &lt;div class="modal-body" style="background-color:#330B41;"&gt;
+                                    &lt;form class="form-horizontal" role="form"&gt;
+                                        &lt;div class="form-group"&gt;
+                                            &lt;label class="col-sm-2 control-label"
+                                                   for="inputEmail3" style="color:white"&gt;Email&lt;/label&gt;
+                                            &lt;div class="col-sm-10"&gt;
+                                                &lt;input type="email" class="form-control"
+                                                       id="inputEmail3" placeholder="Email" /&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                        &lt;div class="form-group"&gt;
+                                            &lt;label class="col-sm-2 control-label"
+                                                   for="inputPassword3" style="color:white"&gt;Password&lt;/label&gt;
+                                            &lt;div class="col-sm-10"&gt;
+                                                &lt;input type="password" class="form-control"
+                                                       id="inputPassword3" placeholder="Password" /&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                        &lt;div class="form-group"&gt;
+                                            &lt;div class="col-sm-offset-2 col-sm-10"&gt;
+                                                &lt;div class="checkbox"&gt;
+                                                    &lt;label style="color:white"&gt;
+                                                        &lt;input type="checkbox" /&gt; &lt;b&gt;You are allowing us to send you india bobbles product related emails.&lt;/b&gt;
+                                                    &lt;/label&gt;
+                                                &lt;/div&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                        &lt;div class="form-group"&gt;
+                                            &lt;div class="col-sm-offset-2 col-sm-10"&gt;
+                                                &lt;button type="submit" class="btn btn-defaul"&gt;Subscribe&lt;/button&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                    &lt;/form&gt;
+
+                                &lt;/div&gt;
+                                &lt;div class="modal-footer" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg)"&gt;
+                                    &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;Close&lt;/button&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class="col-sm-4"&gt;
+
+                    &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                        &lt;i class="fa fa-money" aria-hidden="true"&gt;&lt;/i&gt;
+                        FULL REFUND
+                    &lt;/h2&gt;
+
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Body>
+  <DateModified>2017-02-10T03:22:22.8348425-07:00</DateModified>
+  <Head>&lt;style&gt;
+        body{
+            background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+        }
+    &lt;/style&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="Find the best and unique collection of collectibles bobble heads &amp; figurines of Indian action heroes and sports personalities online. Get free shipping in New Delhi." /&gt;
+
+&lt;meta name ="Keywords" Content="collectible bobbleheads, collectible figurines, bobble head toys, bobble head dolls, indian action figures, sports bobbleheads"/&gt;</PageMeta>
+</CPage>

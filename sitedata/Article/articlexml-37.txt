@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Gandhi Ji Finally Asks</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Gandhi-ji-Asks.jpg</OGImage>
+  <OGDescription>Click to see the pic and write a comment...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Mahatma Gandhi Bobble Head, Gandhi Ji asks, Dr. Kalaam Bobble Head, Chhote Bachchan, Daku Sambhar Singh, India Bobbles.</Tag>
+  <Status>Publish</Status>
+  <Description>This is what happened when Gandhi Ji met Dr. Kalaam...</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Gandhi-ji-Asks.jpg" alt="India Bobbles Bobble Heads Meet" title="Gandhi Bobble Head meets Kalam Bobble head" class="align center"&gt;
+
+&lt;br&gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/android-out-of-the-phone" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/whats-this-nota-asks-sambhar-singh" &gt;Next&lt;/a&gt; 
+&lt;H4 class="align center"&gt; Of course! Right?&lt;/h4&gt;
+&lt;br&gt;
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>gags/gandhi-ji-finally-asks</URL>
+  <Sitemap>true</Sitemap>
+</Article>

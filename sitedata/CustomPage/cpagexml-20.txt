@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>20</ID>
+  <Name>privacy-policy</Name>
+  <Title>Privacy Policy of IndiaBobbles</Title>
+  <DateCreated>2014-05-05T00:05:43.65</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+        &lt;div class="row aboutrow"&gt;
+            &lt;div class="col-sm-12 about"&gt;
+                &lt;h2 class="about-heading" style="text-align:center"&gt;Privacy Policy&lt;/h2&gt;
+                &lt;p&gt;
+                    If you provide us with your email address to subscribe to IndiaBobbles, we promise to protect it and to keep it out of the wrong hands.
+                    That means we won’t share your information with anyone else.
+                &lt;/p&gt;
+                &lt;h3&gt;Links&lt;/h3&gt;
+                &lt;p&gt;
+                    This Web site may contain links to other sites. Please be aware that we do not control and are not responsible for the privacy practices of other sites.
+                    We encourage our users to be aware when they exit our site and to understand the privacy policies of each and every
+                    Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+                &lt;/p&gt;
+                &lt;h3&gt;
+                    Newsletter
+                &lt;/h3&gt;
+                &lt;p&gt;
+                    We shall send you newsletters once in a while. If you would like to unsubscribe, you can &lt;a href="http://www.indiabobbles.com/account/unsubscribe"&gt;click here&lt;/a&gt;.
+                &lt;/p&gt;
+            &lt;/div&gt;
+
+            &lt;div class="row newslettersection" style="text-align:center;"&gt;
+                &lt;div class="container"&gt;
+                    &lt;div class="col-sm-4"&gt;
+
+                        &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                            &lt;i class="fa fa-truck" aria-hidden="true"&gt;&lt;/i&gt;
+                            FREE SHIPPING
+                        &lt;/h2&gt;
+
+                    &lt;/div&gt;
+                    &lt;div class="col-sm-4"&gt;
+                        &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                            &lt;i class="fa fa-gift" aria-hidden="true"&gt;&lt;/i&gt;
+                            SALE
+                        &lt;/h2&gt;
+                        &lt;!-- Modal --&gt;
+                        &lt;div id="myModal" class="modal fade" role="dialog"&gt;
+                            &lt;div class="modal-dialog"&gt;
+                                &lt;!-- Modal content--&gt;
+                                &lt;div class="modal-content"&gt;
+                                    &lt;div class="modal-header" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg)"&gt;
+                                        &lt;h2 class="modal-title" style="font-family:'Spongeboy Me Bob';color:#330B41;"&gt;Subscribe &amp; Get &lt;span style="color:#fa9b03;"&gt; Rs.100&lt;/span&gt; Off&lt;/h2&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="modal-body" style="background-color:#330B41;"&gt;
+                                        &lt;form class="form-horizontal" role="form"&gt;
+                                            &lt;div class="form-group"&gt;
+                                                &lt;label class="col-sm-2 control-label"
+                                                       for="inputEmail3" style="color:white"&gt;Email&lt;/label&gt;
+                                                &lt;div class="col-sm-10"&gt;
+                                                    &lt;input type="email" class="form-control"
+                                                           id="inputEmail3" placeholder="Email" /&gt;
+                                                &lt;/div&gt;
+                                            &lt;/div&gt;
+                                            &lt;div class="form-group"&gt;
+                                                &lt;label class="col-sm-2 control-label"
+                                                       for="inputPassword3" style="color:white"&gt;Password&lt;/label&gt;
+                                                &lt;div class="col-sm-10"&gt;
+                                                    &lt;input type="password" class="form-control"
+                                                           id="inputPassword3" placeholder="Password" /&gt;
+                                                &lt;/div&gt;
+                                            &lt;/div&gt;
+                                            &lt;div class="form-group"&gt;
+                                                &lt;div class="col-sm-offset-2 col-sm-10"&gt;
+                                                    &lt;div class="checkbox"&gt;
+                                                        &lt;label style="color:white"&gt;
+                                                            &lt;input type="checkbox" /&gt; &lt;b&gt;You are allowing us to send you india bobbles product related emails.&lt;/b&gt;
+                                                        &lt;/label&gt;
+                                                    &lt;/div&gt;
+                                                &lt;/div&gt;
+                                            &lt;/div&gt;
+                                            &lt;div class="form-group"&gt;
+                                                &lt;div class="col-sm-offset-2 col-sm-10"&gt;
+                                                    &lt;button type="submit" class="btn btn-defaul"&gt;Subscribe&lt;/button&gt;
+                                                &lt;/div&gt;
+                                            &lt;/div&gt;
+                                        &lt;/form&gt;
+
+                                    &lt;/div&gt;
+                                    &lt;div class="modal-footer" style="background-image:url(drive/theme/khichdi/img/India-Bobbles-package-1300.jpg)"&gt;
+                                        &lt;button type="button" class="btn btn-danger" data-dismiss="modal"&gt;Close&lt;/button&gt;
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class="col-sm-4"&gt;
+                        &lt;h2 style="font-family:'Spongeboy Me Bob';color:#DC1019;"&gt;
+                            &lt;i class="fa fa-money" aria-hidden="true"&gt;&lt;/i&gt;
+                            FULL REFUND
+                        &lt;/h2&gt;
+
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Body>
+  <DateModified>2016-08-13T12:17:38.0717107-07:00</DateModified>
+  <Head>&lt;style&gt;
+        body{
+            background-image:url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+        }
+    &lt;/style&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+</CPage>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Yes Who?</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Dr.Kalaam-vs-Einstein.jpg</OGImage>
+  <OGDescription>Yes who?</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Dr. Kalaam Bobble Head, Albert Einstein Bobble head, India's Favorite, Science.</Tag>
+  <Status>Publish</Status>
+  <Description>Science Rocks!</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Dr.Kalaam-vs-Einstein.jpg" alt="Dr Kalaam and Einstein Bobble heads" title="Dr Kalaam and Einstein Bobble heads"&gt;
+
+&lt;br&gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/what-is-it-with-the-indian-head-bobble" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/do-you-know-what-that-means" &gt;Next&lt;/a&gt;
+
+&lt;H4 class="align center"&gt; Yes, Who is India's Favorite?&lt;/h4&gt;
+
+&lt;br&gt;
+
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>yes-who-is-indias-favorite</URL>
+  <Sitemap>true</Sitemap>
+</Article>

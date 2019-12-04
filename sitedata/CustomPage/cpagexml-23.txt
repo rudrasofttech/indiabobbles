@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>23</ID>
+  <Name>payment-options</Name>
+  <Title>Payment options offered by IndiaBobbles</Title>
+  <DateCreated>2014-05-05T00:56:27.13</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+        &lt;div class="row"style="background-color:white;"&gt;
+            &lt;div class="col-sm-12"style="margin-bottom:35px;margin-top:75px;line-height:26px;text-align:justify;"&gt;
+                &lt;h2 style="font-family:'Spongeboy Me Bob'; color:#330B41;text-align:center"&gt;Payment Options&lt;/h2&gt;
+                &lt;br /&gt;
+                &lt;h4&gt;How do I pay for my order?&lt;/h4&gt;
+                &lt;p&gt;
+                    We accept all kinds of credit and debit cards. In addition, you can also by via net banking. We also have Cash before delivery and Cash on Delivery to
+                    New Delhi. An entire list of accepted cards is listed below:
+                &lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Credit Cards&lt;/li&gt;
+                    &lt;li&gt;Debit Cards&lt;/li&gt;
+                    &lt;li&gt;
+                        Net Banking (Direct Debit)
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;p&gt;
+                    The payment gateway is provided by Payumoney.COM
+                &lt;/p&gt;
+                &lt;p&gt;For Credit Card users: All prices are listed in Indian Rupees. If you use a non-Indian credit card, your bank will convert to your local currency based on prevailing exchange rates.&lt;/p&gt;
+                &lt;p&gt;For any payment related queries, please do email us at help@IndiaBobbles.in&lt;/p&gt;
+
+                &lt;h4&gt;Who is PayUMoney?&lt;/h4&gt;
+                &lt;p&gt;
+                    PayUMoney is a Commerce Service Provider, authorized as a Master Merchant, by Indian financial institutions, to appoint Sub Merchants,
+                    to accept and validate Internet payments via Credit Card, and Net banking facilities from the IndiaBobbles customers in real-time.
+                    They provide a secure link between the IndiaBobbles website, various Credit Card issuing institutions, acquiring Banks and the payment gateway providers.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;</Body>
+  <DateModified>2016-08-13T12:25:00.1728487-07:00</DateModified>
+  <Head>&lt;style&gt;
+        body {
+            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+        }
+    &lt;/style&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+</CPage>

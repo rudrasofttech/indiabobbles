@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<%@ Import Namespace="IndiaBobbles" %>
+<%@ Import Namespace="IndiaBobbles.Models" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en">
+<head>
+    <asp:ContentPlaceHolder ID="TopContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <%if (NoTemplate == false)
+      { %>
+    <%= Utility.GetSiteSetting("CommonHeadContent")%>
+    <%} %>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <%if (NoTemplate == false)
+      { %>
+    <%= Utility.GetSiteSetting("SiteHeader") %>
+    <%} %>
+    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    <%if (NoTemplate == false)
+      { %>
+    <%= Utility.GetSiteSetting("SiteFooter") %>
+    <%} %>
+    <script type="text/javascript" src="//<%: Request.Url.Host %>/handlers/routine.ashx" ></script>
+    
+    
+    
+</body>
+</html>

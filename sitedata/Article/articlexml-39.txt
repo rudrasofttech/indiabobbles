@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Says the Buddha</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Buddha.jpg</OGImage>
+  <OGDescription>Click to see the pic and write a comment...</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>3</Category>
+  <Tag>Buddha Figurine, Buddha Poornima, Gautam Buddha Jayanti, India Bobbles.</Tag>
+  <Status>Publish</Status>
+  <Description>What you think you become!</Description>
+  <Text>&lt;div class="purplebox"&gt;
+
+&lt;img src="http://www.indiabobbles.com/drive/Gags/Buddha.jpg" alt="Buddha Figurine" title="Cutest Buddha Figurine" class="align center"&gt;
+
+&lt;br&gt;
+
+&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/whats-this-nota-asks-sambhar-singh" &gt;Previous&lt;/a&gt;
+
+&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/daku-sambhar-is-desperate" &gt;Next&lt;/a&gt; 
+&lt;H4 class="align center"&gt; #LoveYourSelf #BuddhaPoornima &lt;/h4&gt;
+&lt;br&gt;
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;datasource name="DisqusDataSource" /&gt;
+
+&lt;/div&gt;</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>gags/says-the-buddha</URL>
+  <Sitemap>true</Sitemap>
+</Article>

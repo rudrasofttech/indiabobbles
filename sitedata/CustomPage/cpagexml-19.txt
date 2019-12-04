@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>19</ID>
+  <Name>order-custom-bobbleheads</Name>
+  <Title>Order Custom Bobble heads</Title>
+  <DateCreated>2014-01-18T03:37:33.94</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;div class="container"&gt;
+    &lt;h1 class="bobbleheadname"&gt;Customized Bobbleheads&lt;/h1&gt;
+    &lt;div class="row productpagerow"&gt;
+        &lt;div class="col-sm-offset-2 col-sm-8"&gt;&lt;h4 style="text-align:center;"&gt;We do not take customized order at present. You can check our &lt;br /&gt;&lt;a href="http://www.indiabobbles.com/collectibles"&gt;existing designs&lt;/a&gt;.&lt;/h4&gt;
+            &lt;datasource name="ShareDataSource" /&gt;
+            &lt;datasource name="DisqusDataSource" /&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</Body>
+  <DateModified>2017-02-11T01:05:19.6077362-07:00</DateModified>
+  <Head />
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+  <PageMeta>&lt;meta name="description" content="Order customized bobbleheads in India. Creating a customized bobble head needs patience and skill." /&gt;
+&lt;meta name ="Keywords" Content="Customized bobbleheads, custom bobble heads"/&gt;</PageMeta>
+</CPage>

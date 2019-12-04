@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>28</ID>
+  <Name>games/meteor-treasure</Name>
+  <Title>Meteor Treasure - dodge incoming meteor and collect gems.</Title>
+  <DateCreated>2015-08-30T10:24:04.263</DateCreated>
+  <CreatedByName>Raj Kiran</CreatedByName>
+  <CreatedBy>1</CreatedBy>
+  <Status>Publish</Status>
+  <ModifiedByName>Raj Kiran</ModifiedByName>
+  <ModifiedBy>1</ModifiedBy>
+  <Body>&lt;section id="maincontent" style="padding-left:8%; padding-right:8%;"&gt;
+                &lt;iframe style="width:100%; height:700px;  " src="http://www.indiabobbles.com/drive/games/meteortreasure2/default.html"&gt;&lt;/iframe&gt;
+&lt;/section&gt;
+&lt;div class="container"&gt;
+        &lt;div class="row"&gt;
+            &lt;div class="span12"&gt;
+&lt;datasource name="ShareDataSource" /&gt;
+&lt;div class="fb-comments" data-href="http://www.indiabobbles.com/games/meteor-treasure" data-numposts="50"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</Body>
+  <DateModified>2016-06-02T11:34:16.2598252-07:00</DateModified>
+  <Head>&lt;meta property="og:url" content="http://www.indiabobbles.com/games/meteor-treasure" /&gt;
+    &lt;meta property="og:type" content="webpage" /&gt;
+    &lt;meta property="og:title" content="Meteor Treasure" /&gt;
+    &lt;meta property="og:description" content="Save yourself from falling meteor and collect the gems." /&gt;
+    &lt;meta property="og:image" content="http://rudrasofttech.com/games/meteorTreasure/assets/Square150x150Logo.jpg" /&gt;</Head>
+  <Sitemap>true</Sitemap>
+  <NoTemplate>false</NoTemplate>
+</CPage>

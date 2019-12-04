@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Title>Most Thoughtful and Unusual Gifts for Those You Love: Part 3</Title>
+  <OGImage>http://www.indiabobbles.com/drive/Gags/Android-Out-of-phone.jpg</OGImage>
+  <OGDescription>zclzl;cjl;zjclzkxl</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>4</Category>
+  <Tag>Unique Gifts,</Tag>
+  <Status>Draft</Status>
+  <Description>nzkcnZKXNCkZNXC</Description>
+  <Text>&lt;p&gt;
+Such an amazing response and a huge list to cover that we now end up with a trilogy. Cooool ! :) Let us, yet again, dive deep into the world of, certainly not cliched but the most original and thoughtful, gifts for keeps. 
+
+
+10. Madness
+11. The Prankster
+12. The Long-Lost
+13. Its Hand Made
+14. Action Figures
+15. For the Fan
+16. Tailor Made Baby!
+17. Time Machine</Text>
+  <TemplateName>LeftColumnBlogTemplate</TemplateName>
+  <WriterName>IB Team</WriterName>
+  <WriterEmail>preeti@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>most-thoughtful-and-unusual-gifts-for-those-you-love-part-3</URL>
+  <Sitemap>true</Sitemap>
+</Article>
