@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <style>
         body{
-            background-image:url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+            background-image:url(//www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
         }
     </style>
     <div class="container" style="background-color: white; padding: 10%;">

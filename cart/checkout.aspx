@@ -8,7 +8,7 @@
         }
 
         body {
-            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+            background-image: url(//www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
         }
 
         h4, h5 {

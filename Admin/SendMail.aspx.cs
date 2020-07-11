@@ -17,26 +17,46 @@ public partial class Admin_SendMail : AdminPage
         }
         if (!Page.IsPostBack && !Page.IsCallback)
         {
-
-            Member m = MemberManager.GetUser(ID);
-            if (m != null)
+            if (ID > 0)
             {
-                ToNameTextBox.Text = m.MemberName;
-                ToEmailTextBox.Text = m.Email;
+                Member m = MemberManager.GetUser(ID);
+                if (m != null)
+                {
+                    ToNameTextBox.Text = m.MemberName;
+                    ToEmailTextBox.Text = m.Email;
 
-                
-            }
 
-            if(Request["email"] != null)
-            {
-                ToEmailTextBox.Text = Request["email"].ToString();
+                }
+
+                if (Request["email"] != null)
+                {
+                    ToEmailTextBox.Text = Request["email"].ToString();
+                }
+                if (Request["name"] != null)
+                {
+                    ToNameTextBox.Text = Request["name"].ToString();
+                }
+                FromEmailTextBox.Text = Utility.NewsletterEmail;
+                FromNameTextBox.Text = Utility.AdminName;
             }
-            if (Request["name"] != null)
+            else if (!string.IsNullOrEmpty(Request.QueryString["emailid"]))
             {
-                ToNameTextBox.Text = Request["name"].ToString();
+                Guid emailid;
+                if(Guid.TryParse(Request.QueryString["emailid"].ToString(), out emailid))
+                {
+                    EmailMessage em= EmailManager.GetMessage(emailid);
+                    if(em != null)
+                    {
+                        ToEmailTextBox.Text = em.ToAddress;
+                        ToNameTextBox.Text = em.ToName;
+                        FromNameTextBox.Text = em.FromName;
+                        ETypeList.SelectedValue = em.EmailType.ToString();
+                        EGroupTextBox.Text = em.EmailGroup;
+                        SubjectTextBox.Text = em.Subject;
+                        MessageTextBox.Text = em.Message;
+                    }
+                }
             }
-            FromEmailTextBox.Text = Utility.NewsletterEmail;
-            FromNameTextBox.Text = Utility.AdminName;
         }
     }
 

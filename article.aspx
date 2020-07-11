@@ -17,10 +17,10 @@
 </asp:Content>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="Server">
     
-    <script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js" type="text/javascript"></script>
-    <link href="http://www.rudrasofttech.com/js-tools/SlideShow/slides.css" rel="stylesheet"
+    <script src="//code.jquery.com/ui/1.10.2/jquery-ui.js" type="text/javascript"></script>
+    <link href="//www.rudrasofttech.com/js-tools/SlideShow/slides.css" rel="stylesheet"
         type="text/css" />
-    <script src="http://www.rudrasofttech.com/js-tools/SlideShow/slides.js" type="text/javascript"></script>
+    <script src="//www.rudrasofttech.com/js-tools/SlideShow/slides.js" type="text/javascript"></script>
     <script type="text/javascript">
         $(window).load(function () {
             $(".rst-slides").slides({
@@ -31,9 +31,9 @@
             });
         });
     </script>
-    <link href="http://www.rudrasofttech.com/js-tools/Question/question.css" rel="stylesheet"
+    <link href="//www.rudrasofttech.com/js-tools/Question/question.css" rel="stylesheet"
         type="text/css" />
-    <script src="http://www.rudrasofttech.com/js-tools/Question/question.js" type="text/javascript"></script>
+    <script src="//www.rudrasofttech.com/js-tools/Question/question.js" type="text/javascript"></script>
     <script type="text/javascript">
         $(document).ready(function () {
             $(".rstquestion").question({ Attempts: 1, OnAttempt: function (i, attemptcount) { } });
@@ -47,7 +47,7 @@
            if (CurrentUser.UserType == (byte)MemberTypeType.Admin || CurrentUser.ID == PPM.Item.CreatedBy)
            {%>
     <div style="padding-left: 10px; padding-top: 5px; padding-bottom: 5px; padding-right: 10px; position: fixed; top: auto; bottom: 0px; left: 0px; right: auto; background-color: #fff;">
-        <a href="http://<%: Request.Url.Host%>/Admin/ManageArticle.aspx?id=<%: PPM.Item.ID.ToString()%>&mode=edit"
+        <a href="//<%: Request.Url.Host%>/Admin/ManageArticle.aspx?id=<%: PPM.Item.ID.ToString()%>&mode=edit"
             target="_blank">Edit</a>
     </div>
     <% }

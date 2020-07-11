@@ -19,7 +19,7 @@
                     counter++;
         %>
         <div class="span3" style="border-bottom: 1px dotted #000; margin-top: 10px; margin-bottom: 10px;">
-            <a href="http://<%: Request.Url.Host %>/blog/<%:c.UrlName %>/index">
+            <a href="//<%: Request.Url.Host %>/blog/<%:c.UrlName %>/index">
                 <h4>
                     <%:c.Name%></h4>
             </a>

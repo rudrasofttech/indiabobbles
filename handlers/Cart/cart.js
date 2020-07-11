@@ -1,6 +1,6 @@
 ﻿function addItemToCart(img, name, code, quantity, price, successCallback, errorCallback) {
     $.ajax({
-        url: "http://www.indiabobbles.com/handlers/cart/currentcart.ashx",
+        url: "//www.indiabobbles.com/handlers/cart/currentcart.ashx",
         type: "POST",
         data: {
             action: "additem",
@@ -16,7 +16,7 @@
 }
 function getCartItemCount(successCallback, errorCallback) {
     $.ajax({
-        url: "http://www.indiabobbles.com/handlers/cart/currentcart.ashx",
+        url: "//www.indiabobbles.com/handlers/cart/currentcart.ashx",
         type: "GET",
         data: {
             action: "count"
@@ -27,7 +27,7 @@ function getCartItemCount(successCallback, errorCallback) {
 }
 function getCart(successCallback, errorCallback) {
     $.ajax({
-        url: "http://www.indiabobbles.com/handlers/cart/currentcart.ashx",
+        url: "//www.indiabobbles.com/handlers/cart/currentcart.ashx",
         type: "GET",
         data: {
             action: "cart"
@@ -39,7 +39,7 @@ function getCart(successCallback, errorCallback) {
 
 function setCODPayment(successCallback, errorCallback) {
     $.ajax({
-        url: "http://www.indiabobbles.com/handlers/cart/currentcart.ashx",
+        url: "//www.indiabobbles.com/handlers/cart/currentcart.ashx",
         type: "GET",
         data: {
             action: "codpayment"

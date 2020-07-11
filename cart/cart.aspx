@@ -7,7 +7,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="Server">
     <style>
         body {
-            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+            background-image: url(//www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
         }
         h5{
             font-weight:bold;
@@ -33,9 +33,9 @@
                                     <asp:BoundField DataField="ProductCode" HeaderText="Code" ReadOnly="True" SortExpression="ProductCode" />
                                     <asp:TemplateField HeaderText="Quantity" SortExpression="Quantity">
                                         <ItemTemplate>
-                                            <asp:LinkButton ID="ReduceButton" runat="server" CausesValidation="false" CssClass="label label-default" CommandName="Subtract" CommandArgument='<%# Bind("ID") %>' Text="-"></asp:LinkButton>
+                                            <asp:LinkButton ID="ReduceButton" runat="server" Visible="false" CausesValidation="false" CssClass="label label-default" CommandName="Subtract" CommandArgument='<%# Bind("ID") %>' Text="-"></asp:LinkButton>
                                             <asp:Label ID="Label1" Style="margin-left: 10px; margin-right: 10px;" runat="server" Text='<%# Bind("Quantity") %>'></asp:Label>
-                                            <asp:LinkButton ID="AddButton" runat="server" CausesValidation="false" CssClass="label label-default" CommandName="Add" CommandArgument='<%# Bind("ID") %>' Text="+"></asp:LinkButton>
+                                            <asp:LinkButton ID="AddButton" runat="server" Visible="false" CausesValidation="false" CssClass="label label-default" CommandName="Add" CommandArgument='<%# Bind("ID") %>' Text="+"></asp:LinkButton>
                                         </ItemTemplate>
                                     </asp:TemplateField>
                                     <asp:BoundField DataField="Price" HeaderText="Price" ReadOnly="True" DataFormatString="{0:#0.00}" SortExpression="Price" />
@@ -92,7 +92,7 @@
                                 </div>
                             </div>
                             <div style="margin: 10px 0px;">
-                                <a href="http://<%= Request.Url.Host %>" class="btn btn-large btn-default pull-left hidden-xs">Continue Shopping</a>
+                                <a href="//<%= Request.Url.Host %>" class="btn btn-large btn-default pull-left hidden-xs">Continue Shopping</a>
                                 <%if (o.OrderItems.Count > 0)
                                   { %>
                                 <a href="<%= Page.ResolveClientUrl("~/cart/address.aspx") %>" class="btn btn-large btn-primary pull-right">Proceed to Checkout</a>
