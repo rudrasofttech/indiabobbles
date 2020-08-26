@@ -41,7 +41,7 @@
 };
 //bd10 | bd8 > bd3 > lotus > bd12 > bd1 > bd2 | bd6 > bd7 > bd5 > bd14
 // Initialize Phaser, and creates a 400x490px game
-var game = new Phaser.Game(document.getElementById("gameDiv").offsetWidth, document.getElementById("gameDiv").offsetHeight, Phaser.AUTO, 'gameDiv');
+var game = new Phaser.Game(1366, 768, Phaser.AUTO, 'gameDiv');
 var fireRate = 500;
 var nextFire = 0;
 var sounds, bgsound, agnisound, expsound, expbdsound, exphitsound, clicksound;
