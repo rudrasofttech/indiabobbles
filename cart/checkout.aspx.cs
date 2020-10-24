@@ -14,9 +14,9 @@ public partial class cart_checkout : BasePage
 {
     public OrderManager om = new OrderManager();
     public Order o;
-    public string SuccessURL = "http://www.indiabobbles.com/cart/payumoneyresponse.aspx?id=";
-    public string FailureURL = "http://www.indiabobbles.com/cart/checkout.aspx?id=";
-    public string CancelURL = "http://www.indiabobbles.com/cart/checkout.aspx?id=";
+    public string SuccessURL = "https://www.indiabobbles.com/cart/payumoneyresponse.aspx?id=";
+    public string FailureURL = "https://www.indiabobbles.com/cart/checkout.aspx?id=";
+    public string CancelURL = "https://www.indiabobbles.com/cart/checkout.aspx?id=";
     protected void Page_Load(object sender, EventArgs e)
     {
         o = om.GetCart();
@@ -60,7 +60,7 @@ public partial class cart_checkout : BasePage
         try
         {
             EmailManager.SendMail(Utility.NewsletterEmail, o.Email, Utility.AdminName, o.Name, body, String.Format("Order Receipt : {0} from {1}", o.ID, Utility.SiteName), EmailMessageType.Communication, "Order Receipt");
-            EmailManager.SendMail(Utility.NewsletterEmail, "Preeti@indiabobbles.com", Utility.AdminName, "Preeti Singh", body, String.Format("Order Receipt : {0} from {1}", o.ID, Utility.SiteName), EmailMessageType.Communication, "Order Receipt");
+            //EmailManager.SendMail(Utility.NewsletterEmail, "Preeti@indiabobbles.com", Utility.AdminName, "Preeti Singh", body, String.Format("Order Receipt : {0} from {1}", o.ID, Utility.SiteName), EmailMessageType.Communication, "Order Receipt");
             
             EmailManager.SendMail(Utility.NewsletterEmail, "rajkiran.singh@rudrasofttech.com", Utility.AdminName, "Raj Kiran Singh", body, String.Format("Order Receipt : {0} from {1}", o.ID, Utility.SiteName), EmailMessageType.Communication, "Order Receipt");
             EmailManager.SendMail(Utility.NewsletterEmail, "preeti.singh@rudrasofttech.com", Utility.AdminName, "Preeti Singh", body, String.Format("Order Receipt : {0} from {1}", o.ID, Utility.SiteName), EmailMessageType.Communication, "Order Receipt");

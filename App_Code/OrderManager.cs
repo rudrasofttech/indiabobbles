@@ -715,7 +715,7 @@ namespace IndiaBobbles
                 {
                     builder.Append(string.Format("<div>Transaction Date : {0}</div>", o.TransactionDate.Value.ToString()));
                 }
-                builder.Append("<p>Thanks for your Purchase. If you have any questions please contact us at preeti@indiabobbles.com or call us at 9871500276. Please provide your order number.</p>");
+                builder.Append("<p>Thanks for your Purchase. If you have any questions please contact us at ib@rudrasofttech.com or call us at 9871500276. Please provide your order number.</p>");
                 builder.Append("</div>");
             }
 
