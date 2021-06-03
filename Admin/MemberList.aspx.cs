@@ -47,29 +47,60 @@ public partial class Admin_MemberList : AdminPage
     {
         try
         {
+            
+            
             using (IndiaBobblesDataClassesDataContext db = new IndiaBobblesDataClassesDataContext())
             {
+                var members = db.Members.Where(t => true);
                 string query = "SELECT ID, Email, Createdate, Newsletter, UserType, MemberName, Status, Password, Mobile " +
                 " FROM Member AS M WHERE UserType <> 1 ";
 
+                if (FilterTextBox.Text.Trim() != "")
+                {
+                    members = members.Where(t => t.Email.Contains(FilterTextBox.Text.Trim()));
+                }
                 if (MemberTypeDropDown.SelectedValue != "")
                 {
                     query = string.Format("{0} AND(UserType = {1})", query, MemberTypeDropDown.SelectedValue);
+                    switch (MemberTypeDropDown.SelectedValue)
+                    {
+                        case "2":
+                            members = members.Where(t => t.UserType == (byte)MemberTypeType.Author);
+                            break;
+                        case "3":
+                            members = members.Where(t => t.UserType == (byte)MemberTypeType.Member);
+                            break;
+                        
+                    }
+                    
                 }
 
                 if (StatusDropDown.SelectedValue != "")
                 {
                     query = string.Format("{0} AND(Status = {1})", query, StatusDropDown.SelectedValue);
+                    switch (MemberTypeDropDown.SelectedValue)
+                    {
+                        case "0":
+                            members = members.Where(t => t.Status == (byte)GeneralStatusType.Active);
+                            break;
+                        case "1":
+                            members = members.Where(t => t.Status == (byte)GeneralStatusType.Inactive);
+                            break;
+                        case "2":
+                            members = members.Where(t => t.Status == (byte)GeneralStatusType.Deleted);
+                            break;
+                    }
                 }
 
                 if (SubscribeList.SelectedValue != "")
                 {
                     query = string.Format("{0} AND(Newsletter = {1})", query, SubscribeList.SelectedValue);
+                    members = members.Where(t => t.Newsletter);
                 }
-
+                members = members.OrderByDescending(t => t.Createdate);
                 query = string.Format("{0} ORDER BY CreateDate desc ", query);
 
-                MemberGridView.DataSource = db.ExecuteQuery<Member>(query, new object[] { }).ToList<Member>();
+                MemberGridView.DataSource = members.ToList<Member>(); //db.ExecuteQuery<Member>(query, new object[] { }).ToList<Member>();
                 MemberGridView.PageIndex = pageIndex;
                 MemberGridView.DataBind();
             }

@@ -13,6 +13,7 @@
             <fieldset>
                 <legend>Filter </legend>
                 <div class="form-inline">
+                    <asp:TextBox ID="FilterTextBox" placeholder="Search with in email" MaxLength="30" runat="server"></asp:TextBox>
                     <asp:DropDownList ID="StatusDropDown" runat="server">
                         <asp:ListItem Value="">--Status--</asp:ListItem>
                         <asp:ListItem Value="0">Active</asp:ListItem>
@@ -31,6 +32,7 @@
                         <asp:ListItem Value="1">Yes</asp:ListItem>
                         <asp:ListItem Value="0">No</asp:ListItem>
                     </asp:DropDownList>
+                    
 
                     <asp:Button ID="SubmitButton" runat="server" Text="Filter" CssClass="btn btn-primary"
                         CausesValidation="false" OnClick="SubmitButton_Click" />

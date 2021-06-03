@@ -313,9 +313,9 @@ namespace IndiaBobbles
                 using (IndiaBobblesDataClassesDataContext dc = new IndiaBobblesDataClassesDataContext())
                 {
                     CacheManager.Add(string.Format("CategoryArticleCount{0}", c.ID), (from t in dc.Posts
-                                                              where t.Status == (byte)PostStatusType.Publish &&
-                                                                  t.Category == c.ID
-                                                              select t).Count(), DateTime.Now.AddMinutes(10));
+                                                                                      where t.Status == (byte)PostStatusType.Publish &&
+                                                                                          t.Category == c.ID
+                                                                                      select t).Count(), DateTime.Now.AddMinutes(10));
                 }
             }
             return CacheManager.Get<int?>(string.Format("CategoryArticleCount{0}", c.ID)).Value;
@@ -340,5 +340,127 @@ namespace IndiaBobbles
         }
         #endregion
     }
-}
 
+
+    public class FilterQueryParser
+    {
+        private List<List<string>> words;
+        public StructuredQuery squery;
+        public FilterQueryParser()
+        {
+            words = new List<List<string>>();
+            squery = new StructuredQuery();
+        }
+        public void Parse(string query)
+        {
+            string[] lines = query.Trim().Split(";".ToCharArray());
+            for (int i = 0; i < lines.Length; i++)
+            {
+                string line = lines[i];
+                if (!string.IsNullOrEmpty(line))
+                {
+                    string[] temp = line.Trim().Split(" ".ToCharArray());
+                    List<string> linelist = new List<string>();
+                    for (int j = 0; j < temp.Length; j++)
+                    {
+                        string w = temp[j];
+                        linelist.Add(w.ToLower());
+                    }
+                    if (linelist.Count > 0)
+                    {
+                        words.Add(linelist);
+                    }
+                }
+            }
+            foreach (List<string> line in words)
+            {
+                if (line[0] == "find")
+                {
+                    if (line[1] != "all")
+                    {
+                        int temp;
+                        if (int.TryParse(line[1], out temp))
+                        {
+                            squery.Take = temp;
+                        }
+
+                    }
+                }
+                else if (line[0] == "sort")
+                {
+                    if (line.Count == 4)
+                    {
+                        squery.Sorters.Add(new SortParam() { Column = line[2], Direction = line[3] });
+                    }
+                }
+                else if (line[0] == "where")
+                {
+                    bool iscolumnset = false;
+                    FilterParam fp = new FilterParam();
+                    foreach (string w in line)
+                    {
+
+                        if (w.StartsWith("\"") && !iscolumnset)
+                        {
+                            fp.Column = w.Trim("\"".ToCharArray());
+                            iscolumnset = true;
+                        }
+                        else if (w == "is" || w == "isnot" || w == "startswith" || w == "endswith" || w == "contains")
+                        {
+                            if (iscolumnset)
+                            {
+                                fp.Operator = w;
+                            }
+                        }
+                        else if (w == "and")
+                        {
+                            squery.Filters.Add(fp);
+                            fp = new FilterParam();
+                            iscolumnset = false;
+                        }
+                        else if (w == "where")
+                        {
+                            continue;
+                        }
+                        else
+                        {
+                            if (iscolumnset)
+                            {
+                                fp.Value = w.Trim("\"".ToCharArray());
+                            }
+                        }
+                    }
+                    if(!string.IsNullOrEmpty(fp.Column) && !string.IsNullOrEmpty(fp.Value))
+                    {
+                        squery.Filters.Add(fp);
+                    }
+                }
+            }
+        }
+    }
+    public class StructuredQuery
+    {
+        public int Take { get; set; }
+        public List<FilterParam> Filters { get; set; }
+        public List<SortParam> Sorters { get; set; }
+        public StructuredQuery()
+        {
+            Take = -1;
+            Filters = new List<FilterParam>();
+            Sorters = new List<SortParam>();
+        }
+
+    }
+    public struct FilterParam
+    {
+        public string Column { get; set; }
+        public string Operator { get; set; }
+        public string Value { get; set; }
+    }
+
+    public struct SortParam
+    {
+        public string Column { get; set; }
+        public string Direction { get; set; }
+    }
+}
