@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>0</ID>
+  <Title>Dunk A Lot Play Online</Title>
+  <MetaTitle>Dunk A Lot Game Play Online</MetaTitle>
+  <OGImage>https://indiabobbles.com/drive/videos/games/dunk-a-lot.webp</OGImage>
+  <OGDescription>Dunk A Lot Game Play Online</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>HTML5 Game, Arcade Game, Mobile Game, Free Game</Tag>
+  <Status>Publish</Status>
+  <Description>&lt;video autoplay="" muted="" loop="" playsinline=""&gt;
+&lt;source src="https://indiabobbles.com/drive/videos/games/basketballgame.mp4" type="video/mp4"&gt;
+&lt;/video&gt;</Description>
+  <Text>&lt;iframe width="100%" style="min-height:600px;max-height:80vh;" src="https://www.addictinggames.com/embed/html5-games/24555" scrolling="no"&gt;&lt;/iframe&gt;</Text>
+  <TemplateName>WideBlogTemplate</TemplateName>
+  <WriterName>Games</WriterName>
+  <WriterEmail>games@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>dunk-a-lot-play-online</URL>
+  <Sitemap>true</Sitemap>
+</Article>

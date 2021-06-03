@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>23</ID>
   <Name>payment-options</Name>
   <Title>Payment options offered by IndiaBobbles</Title>
@@ -30,7 +30,7 @@
                     The payment gateway is provided by Payumoney.COM
                 &lt;/p&gt;
                 &lt;p&gt;For Credit Card users: All prices are listed in Indian Rupees. If you use a non-Indian credit card, your bank will convert to your local currency based on prevailing exchange rates.&lt;/p&gt;
-                &lt;p&gt;For any payment related queries, please do email us at help@IndiaBobbles.in&lt;/p&gt;
+                &lt;p&gt;For any payment related queries, please do email us at rajkiran.singh@rudrasofttech.com&lt;/p&gt;
 
                 &lt;h4&gt;Who is PayUMoney?&lt;/h4&gt;
                 &lt;p&gt;
@@ -41,12 +41,13 @@
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;</Body>
-  <DateModified>2016-08-13T12:25:00.1728487-07:00</DateModified>
+  <DateModified>2020-07-11T02:34:45.9257285-04:00</DateModified>
   <Head>&lt;style&gt;
         body {
-            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+            background-image: url(//www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
         }
     &lt;/style&gt;</Head>
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>
+  <PageMeta />
 </CPage>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Bollywood vs Hollywood: Continued</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Bachchan-vs-Brando-2.jpg</OGImage>
+  <MetaTitle>Bollywood vs Hollywood: Continued</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Bachchan-vs-Brando-2.jpg</OGImage>
   <OGDescription>When Marlo offered Bachchan a...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>Brando's offer to Bachchan.</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Bachchan-vs-Brando-2.jpg" alt="Bachchan vs Brando" title="Bollywood vs Hollywood"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Bachchan-vs-Brando-2.jpg" alt="Bachchan vs Brando" title="Bollywood vs Hollywood"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/long-live-revolution" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/gags/long-live-revolution" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/the-satyagrah-strategy" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/the-satyagrah-strategy" &gt;Next&lt;/a&gt;
 &lt;H4 class="align center"&gt; Brando Trolled Yet Again!&lt;/h4&gt;
 &lt;br&gt;
 &lt;datasource name="ShareDataSource" /&gt;

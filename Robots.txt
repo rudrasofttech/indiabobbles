@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://www.indiabobbles.com/sitemap.xml 
+Sitemap: http://www.indiabobbles.com/sitemap.xml

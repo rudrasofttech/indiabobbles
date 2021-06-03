@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>11</ID>
   <Name>android-figurine</Name>
   <Title>Buy 3D Android Figurine Online - India Bobbles</Title>
@@ -13,29 +13,29 @@
         &lt;h1 class="bobbleheadname"&gt;Android Figurine&lt;/h1&gt;
         &lt;div class="row productpagerow"&gt;
             &lt;div class="col-sm-4"&gt;
-                &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Android%20Figurine%201.JPG" alt="" class="img-responsive" /&gt;
+                &lt;img src="//www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Android%20Figurine%201.JPG" alt="" class="img-responsive" /&gt;
                 &lt;h5&gt;&lt;b&gt;Gallery&lt;/b&gt;&lt;/h5&gt;
                 &lt;ul class="gallery"&gt;
                     &lt;li class="gallerycolumn"&gt;
-                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1.JPG" class="thumb" rel="group1"&gt;
-                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1-thumb.JPG"&gt;
+                        &lt;a href="//www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1.JPG" class="thumb" rel="group1"&gt;
+                            &lt;img src="//www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1-thumb.JPG"&gt;
                         &lt;/a&gt;
 
                     &lt;/li&gt;
                     &lt;li class="gallerycolumn"&gt;
-                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad2.JPG" class="thumb" rel="group1"&gt;
-                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1-thumb.JPG"&gt;
+                        &lt;a href="//www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad2.JPG" class="thumb" rel="group1"&gt;
+                            &lt;img src="//www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad1-thumb.JPG"&gt;
                         &lt;/a&gt;
 
                     &lt;/li&gt;
                     &lt;li class="gallerycolumn"&gt;
-                        &lt;a href="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad3.JPG" class="thumb" rel="group1"&gt;
-                            &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad3-thumb.JPG"&gt;
+                        &lt;a href="//www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad3.JPG" class="thumb" rel="group1"&gt;
+                            &lt;img src="//www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Ad3-thumb.JPG"&gt;
                         &lt;/a&gt;
                     &lt;/li&gt;
                 &lt;/ul&gt;
             &lt;/div&gt;
-            &lt;div class="col-sm-8 productdescription" style="background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/androidsketch.jpg);"&gt;
+            &lt;div class="col-sm-8 productdescription" style="background-image: url(//www.indiabobbles.com/drive/theme/khichdi/img/androidsketch.jpg);"&gt;
                 &lt;div class="subcontainer"&gt;
                     &lt;p class="productcontent"&gt;
                         &lt;br /&gt;
@@ -152,18 +152,18 @@
 
         $(document).ready(doWorkAfterLoading);
     &lt;/script&gt;</Body>
-  <DateModified>2017-02-10T03:41:36.0689714-07:00</DateModified>
+  <DateModified>2020-07-11T02:40:37.3397638-04:00</DateModified>
   <Head>&lt;meta name="description" content="" /&gt;
 &lt;meta property="og:type" content="article" /&gt;
-&lt;meta property="og:url" content="http://www.indiabobbles.com/android-figurine" /&gt;
+&lt;meta property="og:url" content="//www.indiabobbles.com/android-figurine" /&gt;
 &lt;meta property="og:site_name" content="IndiaBobbles" /&gt;
 &lt;meta property="og:title" content="Buy Android Figurine Online" /&gt;
 &lt;meta property="og:description" content="" /&gt;
-&lt;meta property="og:image" content="http://www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Android Figurine 1.JPG" /&gt;
-&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal.css" rel="Stylesheet" /&gt;
-&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal-darktheme.css" id="modaltheme"
+&lt;meta property="og:image" content="//www.indiabobbles.com/drive/Product-Photos/Figurine/Android/Android Figurine 1.JPG" /&gt;
+&lt;link href="//www.rudrasofttech.com/js-tools/modal/modal.css" rel="Stylesheet" /&gt;
+&lt;link href="//www.rudrasofttech.com/js-tools/modal/modal-darktheme.css" id="modaltheme"
     rel="Stylesheet" /&gt;
-&lt;script src="http://www.rudrasofttech.com/js-tools/modal/modal.js" type="text/javascript"&gt;&lt;/script&gt;</Head>
+&lt;script src="//www.rudrasofttech.com/js-tools/modal/modal.js" type="text/javascript"&gt;&lt;/script&gt;</Head>
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>
   <PageMeta>&lt;meta name="description" content="If you are big fans of android like as green robot figurines. Buy online android robot figurine with an affordable price. Get free shipping on all India Bobble products."/&gt;

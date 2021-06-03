@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>31</ID>
   <Name>master-blaster-bobblehead</Name>
   <Title>Master Blaster Bobblehead - India Bobbles</Title>
@@ -13,10 +13,10 @@
         &lt;h1 class="bobbleheadname"&gt;Master Blaster Bobblehead&lt;/h1&gt;
         &lt;div class="row productpagerow"&gt;
             &lt;div class="col-sm-4"&gt;
-                &lt;img src="http://www.indiabobbles.com/drive/Product-Photos/Bobblehead/Master-Blaster/Sachin.jpg" alt="" class="img-responsive" /&gt;
+                &lt;img src="//www.indiabobbles.com/drive/Product-Photos/Bobblehead/Master-Blaster/Sachin.jpg" alt="" class="img-responsive" /&gt;
 
             &lt;/div&gt;
-            &lt;div class="col-sm-8 productdescription" style="background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/sachinsketch.jpg);margin-top:40px;"&gt;
+            &lt;div class="col-sm-8 productdescription" style="background-image: url(//www.indiabobbles.com/drive/theme/khichdi/img/sachinsketch.jpg);margin-top:40px;"&gt;
                 &lt;div class="subcontainer"&gt;
                     &lt;p class="productcontent" style="line-height:35px;margin-bottom:0px;"&gt;
                         Just as his real version has for years, this Master Blaster bobble head is here to
@@ -133,10 +133,10 @@
 
         $(document).ready(doWorkAfterLoading);
     &lt;/script&gt;</Body>
-  <DateModified>2017-02-10T03:43:43.7155352-07:00</DateModified>
-  <Head>&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal.css" rel="stylesheet" /&gt;
-&lt;link href="http://www.rudrasofttech.com/js-tools/modal/modal-darktheme.css" rel="stylesheet" /&gt;
-&lt;script src="http://www.rudrasofttech.com/js-tools/modal/modal.js"&gt;&lt;/script&gt;</Head>
+  <DateModified>2020-07-11T02:14:03.6374901-04:00</DateModified>
+  <Head>&lt;link href="//www.rudrasofttech.com/js-tools/modal/modal.css" rel="stylesheet" /&gt;
+&lt;link href="//www.rudrasofttech.com/js-tools/modal/modal-darktheme.css" rel="stylesheet" /&gt;
+&lt;script src="//www.rudrasofttech.com/js-tools/modal/modal.js"&gt;&lt;/script&gt;</Head>
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>
   <PageMeta>&lt;meta name="description" content="Master Blaster Bobblehead is a perfect gift for every cricket lover in India. He is known as a “God of Cricket”. Buy now this edition is limited in our stock."/&gt;

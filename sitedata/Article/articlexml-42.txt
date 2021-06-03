@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>The Pride of India turns 83</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Kalam Saab Happy Birthday.jpg</OGImage>
+  <MetaTitle>The Pride of India turns 83</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Kalam Saab Happy Birthday.jpg</OGImage>
   <OGDescription>It his 83rd time and...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>It is Kalam Saab's 83rd and...</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Kalam Saab Happy Birthday.jpg" alt="83rd Birthday of Dr. A P J Kalam" title="A Very Happy Birthday to Kalaam Saab"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Kalam Saab Happy Birthday.jpg" alt="83rd Birthday of Dr. A P J Kalam" title="A Very Happy Birthday to Kalaam Saab"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/janadesh-india-2014" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/janadesh-india-2014" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/when-the-daku-went-pooping" &gt;Next&lt;/a&gt; 
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/when-the-daku-went-pooping" &gt;Next&lt;/a&gt; 
 &lt;H4 class="align center"&gt;From the Core of our Hearts&lt;/h4&gt;
 &lt;br&gt;
 &lt;datasource name="ShareDataSource" /&gt;

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Yes who?</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Badass.jpg</OGImage>
+  <MetaTitle>Yes who?</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Badass.jpg</OGImage>
   <OGDescription>Bollywood vs Hollywood.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,11 +16,11 @@
   <Description>Bollywood vs Hollywood.</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Badass.jpg" title="Badass Villains of Hollywood and Bollywood" alt="Joker vs Sambhar"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Badass.jpg" title="Badass Villains of Hollywood and Bollywood" alt="Joker vs Sambhar"&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/epic-war-of-the-old-and-badass" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/gags/epic-war-of-the-old-and-badass" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/who-gives-a-shit-about-the-sarkaar" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/gags/who-gives-a-shit-about-the-sarkaar" &gt;Next&lt;/a&gt;
 
 &lt;h3 class="align center"&gt;Bollywood vs Hollywood. &lt;/h3&gt;
 

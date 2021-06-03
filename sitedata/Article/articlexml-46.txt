@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>10 Reasons Mr. Bachchan is More than Just a Bollywood Super Star</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Bachchan-in-Facebook.jpg</OGImage>
+  <MetaTitle>10 Reasons Mr. Bachchan is More than Just a Bollywood Super Star</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Bachchan-in-Facebook.jpg</OGImage>
   <OGDescription>Big B is not just...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -19,57 +20,57 @@ A track record that has shades of a humble youngster of the early 70’s turning
 &lt;hr&gt;
 &lt;h2&gt;1. Iconic Parentage Notwithstanding&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Bachchan-Harivansh-Rai-Bachchan.jpg" alt="Amitabh with Father Mr. Harivansh Bachchan" title="Big B with Father Bachchan"&gt; 
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Bachchan-Harivansh-Rai-Bachchan.jpg" alt="Amitabh with Father Mr. Harivansh Bachchan" title="Big B with Father Bachchan"&gt; 
 &lt;h5&gt;
 Born to Teji and Harisvanshrai Bachchan, Amitabh was born in an intellectual family with modest lifestyle. Despite his parentage, he chose to make a living all by himself. Amitabh’s father is one of the four pillars of Hindi poetry called Chayaavaad. AB took the lineage forward by contributing his voice to narrate many of his father’s poems. 
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
 &lt;hr&gt;
 &lt;h2&gt;2. Extended Dignity to the Profession of Acting&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Bachchan-in-Facebook.jpg" alt="Amitabh Bachchan Facebook Page" title="Amitabh Bachchan's Facebook Page"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Bachchan-in-Facebook.jpg" alt="Amitabh Bachchan Facebook Page" title="Amitabh Bachchan's Facebook Page"&gt;
 &lt;h5&gt;
 He made acting a noble profession when every family used to tag actors as ‘good for nothing’ dumbos who are fatally self-obsessed with their image and live in a bog marred by perennial controversies. By the end of his youth, every parent wanted their son to be like him. Called as Mr. Politically Correct, AB refuses to court controversy even now, but takes a stand on issues that need attention. His modesty is a lesson every Indian looks up to. Be it a junior artist or a veteran, AB gels with everyone.
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
 &lt;hr&gt;
 &lt;h2&gt;3. Amitabh, the Lucky Mascot of Indian Cricket &lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Playing-Cricket.jpg" alt="Amitabh Batting" title="Amitabh Playing Cricket"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Playing-Cricket.jpg" alt="Amitabh Batting" title="Amitabh Playing Cricket"&gt;
 &lt;h5&gt; 
 The rise of Indian cricket is coincident with Amitabh’s career graph. He was invariably the ‘latent’ brand ambassador of Indian cricket. While Gundappa and Gavaskar were fighting it out against English and Aussies, AB never forgot to congratulate the team on success that followed. Whenever he did well on the screen, the Indian cricket team took the joy to the field. And why not…? he was one of the first celebrity cricket followers of that generation who brought glory to the country. His random idea of organizing Cricket world cup in India got wings in 1987, and since then the Cricket Mania never left the country or should we say the sub-continent!!! Amitabh continues to be an ardent sports fan.
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
 &lt;hr&gt;
 &lt;h2&gt;4. Synonymous with Punctuality &lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Punctual-Big-B.JPG" alt="Punctual Big B" title="Big B Running to be in Time"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Punctual-Big-B.JPG" alt="Punctual Big B" title="Big B Running to be in Time"&gt;
 &lt;h5&gt;
 He may be a Bollywood star, but his simplicity is contagious. Despite being a celebrity, he never reports late to any film set or event. He considers it his duty to save time and money for the organizers and the producers. 
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
 
 &lt;hr&gt;
 &lt;h2&gt;5. True Global citizen&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/AB-The-Great-Gatsby.jpg" alt="Amitabhwith Leonardo Di Caprio" title="Leonardo Di Caprio and Amitabh for The Great Gatsby"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/AB-The-Great-Gatsby.jpg" alt="Amitabhwith Leonardo Di Caprio" title="Leonardo Di Caprio and Amitabh for The Great Gatsby"&gt;
 &lt;h5&gt;
 Revered not just in India, AB is the brand image of Indian civil society all across the world. H has been honored with France’s highest civilian honor, the Knight of the Legion of Honor and was conferred with the Honorary Citizenship of the French town of Deauville. Even his wax statue at the London’s Madame Tussauds Wax Museum holds a special place. He was the first Asian celebrity to make it to the House of Wax.  
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt; 
 
 &lt;hr&gt;
 &lt;h2&gt;6. Greener Shorelines, Cleaner Sands&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Big-B-Cleanliness-Abhiyaan.jpg" alt="Cleanliness and Big B" title="Big B initiating the Cleanliness Abhiyaan"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Big-B-Cleanliness-Abhiyaan.jpg" alt="Cleanliness and Big B" title="Big B initiating the Cleanliness Abhiyaan"&gt;
 &lt;h5&gt;
 His ‘Silsila’ with poetry took him close to nature. It was not a ‘kabhi kabhi’ activity, but a full-fledged activism against garbage dumping in Mumbai. Whenever he is in Mumbai, AB turns into a Namak Halal of Mumbai. His cleanliness drives in Mumbai put the beaches back on track. Among the first true-Indian celebrity, AB took to streets to create awareness among the ‘who’s who’ of Mumbai in cleaning the beaches. His love for gardening and greenery is the prime reasons you will find the beaches in the city far clean. 
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
 &lt;hr&gt;
 &lt;h2&gt;7. Brand Value of Social and Environmental Issues&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Polio-Awareness.jpg" alt="Polio Awareness and Big B" title="Big B Brand Ambassador of the Polio Eradication Programme"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Polio-Awareness.jpg" alt="Polio Awareness and Big B" title="Big B Brand Ambassador of the Polio Eradication Programme"&gt;
 &lt;h5&gt;
 He is the Bade Miyaan of the branding market in India. Way back in the 80’s, AB voiced his concerns and became the face of the Project Tiger campaign. He is also an active member of PETA. His love for animals has earned him a rightful place among the top celebrities who are vouching for protection of environment and its inhabitants. The iconic brand ambassador of Gujarat Tourism, his voice is nuff to pull tourists to the Godly country side of Western India.
 &lt;/h5&gt;
@@ -77,31 +78,31 @@ He is the Bade Miyaan of the branding market in India. Way back in the 80’s, A
 &lt;h5&gt;
 He projected his ‘Mard’ image against drugs, sexual harassment and alcoholism that began in the early 80’s. Not many know that AB and his family is the first celebrity circle that pledged their bodies for donation. They are also the ‘Brand family’ for the Polio eradication campaign. Truth not be inflated, he might be one of the reasons Polio left India.  
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
 &lt;hr&gt;
 &lt;h2&gt;8. Phoenix with the Winning Spirit&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-KBC.jpg" alt="Big B in KBC" title="Big B in KBC"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-KBC.jpg" alt="Big B in KBC" title="Big B in KBC"&gt;
 &lt;h5&gt;
 Despite his successful career, he too suffered doldrums and health scares. He suffers from unbalanced limb functioning and muscular relegation. His biggest crisis came on the sets of Coolie, when a punch landed him in the hospital with serious internal injuries. When his films were flopping one after the other, he continued to stick to his principles and earned respect from the society and colleagues. He is an epitome of human endeavor and despite failures; he manages to win back hearts with his grit. Not many Bollywood stars can boast of a comeback that AB managed. He is the ‘Phoenix’ and continues to shine brighter than ever before.  
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
 &lt;hr&gt;
 &lt;h2&gt;9. Switch from Politics to Leadership&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/amitabh_bachchan-Politics.jpg" alt="Big B at an Election Campaign" title="Big B rendering a speech at an Election Campaign"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/amitabh_bachchan-Politics.jpg" alt="Big B at an Election Campaign" title="Big B rendering a speech at an Election Campaign"&gt;
 &lt;h5&gt; 
 When AB realized politics was not his thing, he left it without stirring controversies. He earned the enmity of friends and buddies but in the end he relished the decision to quit politics and become a social figure instead. His political satire and humorous comments marked with outstanding one-liners are not only entertaining but also inspiring. Most of his jokes have a latent message, delivered with sternly blank face. &lt;i&gt;Lal Badshah’s&lt;/i&gt; popularity soared after he left politics… when does that happen??? 
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
 &lt;hr&gt;
 &lt;h2&gt;10. Age is Just a Number&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Buddha-hoga-Tera-Baap.jpg" alt="Amitabh Promoting Buddha Hoga Tera Baap" title"Amitabh on a Harley"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Amitabh-more-than-a-Bollywood-Star/Amitabh-Buddha-hoga-Tera-Baap.jpg" alt="Amitabh Promoting Buddha Hoga Tera Baap" title"Amitabh on a Harley"&gt;
 &lt;h5&gt;  
 His energy is infectious. Not even his junior colleagues can match up to his activeness. Despite a few major health set-backs, AB continues to be as energetic as ever. KBC, the Gujarat Tourism ads, his latest flicks, award and event appearances, social work; all that vitality juices up to say nothing but- &lt;b&gt;&lt;i&gt;“BUDDHA HOGA TERA BAAP”&lt;/i&gt;&lt;/b&gt;.  
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" &gt;&lt;img src="http://www.indiabobbles.com/drive/Gags/Chhote-Bachchan.jpg" alt="Chhote Bachchan" Title="Click to Buy your own Chhote Bachchan Bobble head Now!" class="pull-right" style="margin-right: 5px;"/&gt;&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" &gt;&lt;img src="//www.indiabobbles.com/drive/Gags/Chhote-Bachchan.jpg" alt="Chhote Bachchan" Title="Click to Buy your own Chhote Bachchan Bobble head Now!" class="pull-right" style="margin-right: 5px;"/&gt;&lt;/a&gt;
 &lt;datasource name="ShareDataSource" /&gt;
 &lt;datasource name="DisqusDataSource" /&gt;</Text>
   <TemplateName>LeftColumnBlogTemplate</TemplateName>

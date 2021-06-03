@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Bollywood Movie Merchandise</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Movie-Merchandise.jpg</OGImage>
+  <MetaTitle>Bollywood Movie Merchandise</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Movie-Merchandise.jpg</OGImage>
   <OGDescription>Adorable or ...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>Adorable or...?</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Movie-Merchandise.jpg" alt="Indian Movie Merchandise" title="Collectible Indian Actor Figurines"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Movie-Merchandise.jpg" alt="Indian Movie Merchandise" title="Collectible Indian Actor Figurines"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/they-say-things-are-going-worse-kejriwaal-says-no-you-just-started-noticing" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/they-say-things-are-going-worse-kejriwaal-says-no-you-just-started-noticing" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/what-are-your-thoughts-on-over-exposure-of-cricket-in-india" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/what-are-your-thoughts-on-over-exposure-of-cricket-in-india" &gt;Next&lt;/a&gt;
 
 &lt;h3 class="align center"&gt;Adorable or Cheesy?&lt;/h3&gt;
 

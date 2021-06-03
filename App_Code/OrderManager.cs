@@ -136,7 +136,7 @@ namespace IndiaBobbles
                     oi.ProductCode = productCode;
                     oi.ProductImg = productImg;
                     oi.ProductName = productName;
-                    oi.Quantity = quantity * 2; //buy 1 get 1 free
+                    oi.Quantity = quantity;
                     oi.Amount = price * quantity;
                     dc.OrderItems.InsertOnSubmit(oi);
                 }

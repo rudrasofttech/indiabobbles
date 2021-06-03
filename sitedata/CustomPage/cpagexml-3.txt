@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>3</ID>
   <Name>about</Name>
   <Title>Handmade Bobble Heads | Hand Painted Figurines – India Boobles</Title>
@@ -28,7 +28,7 @@
                     &lt;/h5&gt;
                     &lt;p&gt;
                         Do we ever really grow up? It sure doesn't mean you have to give up on the habit
-                        of keeping your most favorite toys and http://www.indiabobbles.com/collectibles. Raj was forced ! To grow up, to earn, to take responsibility, but
+                        of keeping your most favorite toys and https://www.indiabobbles.com/collectibles. Raj was forced ! To grow up, to earn, to take responsibility, but
                         the child within was in utter state of denial. And that's when insanity
                         took over...
                     &lt;/p&gt;
@@ -43,11 +43,11 @@
                     &lt;/p&gt;
                     &lt;p&gt;
                         While randomly browsing through amazing collectible hubs like Royal Bobbles, Funko
-                        and NECA we thought why could we not own a piece of our favorite hero/celebrity in the form of a miniature or the most popular &lt;a href="http://www.indiabobbles.com/blog/history-and-evolution-of-the-bobble-head"&gt;'bobblehead'&lt;/a&gt; format? So, we decided to branch out of
-                        &lt;a href="http://www.rudrasofttech.com/"&gt;Rudra Softtech LLP&lt;/a&gt; (Raj’s Software Company)
+                        and NECA we thought why could we not own a piece of our favorite hero/celebrity in the form of a miniature or the most popular &lt;a href="https://www.indiabobbles.com/blog/history-and-evolution-of-the-bobble-head"&gt;'bobblehead'&lt;/a&gt; format? So, we decided to branch out of
+                        &lt;a href="//www.rudrasofttech.com/"&gt;Rudra Softtech LLP&lt;/a&gt; (Raj’s Software Company)
                         and make these lil-things-fun for our fellow Indians to buy.
                     &lt;/p&gt;
-                    &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection"&gt;&lt;img src="http://www.indiabobbles.com/drive/IB%20New%20Folder/About/Tanjore-Doll.jpg" alt="Tanjore Doll" class="pull-left" style="margin-right:5px;"&gt;&lt;/a&gt;
+                    &lt;a href="//www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection"&gt;&lt;img src="//www.indiabobbles.com/drive/IB%20New%20Folder/About/Tanjore-Doll.jpg" alt="Tanjore Doll" class="pull-left" style="margin-right:5px;"&gt;&lt;/a&gt;
                     &lt;p&gt;
                         The idea might seem to be coming from the west but we are pretty sure our world
                         famous Tanjore Dolls gave birth to the concept. Remember the dancing &lt;i&gt;
@@ -55,7 +55,7 @@
                         &lt;/i&gt;we bought home for Diwali?
                     &lt;/p&gt;
                     &lt;p&gt;
-                        So, which was born first, the bobble head dolls or &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection"&gt;“The Great Indian Head-Nod”&lt;/a&gt;?
+                        So, which was born first, the bobble head dolls or &lt;a href="//www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection"&gt;“The Great Indian Head-Nod”&lt;/a&gt;?
                         What? Are you one of those who do it and don’t know if it’s actually something?
                         O yeah it’s the head ‘‘bobble’’, we Indians are famous for. Sometimes it means yes
                         sometimes it means no and sometimes may be. So how are the two related? Wanna find
@@ -71,7 +71,7 @@
                     &lt;/p&gt;
                     &lt;p&gt;
                         So who was blah-blahing about giving happiness and inspiring big time? We all want
-                        to do that, at some point, for some special ones. Then why just buy any &lt;a href="http://www.indiabobbles.com/blog/most-thoughtful-and-unusual-gifts-for-those-you-love" target="_blank"&gt;&lt;b&gt;gift&lt;/b&gt;&lt;/a&gt; and
+                        to do that, at some point, for some special ones. Then why just buy any &lt;a href="//www.indiabobbles.com/blog/most-thoughtful-and-unusual-gifts-for-those-you-love" target="_blank"&gt;&lt;b&gt;gift&lt;/b&gt;&lt;/a&gt; and
                         get it over with? Grab one (or a collection) of our insanest collector's delights
                         and give a loved one (including you) a thought to remember! Inspiration and happiness
                         for keeps! Go ahead, your inner child will jump for joy.
@@ -83,7 +83,7 @@
                 &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;</Body>
-  <DateModified>2017-02-10T03:23:00.3394061-07:00</DateModified>
+  <DateModified>2020-07-11T02:51:44.0054921-04:00</DateModified>
   <Head />
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>

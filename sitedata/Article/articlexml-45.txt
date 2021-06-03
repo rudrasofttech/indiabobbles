@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>10 Big Reasons You Must Collect Indian Bobble Heads and Figurines</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Crack-pot-Collector.jpg</OGImage>
+  <MetaTitle>10 Big Reasons You Must Collect Indian Bobble Heads and Figurines</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Crack-pot-Collector.jpg</OGImage>
   <OGDescription>Bobble heads, like really? Yes, find out the 10 reasons to...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -14,7 +15,7 @@
   <Status>Publish</Status>
   <Description>Find out why you should buy these cute lil wobbling...</Description>
   <Text>&lt;h4&gt;
-Those of you who have been living under a rock- &lt;a href="http://www.indiabobbles.com/blog/history-and-evolution-of-the-bobble-head" target="_blank"&gt;a &lt;b&gt;bobble head&lt;/b&gt;&lt;/a&gt; is a tiny doll with over-sized head that wobbles with the slightest of taps. And Why? Why buy a Bobble head Collectible costing a little over the 500 leaf when there's hundreds of gifting platforms and the oh-so-popular e-commerce sites already there to sell hugely discounted gifting stuff that actually makes sense? 
+Those of you who have been living under a rock- &lt;a href="//www.indiabobbles.com/blog/history-and-evolution-of-the-bobble-head" target="_blank"&gt;a &lt;b&gt;bobble head&lt;/b&gt;&lt;/a&gt; is a tiny doll with over-sized head that wobbles with the slightest of taps. And Why? Why buy a Bobble head Collectible costing a little over the 500 leaf when there's hundreds of gifting platforms and the oh-so-popular e-commerce sites already there to sell hugely discounted gifting stuff that actually makes sense? 
 &lt;/h4&gt;
 &lt;h4&gt;
 Really? Is that what you think of collectibility? OK! We give you 10 safe and sound reasons as to why buying the Indian miniatures is a great idea. Le'go: 
@@ -22,14 +23,14 @@ Really? Is that what you think of collectibility? OK! We give you 10 safe and so
 &lt;hr&gt;
 &lt;h2&gt;1. History in a Doll&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/History-in-a-Doll.jpg" alt="Dandi March" title="Gandhi Bobble head inspired by Dandi March"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/History-in-a-Doll.jpg" alt="Dandi March" title="Gandhi Bobble head inspired by Dandi March"&gt;
 &lt;h4&gt;
 And what better way to teach your now and future kids about great Indian men and their larger than life actions? Bobbling inspiration per se?
 &lt;/h4&gt;
 &lt;hr&gt;
 &lt;h2&gt;2. Coolest Memorabilia&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Coolest-Bollywood-Memorabilia.jpg" alt="Bollywood Memorabilia" title="Daku Sambhar Bollywood Memorabilia Bobble head"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Coolest-Bollywood-Memorabilia.jpg" alt="Bollywood Memorabilia" title="Daku Sambhar Bollywood Memorabilia Bobble head"/&gt;
 &lt;h4&gt;
 Crazy Bollywood hound, can't get over &lt;i&gt;"Jo Dar gaya Samjho Mar Gaya"&lt;/i&gt; even now? Well here's your chance to keep it with you forever. ;) 
 &lt;/h4&gt;
@@ -43,35 +44,35 @@ Stick'em in your car or keep them at your favorite place in the house and they a
 &lt;hr&gt;
 &lt;h2&gt;4. Crazy Gift Idea for that Crack Pot Friend (Or You May Be) !&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Crack-pot-Collector.jpg" alt="Crazy Doga Fan" title="Crazy Doga Fan and Merchandise Collector"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Crack-pot-Collector.jpg" alt="Crazy Doga Fan" title="Crazy Doga Fan and Merchandise Collector"/&gt;
 &lt;h4&gt;
 Love Indian Comics? Or you an action figure fanatic? Or the star-wars-fantasy-lover-sort ? This is the perfect item to take hold of. 
 &lt;/h4&gt;
 &lt;hr&gt;
 &lt;h2&gt;5. Fun and Learn&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Fun-n-Learn-Kalaam-Saab.jpg" alt="Dr. Kalaam Missile Man of India" title="Missile Man of India Dr. Kalaam Bobble head"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Fun-n-Learn-Kalaam-Saab.jpg" alt="Dr. Kalaam Missile Man of India" title="Missile Man of India Dr. Kalaam Bobble head"/&gt;
 &lt;h4&gt;
  The likeness of excellence personified and the fun of a bobbling head just at the slightest tap. Need I say more?
 &lt;/h4&gt;
 &lt;hr&gt;
 &lt;h2&gt;6. The Quirk-Quality Equilibrium&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Elegance-Quirk-Bachchan-Bobble.jpg" alt="Bachchan vs Brando" title="Mr. Bachchan has class"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Elegance-Quirk-Bachchan-Bobble.jpg" alt="Bachchan vs Brando" title="Mr. Bachchan has class"/&gt;
 &lt;h4&gt;
 You are all about class but do not mind going off-beat. Well, these bobble heads are not only quirky but also very elegant considering the premium quality material they are made off.  PURE COLLECTIBLE STUFF!  
 &lt;/h4&gt;
 &lt;hr&gt;
 &lt;h2&gt;7. East is East&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Badass.jpg" alt="Badass Villains Gabbar and Joker" title="Yes Who? Gabbar of course!"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Badass.jpg" alt="Badass Villains Gabbar and Joker" title="Yes Who? Gabbar of course!"/&gt;
 &lt;h4&gt;
-Lets face it, everything (technology, products, lifestyle, mentality, what not?) that comes to us is like a 100 years old for the West. Although &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" target="_blank"&gt;Bobble heads originally belong to us&lt;/a&gt;, they have come to us years after the western countries adopted them. And now that they have, common grabe'm people! You still side &lt;i&gt;Gabbar&lt;/i&gt; right? 
+Lets face it, everything (technology, products, lifestyle, mentality, what not?) that comes to us is like a 100 years old for the West. Although &lt;a href="//www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" target="_blank"&gt;Bobble heads originally belong to us&lt;/a&gt;, they have come to us years after the western countries adopted them. And now that they have, common grabe'm people! You still side &lt;i&gt;Gabbar&lt;/i&gt; right? 
 &lt;/h4&gt;
 &lt;hr&gt;
 &lt;h2&gt;8. Well, You're Thoughtful !&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Gandhi-vs-Bhagat.jpg" alt="Bhagat Singh Poorna Swaraj" title="Bhagat calling for Porrna Swaraj "/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Gandhi-vs-Bhagat.jpg" alt="Bhagat Singh Poorna Swaraj" title="Bhagat calling for Porrna Swaraj "/&gt;
 &lt;h4&gt;
 That friend of yours gets all aggressive when hearing about the never-ending corruption in India? &lt;i&gt;"In saale netaaon ko to line se khada karke goliyon se uda dena chahiye"&lt;/i&gt; is part of every other &lt;i&gt;"Is desh ka kya hoga"&lt;/i&gt; conversation with him? Well guess what? He is a staunch believer of Bhagat Singh's philosophy of &lt;i&gt;Poorna Swaraj&lt;/i&gt;(Absolute Independence). Now go be a lamb and inspire him with his mini-idol. You thoughtful angel! 
 &lt;/h4&gt;
@@ -79,7 +80,7 @@ That friend of yours gets all aggressive when hearing about the never-ending cor
 &lt;hr&gt;
 &lt;h2&gt;9. Plain Indian Start-Up&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Start-Up.jpg" alt="India Bobbles Start-up" title="Random Home Picture of India Bobbles Products"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Start-Up.jpg" alt="India Bobbles Start-up" title="Random Home Picture of India Bobbles Products"/&gt;
 &lt;h4&gt;
 It is you who wants to end corruption in India; it is you who wants her to be as clean as your own house; it is you who thinks its high time she became more than a developing nation; it is only you who is capable of doing it today. And we can do it together. So be with us and support a small Indian start-up so it can continue to do its thing. We promise (in advance) to extend our support when your idea becomes a start-up. 
 &lt;/h4&gt;
@@ -87,11 +88,11 @@ It is you who wants to end corruption in India; it is you who wants her to be as
 &lt;hr&gt;
 &lt;h2&gt;10. You Have Earned It&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Kejriwaal-Bobblehead.jpg" alt="Arvind Kejriwaal Bobblehead" title="Arvind Kejriwaal Common Man Bobblehead" class="pull-left"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Kejriwaal-Bobblehead.jpg" alt="Arvind Kejriwaal Bobblehead" title="Arvind Kejriwaal Common Man Bobblehead" class="pull-left"/&gt;
 &lt;h4&gt;
 You work so hard; you care for people around you; you make lives better. You deserve every bit of happiness coming your way. Every "common man" does! Go ahead and get collecting these lil things that count because...
 &lt;/h4&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Youre-Awesome.jpg" alt="You're Awesome" title="Yes You! You're Awesome" /&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Reasons-to-buy-Indian-Bobble-Heads/Youre-Awesome.jpg" alt="You're Awesome" title="Yes You! You're Awesome" /&gt;
 &lt;datasource name="ShareDataSource" /&gt;
 &lt;datasource name="DisqusDataSource" /&gt;</Text>
   <TemplateName>LeftColumnBlogTemplate</TemplateName>

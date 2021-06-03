@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>22</ID>
   <Name>shipping-policy</Name>
   <Title>Shipping, Delivery and Refund Policy of IndiaBobbles</Title>
@@ -22,9 +22,9 @@
                     Items are processed and readied for shipping within 2 business days after receiving the order. We try to deliver the products to you within 2-3 days in major metro cities.
                     However, the duration of the delivery can take 8-10 working days depending on your delivery location. IndiaBobbles is not responsible for service transit time.
                     Delivery time to the end user is subject to factors beyond our control ("Force Majeure Event") including unexpected travel delays from our courier partners and
-                    transporters due to weather conditions and strikes. Transit times are provided by the carriers &lt;!--Blue Dart and Delivery--&gt; and may vary with package origin and destination,
-                    particularly during peak periods. &lt;!--All orders are shipped via Blue Dart or Delhivery.--&gt; All shipping costs are determined by the weight and volume of the items purchased,
-                    the method of shipping chosen, and the destination address. If you have any questions regarding shipping, please email us at:&lt;a href="mailto:help@indiabobbles.com"&gt;help@indiabobbles.com&lt;/a&gt;
+                    transporters due to weather conditions and strikes. Transit times are provided by the carriers and may vary with package origin and destination,
+                    particularly during peak periods. All shipping costs are determined by the weight and volume of the items purchased,
+                    the method of shipping chosen, and the destination address. If you have any questions regarding shipping, please email us at:&lt;a href="mailto:rajkiran.singh@rudrasofttech.com"&gt;rajkiran.singh@rudrasofttech.com&lt;/a&gt;
                 &lt;/p&gt;
                 &lt;p&gt;
                     We offer free shipping on all of our order and mostly use DTDC to ship our items. We do not promise to ship on all locations with in India.
@@ -47,25 +47,21 @@
                     Return address is:
                 &lt;/h4&gt;
                 &lt;address&gt;
-                    Flat 125, 3rd Floor&lt;br&gt;
-                    Pink Apartment, MIG&lt;br&gt;
-                    Sector 18B, Dwarka&lt;br&gt;
-                    New Delhi 110075&lt;br&gt;
+                    H104, Ajnara Daffodil&lt;br&gt;
+                    Sector 137, Noida&lt;br&gt;
+                    U.P. 201305&lt;br&gt;
                     India
                 &lt;/address&gt;
                 &lt;p&gt;
-                    In the rare case that you get a damaged product, please do take a picture of the same and email it to us : help@indiabobbles.com
+                    In the rare case that you get a damaged product, please do take a picture of the same and email it to us : rajkiran.singh@rudrasofttech.com
                     within 4 hours of receiving the courier. We shall send you a replacement or give you a refund(excluding shipping cost).
                 &lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;</Body>
-  <DateModified>2016-08-13T12:22:28.9679567-07:00</DateModified>
-  <Head>&lt;style&gt;
-        body {
-            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
-        }
-    &lt;/style&gt;</Head>
+  <DateModified>2020-07-11T02:38:12.5512074-04:00</DateModified>
+  <Head />
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>
+  <PageMeta />
 </CPage>

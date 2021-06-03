@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Jo Dar Gaya Wo Mar Gaya</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Sambhar-FB.jpg</OGImage>
+  <MetaTitle>Jo Dar Gaya Wo Mar Gaya</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Sambhar-FB.jpg</OGImage>
   <OGDescription>Jo Dar Gaya Wo...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>Jo Dar Gaya...</Description>
   <Text>&lt;div class="purplebox" style="text-align:center;"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Sambhar-FB.jpg" alt="Daku Sambhar and his lineage" title="The Daku Lineage"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Sambhar-FB.jpg" alt="Daku Sambhar and his lineage" title="The Daku Lineage"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/grab-the-dr-kalaam-bobble-head-collectible-now" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/grab-the-dr-kalaam-bobble-head-collectible-now" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/abki-baar-kiski-sarkaar" &gt;Next&lt;/a&gt; 
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/gags/abki-baar-kiski-sarkaar" &gt;Next&lt;/a&gt; 
 &lt;H4 class="align center"&gt;Courage Runs in the Family&lt;/h4&gt;
 &lt;br&gt;
 &lt;datasource name="ShareDataSource" /&gt;

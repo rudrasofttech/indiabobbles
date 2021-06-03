@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>India Bobbles' Exclusive Launch at Comic Con India, Delhi</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Comic-Con-Launch/Fb-Comic-Con-IB-Cover.jpg</OGImage>
+  <MetaTitle>India Bobbles' Exclusive Launch at Comic Con India, Delhi</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Comic-Con-Launch/Fb-Comic-Con-IB-Cover.jpg</OGImage>
   <OGDescription>India Bobbles' Exclusive Launch at Comic Con India, Delhi February 2014.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,9 +14,9 @@
   <Tag>India Bobbles, Comic Con India, Thyagaraj Stadium, Bobble Heads, Figurines, Collectibles, Merchandise, New Delhi.</Tag>
   <Status>Publish</Status>
   <Description>India Bobbles' Exclusive Launch at &lt;a href="http://www.comicconindia.com/" title="Comic Con India" target="_blank"/&gt;Comic Con India&lt;/a&gt;, Delhi.</Description>
-  <Text>&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Comic-Con-Launch/fb.jpg" alt="India Bobbles at Comic Con India" title="India Bobbles at Comic Con India"&gt;
+  <Text>&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Comic-Con-Launch/fb.jpg" alt="India Bobbles at Comic Con India" title="India Bobbles at Comic Con India"&gt;
 
-&lt;h5&gt;Event: &lt;a href="http://www.comicconindia.com/" target="_blank"&gt; Comic Con India&lt;/a&gt;, New Delhi.&lt;/h5&gt;
+&lt;h5&gt;Event: &lt;a href="//www.comicconindia.com/" target="_blank"&gt; Comic Con India&lt;/a&gt;, New Delhi.&lt;/h5&gt;
 
 &lt;h5&gt;Dates: 7-9 February 2014.&lt;/h5&gt;
 
@@ -27,7 +28,7 @@
 
 &lt;h5&gt;
 
-To all the busters and lovelies out there, here's something that you would not, at any cost, want to miss out on this month. Cosplay, comics, toys, merchandise, food and what not, &lt;a href="http://www.comicconindia.com/" target="_blank"/&gt;Comic Con India&lt;/a&gt; is THE event for a passionate comic-kinda-fun-fan to be part of. And India Bobbles' exclusive launch, for all fans to get the first feel of our super fun and inspirational bobbles and figurines, at the event would be just the cream in the coffee. 
+To all the busters and lovelies out there, here's something that you would not, at any cost, want to miss out on this month. Cosplay, comics, toys, merchandise, food and what not, &lt;a href="//www.comicconindia.com/" target="_blank"/&gt;Comic Con India&lt;/a&gt; is THE event for a passionate comic-kinda-fun-fan to be part of. And India Bobbles' exclusive launch, for all fans to get the first feel of our super fun and inspirational bobbles and figurines, at the event would be just the cream in the coffee. 
 
 &lt;/h5&gt;
 
@@ -36,7 +37,7 @@ To all the busters and lovelies out there, here's something that you would not, 
 Here's sending out a mass invitation to all you fans of the most Indian and collectible things ever made. To all who just love to be part of any thing fun and crazy. Be there, we promise its gonna be more than what you can expect of a Indian pop culture event. 
 &lt;/h5&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Comic-Con-Launch/Fb-Comic-Con-IB-Cover.jpg" alt="India Bobbles at Comic Con" title="India Bobbles Comic Con" &gt;    
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Comic-Con-Launch/Fb-Comic-Con-IB-Cover.jpg" alt="India Bobbles at Comic Con" title="India Bobbles Comic Con" &gt;    
 
 &lt;h4&gt;Come and be the first to pre-book these most fun but limited edition bobbles while you still can. They will be gone before you know. With love- INDIA BOBBLES.&lt;/h4&gt;
 

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Most Thoughtful and Unusual Gifts for Those You Love</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Gandhi-JI-Bobble-Head.JPG</OGImage>
+  <MetaTitle>Most Thoughtful and Unusual Gifts for Those You Love</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Gandhi-JI-Bobble-Head.JPG</OGImage>
   <OGDescription>While we all know what gifts to give on most occasions, sometimes there seem to be no options that are as special and as unique as the people we love...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -14,7 +15,7 @@
   <Status>Publish</Status>
   <Description>While we all know what gifts to give on most occasions, sometimes there seem to be no options that are as special and as unique as the people we love...</Description>
   <Text>&lt;h5&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Gifts-Dilemma.jpg" alt="What-to-gift-Dilemma" class="pull-right" style="margin-right: 5px;"/&gt;While we all know what gifts to give on most occasions, sometimes there seem to be no options that are as special and as unique as the people we love. Be it for friends who seem to have it all, family that seems to want nothing, or colleagues who have gone the extra mile, finding the perfect gift can be something that gives many of us sleepless nights.
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Gifts-Dilemma.jpg" alt="What-to-gift-Dilemma" class="pull-right" style="margin-right: 5px;"/&gt;While we all know what gifts to give on most occasions, sometimes there seem to be no options that are as special and as unique as the people we love. Be it for friends who seem to have it all, family that seems to want nothing, or colleagues who have gone the extra mile, finding the perfect gift can be something that gives many of us sleepless nights.
 &lt;/h5&gt;
 &lt;h5&gt;
 We here have compiled a small list that is as eclectic and special as the people you cherish, to make the occasion that much more memorable for everyone involved. After all, almost nothing equals the joy of a gift thoughtfully given and delightfully received!
@@ -24,54 +25,54 @@ We here have compiled a small list that is as eclectic and special as the people
 &lt;hr&gt;
 &lt;iframe width="420" height="315" src="//www.youtube.com/embed/3GihYQIhNUw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h5&gt;
-We start our list with adorable and all-too-collectible Bobble heads and miniatures. There’s no reason to grow up! (tssk—no one actually does, we are all children at heart!). Wouldn't life be simpler with a piece of your favorite hero, super-hero, zombie or any creature for that matter? Just by the side, to play, to talk to, to get inspired by...Aah !!!  These bobble heads, designed after famous personalities and characters are just the thing to make an occasion extra special ! Browse through &lt;ahref="http://www.indiabobbles.com/"&gt;India Bobbles&lt;/a&gt; who seek to introduce different kinds of &lt;a href="http://www.indiabobbles.com/bhagat-singh-figurine" target="_blank"&gt;figurines&lt;/a&gt; and bobble heads on India. Had a look at the amazing video and the fun the bobble unfolds?
+We start our list with adorable and all-too-collectible Bobble heads and miniatures. There’s no reason to grow up! (tssk—no one actually does, we are all children at heart!). Wouldn't life be simpler with a piece of your favorite hero, super-hero, zombie or any creature for that matter? Just by the side, to play, to talk to, to get inspired by...Aah !!!  These bobble heads, designed after famous personalities and characters are just the thing to make an occasion extra special ! Browse through &lt;ahref="//www.indiabobbles.com/"&gt;India Bobbles&lt;/a&gt; who seek to introduce different kinds of &lt;a href="//www.indiabobbles.com/bhagat-singh-figurine" target="_blank"&gt;figurines&lt;/a&gt; and bobble heads on India. Had a look at the amazing video and the fun the bobble unfolds?
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h4&gt;The Badass Who Refuses to Grow Up&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Harley-Scale-model.jpg" alt="Harley Davidson Scale Model"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Harley-Scale-model.jpg" alt="Harley Davidson Scale Model"/&gt;
 &lt;h5&gt;
-Continuing in that vein, and because gifts for men or the action girl can be so so difficult, are collectors’ models of badass bikes and cars. You can find them almost anywhere on the internet, from rediff and &lt;a href="http://www.giftingnation.com/collections/harley-davidson" target="_blank"&gt;&lt;b&gt;gifting nation&lt;/b&gt;&lt;/a&gt; which source from varied suppliers, or dedicated websites like &lt;i&gt;dreamcarmodels&lt;/i&gt; among others.
+Continuing in that vein, and because gifts for men or the action girl can be so so difficult, are collectors’ models of badass bikes and cars. You can find them almost anywhere on the internet, from rediff and &lt;a href="//www.giftingnation.com/collections/harley-davidson" target="_blank"&gt;&lt;b&gt;gifting nation&lt;/b&gt;&lt;/a&gt; which source from varied suppliers, or dedicated websites like &lt;i&gt;dreamcarmodels&lt;/i&gt; among others.
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h4&gt;Stuck with the Hard to Please Responsible Ones?&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/crafting.jpg" alt="Rusty-Hand-made-Crafts-for-Gifting"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/crafting.jpg" alt="Rusty-Hand-made-Crafts-for-Gifting"/&gt;
 &lt;h5&gt;
 For rustic yet unique gifts for all those in love with ethnic but who’re jaded with big stores, pick gorgeous silver jewelry, natural fiber bags, handmade stoles and fabric at the Surajkund Crafts Mela in February every year (which is also a great outing where you get to meet the artisans themselves). Other places such work is available at are websites like Shopo, Eyaas, UnwrapIndia, etc., which also seek to make a positive social impact on the sourcing end. What better way to combine gifting and responsibility? For more upmarket versions that combine handicrafts from different regions, look out for the work of young design graduates and entrepreneur-bloggers.
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h4&gt;Hands-On!&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Skil-hippo.jpg" alt="Online-Skill-Improvement"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Skil-hippo.jpg" alt="Online-Skill-Improvement"/&gt;
 &lt;h5&gt;
 For experiences your loved ones will cherish, you could even handpick hobby classes and skill-improving stints for your friends. Not only do services like SkillHippo offer a varied menu, they also prove to be platforms where your recipient will meet like minded people. You can also look around on Justdial etc for even more specific/conveniently located hobby classes. 
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h4&gt;Accessories that talk Whimsy and Tell Stories?&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Rhino-Girl-Brooch.jpg" alt="Whimsy-Rhino-Girl-Brooch"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Rhino-Girl-Brooch.jpg" alt="Whimsy-Rhino-Girl-Brooch"/&gt;
 &lt;h5&gt;
 If quirky and customised handmade jewellery in experimentive materials is your thing, you should not miss indie crafters and bloggers. Our pick for now is the very affordable &lt;a href="https://www.facebook.com/pages/Biigiis-Little-Shop/177984822382491" target="_blank"&gt;BiiGii’s Little Shop&lt;/a&gt; which stocks plenty of handmade earrings in refreshing patterns, and our personal favorite, quirky resin and clay pendants and brooches that spell adorable, whimsy and fun!
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h4&gt;We Know All your Quirks-and Be Sure, We are Going to Use Them!&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Comic.jpg" alt="Wacky-Personalized-Humor"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Comic.jpg" alt="Wacky-Personalized-Humor"/&gt;
 &lt;h5&gt;
 For whacky, witty and personalized family albums or invites, etc, check out the daredevil designers who will customize everything- from wedding cards to photojournals, scrapbooks and beyond. Our recommendation for this month is the talented husband-wife duo at &lt;a href="https://www.facebook.com/pages/Comicstrippers/280481738738195" target="_blank"&gt;ComicStrippers&lt;/a&gt;. You can even find personalized journals at stores like the People Tree. 
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h4&gt;&lt;i&gt;Main Hoon Na&lt;/i&gt; ! Smile when you please.&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Portfolio.jpg" alt="Portfolio-by-Abhishek-Patel"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/Portfolio.jpg" alt="Portfolio-by-Abhishek-Patel"/&gt;
 &lt;h5&gt;
 An entirely unforgettable gift for special occasions could also be you arranging for a photo session with the budding ilk of indie photographers. These indie photographers are perfect to capture and preserve those precious moments with family and friends. From candid shots that commemorate weddings, to art photography with newborns, family portraits, couples in love, and more, these photographers are good to go!
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h4&gt;&lt;i&gt;Dramebaaz&lt;/i&gt;, anyone?&lt;/h4&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/hornoktruck.jpg" alt="Horn-ok-Truck"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Unusual-Gifts/hornoktruck.jpg" alt="Horn-ok-Truck"/&gt;
 &lt;h5&gt;
 And lastly, for all the singles and who are so hard to please, the whacky and witty gifts like at Happily Unmarried and Chumbak could come as a refreshing change. The perennials among these are the ‘Ek Chini Do Chini’ tea cups, the whacky &lt;i&gt;Tohar, Hamaar&lt;/i&gt; shot glasses, and the loony fridge magnets.
 &lt;/h5&gt;
@@ -79,7 +80,7 @@ And lastly, for all the singles and who are so hard to please, the whacky and wi
 So go on, spread the joy of gifting, secure in the knowledge that you have come up with something entirely unique and appropriate to tell your friends and family just how much you appreciate having them around. Not only will these gifts be unforgettable for those who receive them, they will also add to the richness of your own life.
 &lt;/h5&gt;
 &lt;h5&gt;
-And guess what? This list was falling short for our recommendations of thoughtful gifts for your loved ones. So we came up with a sequel. Go discover our next set of crazy ideas in &lt;a href="http://www.indiabobbles.com/blog/most-thoughtful-and-unusual-gifts-for-those-you-love-part-2" target="_blank"&gt;Most Thoughtful and Unusual Gifts for Those You Love: Part 2.&lt;/a&gt; Common, Now!
+And guess what? This list was falling short for our recommendations of thoughtful gifts for your loved ones. So we came up with a sequel. Go discover our next set of crazy ideas in &lt;a href="//www.indiabobbles.com/blog/most-thoughtful-and-unusual-gifts-for-those-you-love-part-2" target="_blank"&gt;Most Thoughtful and Unusual Gifts for Those You Love: Part 2.&lt;/a&gt; Common, Now!
 &lt;/h5&gt;
 &lt;datasource name="ShareDataSource" /&gt;
 &lt;datasource name="DisqusDataSource" /&gt;</Text>

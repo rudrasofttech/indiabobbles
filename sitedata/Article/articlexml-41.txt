@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Janadesh India 2014</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Abki-Baar-Modi-Sarkaar.jpg</OGImage>
+  <MetaTitle>Janadesh India 2014</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Abki-Baar-Modi-Sarkaar.jpg</OGImage>
   <OGDescription>Poorna Bahumat...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>Poorna Bahumat ke Saath</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Abki-Baar-Modi-Sarkaar.jpg" alt="Abki Baar Modi Sarkaar" title="Gandhi Ji Happily Announces"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Abki-Baar-Modi-Sarkaar.jpg" alt="Abki Baar Modi Sarkaar" title="Gandhi Ji Happily Announces"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/daku-sambhar-is-desperate" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/gags/daku-sambhar-is-desperate" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/the-pride-of-india-dr-kalaam-turns-83" &gt;Next&lt;/a&gt; 
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/the-pride-of-india-dr-kalaam-turns-83" &gt;Next&lt;/a&gt; 
 &lt;H4 class="align center"&gt;Poorna Bahumat ke Saath&lt;/h4&gt;
 &lt;br&gt;
 &lt;datasource name="ShareDataSource" /&gt;

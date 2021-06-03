@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>0</ID>
+  <Title>Knives Game</Title>
+  <MetaTitle>Knives - Play Online Game</MetaTitle>
+  <OGImage>https://indiabobbles.com/drive/videos/games/knives.webp</OGImage>
+  <OGDescription />
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Online Game,</Tag>
+  <Status>Publish</Status>
+  <Description>Popular Knives Game</Description>
+  <Text>&lt;iframe width="100%" height="500px" src="https://www.addictinggames.com/embed/html5-games/23600" scrolling="no"&gt;&lt;/iframe&gt;</Text>
+  <TemplateName>WideBlogTemplate</TemplateName>
+  <WriterName>Games</WriterName>
+  <WriterEmail>games@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>knives-game</URL>
+  <Sitemap>true</Sitemap>
+</Article>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>He Had a Dream Too...</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Kalaam-Saab-Quote.jpg</OGImage>
+  <MetaTitle>He Had a Dream Too...</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Kalaam-Saab-Quote.jpg</OGImage>
   <OGDescription>When Kalaam Saab...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>Dreams and...</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Kalaam-Saab-Quote.jpg" alt="Dreams and Dr. Kalaam Saab" title="Dr. APJ Abdul Kalaam on Conviction"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Kalaam-Saab-Quote.jpg" alt="Dreams and Dr. Kalaam Saab" title="Dr. APJ Abdul Kalaam on Conviction"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/plight-of-the-indian-avengers" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/plight-of-the-indian-avengers" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/they-say-things-are-going-worse-kejriwaal-says-no-you-just-started-noticing" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/they-say-things-are-going-worse-kejriwaal-says-no-you-just-started-noticing" &gt;Next&lt;/a&gt;
 
 &lt;h4 class="align center"&gt;Dreams, Conviction and Kalaam Saab&lt;/h4&gt;
 

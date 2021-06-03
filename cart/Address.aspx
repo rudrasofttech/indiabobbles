@@ -122,6 +122,7 @@
                                             </asp:ListItem>
                                             <asp:ListItem Value="West Bengal">West Bengal
                                             </asp:ListItem>
+                                            <asp:ListItem Value="Telangana">Telangana</asp:ListItem>
                                         </asp:DropDownList>
                                     </div>
                                     <div class="form-group">
@@ -238,8 +239,10 @@
                                             </asp:ListItem>
                                             <asp:ListItem Value="Tamil Nadu">Tamil Nadu
                                             </asp:ListItem>
+                                            <asp:ListItem Value="Telangana">Telangana</asp:ListItem>
                                             <asp:ListItem Value="Tripura">Tripura
                                             </asp:ListItem>
+
                                             <asp:ListItem Value="Uttar Pradesh">Uttar Pradesh
                                             </asp:ListItem>
                                             <asp:ListItem Value="Uttarakhand">Uttarakhand

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Long Live Revolution?</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Bhagat-Vs-Gandhi.jpg</OGImage>
+  <MetaTitle>Long Live Revolution?</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Bhagat-Vs-Gandhi.jpg</OGImage>
   <OGDescription>Long Live...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>Is Bhagat about to shoot...</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Bhagat-Vs-Gandhi.jpg" alt="Bhagat Singh vs Gandhi Ji" title="Gandhi Ji Bobble Head and Bhagat Singh Figurine"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Bhagat-Vs-Gandhi.jpg" alt="Bhagat Singh vs Gandhi Ji" title="Gandhi Ji Bobble Head and Bhagat Singh Figurine"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/daku-sambhar-singh-and-his-story" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/gags/daku-sambhar-singh-and-his-story" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/bollywood-vs-hollywood-continued" &gt;Next&lt;/a&gt; 
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/gags/bollywood-vs-hollywood-continued" &gt;Next&lt;/a&gt; 
 &lt;H4 class="align center"&gt; Bhagtya Trolled!&lt;/h4&gt;
 &lt;br&gt;
 &lt;datasource name="ShareDataSource" /&gt;

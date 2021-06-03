@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>The Time We Went to a School Carnival</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/bal-bharti.jpg</OGImage>
+  <MetaTitle>The Time We Went to a School Carnival</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/bal-bharti.jpg</OGImage>
   <OGDescription>It is always fun to visit events and more so when behind the counters...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,26 +14,26 @@
   <Tag>India Bobbles, Indian Bobbles, Indian Bobble heads, Gifts, Unusual Gifts, Bobble heads India, School Carnivals, Bal Bharti Public School.</Tag>
   <Status>Publish</Status>
   <Description>The time we went to a school carnival...</Description>
-  <Text>&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/bal-bharti.jpg" alt="Kids at School Carnival" title="Kids at School Carnival"&gt;
+  <Text>&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/bal-bharti.jpg" alt="Kids at School Carnival" title="Kids at School Carnival"&gt;
 &lt;h5&gt;
 Visiting events is by far our favorite thing to do. Although tiring, there is so much to look forward to from being part of these events, big and small alike: 
 &lt;ol&gt;
 &lt;li&gt;Risen sales figures. Moneeeeyyy!&lt;img alt="Big grin" width="40" height="51"
-        src="http://www.sherv.net/cm/emo/happy/big-grin-smiley-emoticon.gif"&gt;&lt;/li&gt;
+        src="//www.sherv.net/cm/emo/happy/big-grin-smiley-emoticon.gif"&gt;&lt;/li&gt;
 &lt;li&gt;Interaction with lovely people, who become fans of the future.&lt;/li&gt;
 &lt;li&gt;B to B interaction and future deals.&lt;/li&gt;
 &lt;li&gt;A whole fun day surrounded by cool people just like us.&lt;/li&gt;
-&lt;li&gt;And a lot of memorable pictures and selfies to flaunt.&lt;img alt="Smiley winks" width="30" height="30" src="http://www.sherv.net/cm/emoticons/flirt/smiley-winks-emoticon.gif"&gt;&lt;/li&gt;
+&lt;li&gt;And a lot of memorable pictures and selfies to flaunt.&lt;img alt="Smiley winks" width="30" height="30" src="//www.sherv.net/cm/emoticons/flirt/smiley-winks-emoticon.gif"&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/h5&gt;
 &lt;h5&gt;
-Earlier this year we visited &lt;a href="http://www.indiabobbles.com/blog/overwhelming-launch-at-comic-con-delhi-way-to-go"&gt;&lt;u&gt;Comic Con&lt;/u&gt;&lt;/a&gt;, sometime in September we even saw the beginning of the &lt;a href="http://www.indiabobbles.com/blog/india-bobbles-at-the-anime-con-india"&gt;&lt;u&gt;Anime Con&lt;/u&gt;&lt;/a&gt; franchise and by year end this really sweet Carnival gathering of our Dwarka neighbours called the Bal Bharti Public School. 
+Earlier this year we visited &lt;a href="//www.indiabobbles.com/blog/overwhelming-launch-at-comic-con-delhi-way-to-go"&gt;&lt;u&gt;Comic Con&lt;/u&gt;&lt;/a&gt;, sometime in September we even saw the beginning of the &lt;a href="//www.indiabobbles.com/blog/india-bobbles-at-the-anime-con-india"&gt;&lt;u&gt;Anime Con&lt;/u&gt;&lt;/a&gt; franchise and by year end this really sweet Carnival gathering of our Dwarka neighbours called the Bal Bharti Public School. 
 &lt;/h5&gt;
 &lt;h5&gt;
 School events are different. Who comes there to buy stuff? Nope! No one! All kids have in mind is the number of rides they get to do and parents (our primary target audience. pfft! ) who have to spend a Sunday outside their cozy quilts running after kids and stopping them from doing almost everything, including buying useless stuff from us :D. 
 &lt;/h5&gt;
 &lt;h5&gt;But boy! What enthusiasm! You feel like shutting your stall and becoming a kid for the day. Raj says to me, "If it were my school times, I'd go crazy today". Sales figures, profits, all that jazz is important for a business but sometimes you just gotta live and learn. All in all, it is about being part of an experience and living it to the fullest. Which we did! Hoping for more such great times in future and living the times of our lives.Cheers :)&lt;/h5&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/School-Carnival.jpg" alt="India Bobbles Stall" title="Raj at the India Bobbles Booth at the Carnival"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/School-Carnival.jpg" alt="India Bobbles Stall" title="Raj at the India Bobbles Booth at the Carnival"&gt;
 &lt;datasource name="ShareDataSource" /&gt;
 &lt;datasource name="DisqusDataSource" /&gt;</Text>
   <TemplateName>LeftColumnBlogTemplate</TemplateName>

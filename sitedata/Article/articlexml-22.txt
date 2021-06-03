@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Yes Who?</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Dr.Kalaam-vs-Einstein.jpg</OGImage>
+  <MetaTitle>Yes Who?</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Dr.Kalaam-vs-Einstein.jpg</OGImage>
   <OGDescription>Yes who?</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>Science Rocks!</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Dr.Kalaam-vs-Einstein.jpg" alt="Dr Kalaam and Einstein Bobble heads" title="Dr Kalaam and Einstein Bobble heads"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Dr.Kalaam-vs-Einstein.jpg" alt="Dr Kalaam and Einstein Bobble heads" title="Dr Kalaam and Einstein Bobble heads"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/what-is-it-with-the-indian-head-bobble" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/what-is-it-with-the-indian-head-bobble" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/do-you-know-what-that-means" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/do-you-know-what-that-means" &gt;Next&lt;/a&gt;
 
 &lt;H4 class="align center"&gt; Yes, Who is India's Favorite?&lt;/h4&gt;
 

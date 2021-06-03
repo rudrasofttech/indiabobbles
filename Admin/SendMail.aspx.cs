@@ -17,46 +17,26 @@ public partial class Admin_SendMail : AdminPage
         }
         if (!Page.IsPostBack && !Page.IsCallback)
         {
-            if (ID > 0)
+
+            Member m = MemberManager.GetUser(ID);
+            if (m != null)
             {
-                Member m = MemberManager.GetUser(ID);
-                if (m != null)
-                {
-                    ToNameTextBox.Text = m.MemberName;
-                    ToEmailTextBox.Text = m.Email;
+                ToNameTextBox.Text = m.MemberName;
+                ToEmailTextBox.Text = m.Email;
 
-
-                }
-
-                if (Request["email"] != null)
-                {
-                    ToEmailTextBox.Text = Request["email"].ToString();
-                }
-                if (Request["name"] != null)
-                {
-                    ToNameTextBox.Text = Request["name"].ToString();
-                }
-                FromEmailTextBox.Text = Utility.NewsletterEmail;
-                FromNameTextBox.Text = Utility.AdminName;
+                
             }
-            else if (!string.IsNullOrEmpty(Request.QueryString["emailid"]))
+
+            if(Request["email"] != null)
             {
-                Guid emailid;
-                if(Guid.TryParse(Request.QueryString["emailid"].ToString(), out emailid))
-                {
-                    EmailMessage em= EmailManager.GetMessage(emailid);
-                    if(em != null)
-                    {
-                        ToEmailTextBox.Text = em.ToAddress;
-                        ToNameTextBox.Text = em.ToName;
-                        FromNameTextBox.Text = em.FromName;
-                        ETypeList.SelectedValue = em.EmailType.ToString();
-                        EGroupTextBox.Text = em.EmailGroup;
-                        SubjectTextBox.Text = em.Subject;
-                        MessageTextBox.Text = em.Message;
-                    }
-                }
+                ToEmailTextBox.Text = Request["email"].ToString();
             }
+            if (Request["name"] != null)
+            {
+                ToNameTextBox.Text = Request["name"].ToString();
+            }
+            FromEmailTextBox.Text = Utility.NewsletterEmail;
+            FromNameTextBox.Text = Utility.AdminName;
         }
     }
 

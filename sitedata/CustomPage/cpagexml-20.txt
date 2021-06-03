@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>20</ID>
   <Name>privacy-policy</Name>
   <Title>Privacy Policy of IndiaBobbles</Title>
@@ -109,12 +109,9 @@
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;</Body>
-  <DateModified>2016-08-13T12:17:38.0717107-07:00</DateModified>
-  <Head>&lt;style&gt;
-        body{
-            background-image:url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
-        }
-    &lt;/style&gt;</Head>
+  <DateModified>2020-07-11T02:38:56.7566377-04:00</DateModified>
+  <Head />
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>
+  <PageMeta />
 </CPage>

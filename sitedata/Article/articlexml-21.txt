@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>What is it with the Indian Head Bobble?</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Indian-Head-Bobble.jpg</OGImage>
+  <MetaTitle>What is it with the Indian Head Bobble?</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Indian-Head-Bobble.jpg</OGImage>
   <OGDescription>Wait, what's with the head Bobble after all...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>Wait, what's with the head Bobble after all...</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src= "http://www.indiabobbles.com/drive/Gags/Indian-Head-Bobble.jpg" alt="The Indian Head Bobble" title="India Bobbles"&gt;
+&lt;img src= "//www.indiabobbles.com/drive/Gags/Indian-Head-Bobble.jpg" alt="The Indian Head Bobble" title="India Bobbles"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/father-of-the-bobble-head"&gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/father-of-the-bobble-head"&gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/yes-who-is-indias-favorite" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/yes-who-is-indias-favorite" &gt;Next&lt;/a&gt;
 
 &lt;H4 class="align center"&gt; Yeah right?&lt;/h4&gt;
 

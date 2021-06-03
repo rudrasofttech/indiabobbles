@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>0</ID>
+  <Title>Bubble Spinner Play Online</Title>
+  <MetaTitle>Bubble Spinner Play Online Free Game</MetaTitle>
+  <OGImage />
+  <OGDescription />
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>HTML5 Game, Arcade Game, Mobile Game, Free Game</Tag>
+  <Status>Publish</Status>
+  <Description>Bubble Spinner Play Online</Description>
+  <Text>&lt;iframe width="500" height="500" src="https://www.addictinggames.com/embed/html5-games/19016" scrolling="no" align="center"&gt;&lt;/iframe&gt;</Text>
+  <TemplateName>WideBlogTemplate</TemplateName>
+  <WriterName>Games</WriterName>
+  <WriterEmail>games@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>bubble-spinner-play-online</URL>
+  <Sitemap>true</Sitemap>
+</Article>

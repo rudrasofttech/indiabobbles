@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Epic War of The Old and Badass</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/BAchchan-Brando.jpg</OGImage>
+  <MetaTitle>Epic War of The Old and Badass</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/BAchchan-Brando.jpg</OGImage>
   <OGDescription>Iske alawa tumhare paas kya hai?</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,11 +16,11 @@
   <Description>Epic War of The Old and Badass</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/BAchchan-Brando.jpg" alt="Marlon Brando Bobble Head vs Chhote Bachchan Bobble Head" Title="Brando vs Bachchan"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/BAchchan-Brando.jpg" alt="Marlon Brando Bobble Head vs Chhote Bachchan Bobble Head" Title="Brando vs Bachchan"&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/abki-baar-kiski-sarkaar" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/gags/abki-baar-kiski-sarkaar" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/bollywood-vs-hollywood" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/gags/bollywood-vs-hollywood" &gt;Next&lt;/a&gt;
 
 &lt;h3 class="align center"&gt;The War of The Bobble Heads&lt;/h3&gt;
 

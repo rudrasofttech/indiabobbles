@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Who Gives a Shit, Eh?</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Bhagat-Sambhar-Facebook.jpg</OGImage>
+  <MetaTitle>Who Gives a Shit, Eh?</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Bhagat-Sambhar-Facebook.jpg</OGImage>
   <OGDescription>Who gives a shit about the Sarkaar, eh? Somebody...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,11 +16,11 @@
   <Description>Who gives a shit about the Sarkaar, eh? Somebody...</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Bhagat-Sambhar-Facebook.jpg" alt="Daku Sambhar vs Bhagat Singh" title="Daku Sambhar Bobble Head and Bhagat Singh Figurine discuss the government" &gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Bhagat-Sambhar-Facebook.jpg" alt="Daku Sambhar vs Bhagat Singh" title="Daku Sambhar Bobble Head and Bhagat Singh Figurine discuss the government" &gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/gags/bollywood-vs-hollywood" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/gags/bollywood-vs-hollywood" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/bhagat-is-coming-back" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/bhagat-is-coming-back" &gt;Next&lt;/a&gt;
 
 &lt;h4 class="align center"&gt;Who gives a shit about the Sarkaar, eh? Somebody Does...&lt;/h4&gt;
 

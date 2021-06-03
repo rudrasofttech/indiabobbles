@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>India Bobbles at the Anime Con India</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Anime Con India/India-Bobbles-Sneak-Preview.jpg</OGImage>
+  <MetaTitle>India Bobbles at the Anime Con India</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Anime Con India/India-Bobbles-Sneak-Preview.jpg</OGImage>
   <OGDescription>India Bobbles at the 5th Anime Convention, Delhi.</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,17 +14,17 @@
   <Tag>India Bobbles, Anime Con India, Bobble heads, Figurines, Indian Bobble heads.</Tag>
   <Status>Publish</Status>
   <Description>India Bobbles at the Anime Con India</Description>
-  <Text>&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Anime Con India/Anime-Con-Banner.jpg"  alt="India Bobbles at Anime Con India" /&gt;
+  <Text>&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Anime Con India/Anime-Con-Banner.jpg"  alt="India Bobbles at Anime Con India" /&gt;
 &lt;h5&gt;
 After a flooding response at Comic Con India earlier this year, India Bobbles made way to the 5th Anime Convention in the capital. A super successful pre-launch at the Con gave way to our next public encounter where our entire collectible range was up for sale. Not only that, we also put up a sneak peek for our fans to view a few of our future designs. What fun! Woooo :)Also, many thanks to &lt;a href="https://www.facebook.com/GLYPHtshirtco" target="_blank"&gt;Glyph&lt;/a&gt; and Hysteria for their kind support. 
 &lt;/h5&gt;
 &lt;h4&gt;&lt;b&gt;Event&lt;/b&gt;: The 5th Anime Convention, Delhi.&lt;/b&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;b&gt;Dates&lt;/b&gt;: 17-19th October 2014&lt;/b&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;b&gt;Venue&lt;/b&gt;: NSIC (National Small Industries Corporation) Exhibition Complex, Booth 7.&lt;/h4&gt;
-&lt;h4&gt;&lt;b&gt;Products for Sale&lt;/b&gt;: &lt;a href="http://www.indiabobbles.com/daku-sambhar-singh-bobble-head" target="_blank"&gt;Daku Sambhar Bobble Head&lt;/a&gt;, &lt;a href="http://www.indiabobbles.com/mahatma-gandhi-bobblehead" target="_blank"&gt;Mahatma Gandhi Bobble Head&lt;/a&gt;, &lt;a href="http://www.indiabobbles.com/bhagat-singh-figurine" target="_blank"&gt; Bhagat Singh Figurine&lt;/a&gt;, &lt;a href="http://www.indiabobbles.com/dr-abdul-kalam-bobblehead" target="_blank"&gt; Dr. Kalaam Bobble Head&lt;/a&gt; and &lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" target="_blank"&gt;Chhote Bachchan Bobble Head &lt;/a&gt;.&lt;/h4&gt;  
+&lt;h4&gt;&lt;b&gt;Products for Sale&lt;/b&gt;: &lt;a href="//www.indiabobbles.com/daku-sambhar-singh-bobble-head" target="_blank"&gt;Daku Sambhar Bobble Head&lt;/a&gt;, &lt;a href="//www.indiabobbles.com/mahatma-gandhi-bobblehead" target="_blank"&gt;Mahatma Gandhi Bobble Head&lt;/a&gt;, &lt;a href="//www.indiabobbles.com/bhagat-singh-figurine" target="_blank"&gt; Bhagat Singh Figurine&lt;/a&gt;, &lt;a href="//www.indiabobbles.com/dr-abdul-kalam-bobblehead" target="_blank"&gt; Dr. Kalaam Bobble Head&lt;/a&gt; and &lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" target="_blank"&gt;Chhote Bachchan Bobble Head &lt;/a&gt;.&lt;/h4&gt;  
 &lt;h4&gt;&lt;b&gt;Sneak Preview&lt;/b&gt;: Kejriwaal AAM AADMI Bobble Head, Nazarbattu Bobble head, Master Blaster Bobble Head, Doga RAJ COMICS Action Figure and Android Figurine.&lt;/h4&gt; 
 &lt;b&gt;Our booth at the event&lt;/b&gt;. 
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Anime Con India/At-Anime-Con.jpg" alt="India Bobbles at Anime Con India" title="India Bobbles Booth at the Anime Con India"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Anime Con India/At-Anime-Con.jpg" alt="India Bobbles at Anime Con India" title="India Bobbles Booth at the Anime Con India"&gt;
 &lt;h5&gt;&lt;i&gt;Did you miss it? Find details &lt;a href="https://www.facebook.com/IndiaBobbles" target="_blank"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;/h5&gt;
 &lt;datasource name="ShareDataSource" /&gt;
 &lt;datasource name="DisqusDataSource" /&gt;</Text>

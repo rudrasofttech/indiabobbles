@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>33</ID>
   <Name>articles/index</Name>
   <Title>Articles</Title>
@@ -19,12 +19,13 @@
             &lt;datasource name="ArticleDataSource" /&gt;
         &lt;/div&gt;
     &lt;/section&gt;</Body>
-  <DateModified>2016-08-14T03:50:59.7191977-07:00</DateModified>
+  <DateModified>2020-07-11T02:12:15.4787205-04:00</DateModified>
   <Head>&lt;style&gt;
         body{
-            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+            background-image: url(//www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
         }
     &lt;/style&gt;</Head>
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>
+  <PageMeta />
 </CPage>

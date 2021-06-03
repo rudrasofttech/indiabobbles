@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>11 Start-up Lessons that Need to be Applied to Your Love Life, Now!</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-Work.jpg</OGImage>
+  <MetaTitle>11 Start-up Lessons that Need to be Applied to Your Love Life, Now!</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-Work.jpg</OGImage>
   <OGDescription>These lessons will...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,7 +14,7 @@
   <Tag>Valentines' Day, India Bobbles, Start-Ups, Entrepreneurship, Love-lessons, Start-up lessons, Love, Life.</Tag>
   <Status>Publish</Status>
   <Description>Love and business are no different. It's just that...</Description>
-  <Text>&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/love-startup.jpg" alt="Love at heart Start-up in Mind" title="Love at heart Start-up in Mind"&gt;
+  <Text>&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/love-startup.jpg" alt="Love at heart Start-up in Mind" title="Love at heart Start-up in Mind"&gt;
 &lt;h5&gt;
 We are often told not to bring work home. Justly! The time is supposed to be spent with family but let me tell you, work and love life are exactly the same when it comes to defining your approach towards them. Don't believe us? Read on to discover these eleven love lessons you learn from running a start-up. I did! 
 &lt;/h5&gt;
@@ -34,7 +35,7 @@ Facebook marketing does not work for you but internet marketing, on the whole, g
 &lt;hr&gt;
 &lt;h5&gt;We all dream to be billionaires with that one idea we have been nurturing for years. That's what drives us. The dream of the perfect life with loads of money and the love of our dream person. It'll all come true one day and...Poof! Its all very passionate and lovey-dovey in the beginning but just like a business needs to go beyond the idea-validation period and be accepted by customers for a long-long time, love sparks also die off soon and sometimes do not even go beyond the honeymoon period. In both cases, what comes after that period is REAL! Can you handle REAL?   
 
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-vs-Money.jpg" alt="Love/Money" title"Love and Money"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-vs-Money.jpg" alt="Love/Money" title"Love and Money"&gt;
 
 &lt;hr&gt;
 &lt;h2&gt;4. Nothing is Permanent&lt;/h2&gt;
@@ -53,7 +54,7 @@ Capital money is crucial. It decides how big your business can become, it decide
 &lt;h5&gt;Nobody likes a nasty boss or co-worker, no matter how important or urgent a task is, a great leader will always get it done politely (Even if it requires you to curb your anger). Likewise, no matter how well you know your spouse and vice-versa, filthy vocabulary will only earn you disrespect and bottled-up anger. Remember, criticism works but treat your better half with love and see what magic it brings to both your moods. You wouldn't even remember there was a problem in the first place! I speaketh from experience, my friend ;) 
 &lt;/h5&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-Work.jpg" alt="Work-Love balance" title="Work-Life Balance"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Love-Work.jpg" alt="Work-Love balance" title="Work-Life Balance"&gt;
 
 &lt;hr&gt;
 &lt;h2&gt;7. Celebrate&lt;/h2&gt;
@@ -70,7 +71,7 @@ Capital money is crucial. It decides how big your business can become, it decide
 &lt;hr&gt;
 &lt;h5&gt; Just like every great business takes a while to set-up, grow and flourish, a good relationship demands a lot of 'being there'. Human beings are complicated and figuring one out and living with one to find out how you both would like to spend the rest of your lives takes tolerance. A crazy quarreling couple might just turn out to be the perfect one over the years, you know why? Because they realized they are ultimately humans and, found out what makes the other boil up and they steadily began to avoid those situations or let's say what makes the other person happy and they steadily began to create those situations. You just need to be willing, that's all. 
 
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Product-vs-Marketing.png" alt="Technology vs Marketing" title="Product vs Marketing"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Start-Up lessons for Love/Product-vs-Marketing.png" alt="Technology vs Marketing" title="Product vs Marketing"&gt;
 &lt;hr&gt;
 &lt;h2&gt;10. Forgiveness&lt;/h2&gt;
 &lt;hr&gt;

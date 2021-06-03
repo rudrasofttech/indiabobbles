@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>The Bobble Head and The Great Indian Head Wobble Connection</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Tanjore-doll.jpg</OGImage>
+  <MetaTitle>The Bobble Head and The Great Indian Head Wobble Connection</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Tanjore-doll.jpg</OGImage>
   <OGDescription>For decades foreign travellers in India have been faced with a vital question that no one has been able to explain. No it is not “whether this food will bring a painful round of Delhi belly or...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -14,12 +15,12 @@
   <Status>Publish</Status>
   <Description>For decades foreign travelers in India have been faced with a vital question that no one has been able to explain. No it is not “whether this food will bring a painful round of Delhi belly or not “. Nor is it “what do the ridiculously in-comprehensive announcements in our platforms and bus stands ever mean”...</Description>
   <Text>&lt;h5&gt;
-    For decades foreign &lt;a href="http://www.rockying.com/a/280?title=The%20Bobble-headed%20Indian%20and%20other%20Quirky%20baubles;%20Survival%20tips%20for%20the%20Maiden%20Indian%20Trip" title="The Bobble-headed Indian and other Quirky baubles; Survival tips for the Maiden Indian Trip" target="_blank"&gt;travelers in India &lt;/a&gt;have been faced with a vital question that
+    For decades foreign &lt;a href="//www.rockying.com/a/280?title=The%20Bobble-headed%20Indian%20and%20other%20Quirky%20baubles;%20Survival%20tips%20for%20the%20Maiden%20Indian%20Trip" title="The Bobble-headed Indian and other Quirky baubles; Survival tips for the Maiden Indian Trip" target="_blank"&gt;travelers in India &lt;/a&gt;have been faced with a vital question that
     no one has been able to explain. No it is not “whether this food will bring a painful
     round of Delhi belly or not “. Nor is it “what do the ridiculously in-comprehensive
     announcements in our platforms and bus stands ever mean”!
 &lt;/h5&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Tanjore-doll.jpg" alt="Tanjore Dolls"/&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Tanjore-doll.jpg" alt="Tanjore Dolls"/&gt;
 &lt;h5&gt;
     For the hapless white folks used to the simple up and down nod of the head meaning
     “yes” and the sideways shake of the head meaning “no”, the one mystery no mystic
@@ -47,8 +48,8 @@
     the discerning buyer himself, as getting a custom bobble head in your likeness is
     becoming a popular choice.
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/mahatma-gandhi-bobblehead"&gt;
-    &lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Gandhi-Bobble.jpg"
+&lt;a href="//www.indiabobbles.com/mahatma-gandhi-bobblehead"&gt;
+    &lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/Gandhi-Bobble.jpg"
         alt="Mahatma Gandhi Bobble Head" class="pull-left" style="margin-right: 5px;" /&gt;&lt;/a&gt;
 &lt;h5&gt;
     In the land where the wobbly head of the dolls have been around for centuries in
@@ -60,7 +61,7 @@
     toy abroad has been conspicuously absent from the market.
 &lt;/h5&gt;
 &lt;h5&gt;
-    &lt;a href="http://www.indiabobbles.com/"&gt;&lt;b&gt;India Bobbles&lt;/b&gt;&lt;/a&gt; brings a new and
+    &lt;a href="//www.indiabobbles.com/"&gt;&lt;b&gt;India Bobbles&lt;/b&gt;&lt;/a&gt; brings a new and
     completely &lt;i&gt;desi&lt;/i&gt; range of bobble-heads based on the iconic design combined
     with personalities who have a larger than life presence in the Indian psyche. Starting
     with none other than the Father of the Nation-complete with his &lt;i&gt;lathi&lt;/i&gt;, round

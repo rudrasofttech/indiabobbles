@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>0</ID>
+  <Title>Play Super Mario Bros Online</Title>
+  <MetaTitle>Play Super Mario Bros Online</MetaTitle>
+  <OGImage>https://venturebeat.com/wp-content/uploads/2013/03/super_mario_bros_1.jpg?w=1200&amp;strip=all</OGImage>
+  <OGDescription>Play Super Mario Online</OGDescription>
+  <DateCreated>0001-01-01T00:00:00</DateCreated>
+  <DateModified xsi:nil="true" />
+  <CreatedBy>0</CreatedBy>
+  <ModifiedBy xsi:nil="true" />
+  <ModifiedByName />
+  <Category>5</Category>
+  <Tag>Super Mario, Arcade Games</Tag>
+  <Status>Publish</Status>
+  <Description>Play Super Mario Online</Description>
+  <Text>&lt;iframe style="width:100%; min-height:90vh; min-height:500px;" allow="fullscreen; autoplay; encrypted-media" src="https://games.construct.net/353/latest" frameborder="0" allowfullscreen="true" msallowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" allowpaymentrequest="false" referrerpolicy="unsafe-url" sandbox="allow-same-origin allow-forms allow-scripts allow-pointer-lock allow-orientation-lock allow-popups" scrolling="no"&gt;&lt;/iframe&gt;</Text>
+  <TemplateName>WideBlogTemplate</TemplateName>
+  <WriterName>Games</WriterName>
+  <WriterEmail>games@indiabobbles.com</WriterEmail>
+  <Viewed>0</Viewed>
+  <URL>play-super-mario-bros-online</URL>
+  <Sitemap>true</Sitemap>
+</Article>

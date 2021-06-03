@@ -107,13 +107,6 @@
                     <asp:BoundField DataField="SentDate" DataFormatString="{0:d MMM y}" HeaderText="Sent"
                         SortExpression="SentDate" />
                     <asp:BoundField DataField="Subject" HeaderText="Subject" SortExpression="Subject" />
-                    <asp:TemplateField>
-                        <ItemTemplate>
-                            <asp:HyperLink ID="HyperLink2" runat="server"
-                                NavigateUrl='<%# Eval("ID", "SendMail.aspx?emailid={0}") %>'
-                                Text="Mail"></asp:HyperLink>
-                        </ItemTemplate>
-                    </asp:TemplateField>
                 </Columns>
             </asp:GridView>
         </div>

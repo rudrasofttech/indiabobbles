@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>34</ID>
   <Name>india-bobbles-fun-with-photoplasty/index</Name>
   <Title>Gags of India Bobbles with Photoplasty</Title>
@@ -19,10 +19,10 @@
             &lt;datasource name="GagsDataSource" /&gt;
         &lt;/div&gt;
     &lt;/section&gt;</Body>
-  <DateModified>2017-02-10T03:48:28.463162-07:00</DateModified>
+  <DateModified>2020-07-11T02:11:58.7620304-04:00</DateModified>
   <Head>&lt;style&gt;
         body{
-            background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
+            background-image: url(//www.indiabobbles.com/drive/theme/khichdi/img/India-Bobbles-package-1300.jpg);
         }
  &lt;/style&gt;</Head>
   <Sitemap>true</Sitemap>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Bollywood, now in Comics!</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Bollywood-Graphic-Novels.jpg</OGImage>
+  <MetaTitle>Bollywood, now in Comics!</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Bollywood-Graphic-Novels.jpg</OGImage>
   <OGDescription>Bollywood is everywhere...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,13 +16,13 @@
   <Description>They are at social events, talent shows and now the comic...</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Bollywood-Graphic-Novels.jpg" alt="Bollywood Graphic Novels" title="Bollywood is Everywhere"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Bollywood-Graphic-Novels.jpg" alt="Bollywood Graphic Novels" title="Bollywood is Everywhere"&gt;
 
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/bhagat-is-coming-back" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/bhagat-is-coming-back" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/fallout-of-modernism" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/fallout-of-modernism" &gt;Next&lt;/a&gt;
 &lt;h4 class="align center"&gt; Bollywood Graphic Novels! Have you read one?&lt;h4&gt;
 
 &lt;br&gt;

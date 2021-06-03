@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>Daku Sambhar Singh and his Story...</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Gags/Daku-Sambhars-Story.jpg</OGImage>
+  <MetaTitle>Daku Sambhar Singh and his Story...</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Gags/Daku-Sambhars-Story.jpg</OGImage>
   <OGDescription>Now you know the...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -15,12 +16,12 @@
   <Description>Now you know the story behind...</Description>
   <Text>&lt;div class="purplebox"&gt;
 
-&lt;img src="http://www.indiabobbles.com/drive/Gags/Daku-Sambhars-Story.jpg" alt="Daku Sambhar Singh Bobble Head Story" title="Daku Sambhar Singh Bobble Head"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Gags/Daku-Sambhars-Story.jpg" alt="Daku Sambhar Singh Bobble Head Story" title="Daku Sambhar Singh Bobble Head"&gt;
 &lt;br&gt;
 
-&lt;a class="btn btn-large btn-theme pull-left" href="http://www.indiabobbles.com/blog/the-story-of-daku-sambhar-singh" &gt;Previous&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-left" href="//www.indiabobbles.com/blog/the-story-of-daku-sambhar-singh" &gt;Previous&lt;/a&gt;
 
-&lt;a class="btn btn-large btn-theme pull-right" href="http://www.indiabobbles.com/blog/gags/long-live-revolution" &gt;Next&lt;/a&gt;
+&lt;a class="btn btn-large btn-theme pull-right" href="//www.indiabobbles.com/blog/gags/long-live-revolution" &gt;Next&lt;/a&gt;
 &lt;H4 class="align center"&gt; Now You Know It!&lt;/h4&gt;
 &lt;br&gt;
 &lt;datasource name="ShareDataSource" /&gt;

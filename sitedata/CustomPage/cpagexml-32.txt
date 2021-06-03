@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>32</ID>
   <Name>games</Name>
   <Title>Meteor Treasure | Agni Game Online - India Bobbles</Title>
@@ -10,70 +10,91 @@
   <ModifiedByName>Raj Kiran</ModifiedByName>
   <ModifiedBy>1</ModifiedBy>
   <Body>&lt;div class="container"&gt;
-        &lt;div style="margin-top:100px;"&gt;&lt;/div&gt;
-        &lt;div class="row"&gt;
-            &lt;div class="col-sm-offset-2 col-sm-3"&gt;
-                &lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/agni-game-icon.JPG"  alt="agni-game-icon" class="img-responsive" style="display:inline;border:10px solid #250301;border-radius:40px;" /&gt;
+    &lt;div style="margin-top:100px;"&gt;&lt;/div&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-offset-2 col-sm-3"&gt;
+            &lt;img src="//www.indiabobbles.com/drive/theme/khichdi/img/agni-game-icon.JPG" alt="agni-game-icon" class="img-responsive" style="display:inline;border:10px solid #250301;border-radius:40px;" /&gt;
 
-            &lt;/div&gt;
-            &lt;div class="col-sm-6 gamesnippet"&gt;
-                &lt;h1 style="font-family:'Spongeboy Me Bob';"&gt;Agni&lt;/h1&gt;
-                &lt;p&gt;Get ready to defend your city against a foe who is hell bent on destroying it. It seems the end of days are near, as no one talks of peace anymore. Once the onslaught begins you won't have much time to react. Every single shot should be perfectly timed, no room for any miscalculation, one miss and millions perish. &lt;/p&gt;&lt;datasource name="AgniSubscribeDataSource" /&gt;
-                &lt;ul class="list-inline"&gt;
-                   
-                    &lt;li&gt;
-                        &lt;a  href="https://www.microsoft.com/store/apps/9nblggh4rx5f"&gt;
-                            &lt;img src="https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png" alt="Get" style="padding-top:10px;max-height:50px" /&gt;
-                        &lt;/a&gt;
-                    &lt;/li&gt;
-                    &lt;li style="display:none;"&gt;
-                        &lt;a href="http://www.indiabobbles.com/drive/games/agni/index.html" target="_blank" title="Play It Right Now"&gt;
-&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/play-on-web.png" alt="play-on-web" style="padding-top:10px height:70px;" /&gt;
-&lt;/a&gt;
-                    &lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/div&gt;
         &lt;/div&gt;
-        &lt;div style="margin-top:50px;"&gt;&lt;/div&gt;
-        &lt;div class="row"&gt;
-            &lt;div class="col-sm-offset-2 col-sm-3" sstyle="text-align:right"&gt;
-                &lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/meteor-icon.png" alt="meteor-icon" class="img-responsive" style="display:inline;"&gt;
-            &lt;/div&gt;
-            &lt;div class="col-sm-6 gamesnippet"&gt;
-                &lt;h1 style="font-family:'Spongeboy Me Bob'"&gt;Meteor Treasure&lt;/h1&gt;
-                &lt;p&gt;Welcome to the Red Planet, you have been assigned to navigate the surface of the planet and collect soil samples. Unfortunately your rover is in the midst of a meteor shower which doesn't seem to stop. Now it's your responsibility to save the rover.
-                 And while at it, collect the buried treasure inside the collided meteors and score your best.&lt;/p&gt;
-                &lt;ul class="list-inline"&gt;
-                    &lt;li style="display:none;"&gt;
-                        &lt;a href="https://play.google.com/store/apps/details?id=com.IndiaBobbles.MeteorTreasure&amp;hl=en"&gt;
-                            &lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/google-play-store.png" alt="google-play-store" style="padding-top:10px;max-height:50px;" /&gt;
-                        &lt;/a&gt;
-                    &lt;/li&gt;
-                    &lt;li style="display:none;"&gt;
-                        &lt;a href="https://www.microsoft.com/store/apps/9wzdncrcwf6s?ocid=badge"&gt;
-                            &lt;img src="https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png" alt="Get" style="padding-top:10px;max-height:50px" /&gt;
-                        &lt;/a&gt;
-                    &lt;/li&gt;
-&lt;li&gt;
-&lt;a href="http://www.indiabobbles.com/drive/games/meteortreasure2/default.html" target="_blank" title="Play It Right Now"&gt;
-&lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/play-on-web.png" alt="play-on-web" style="padding-top:10px height:70px;" /&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-                    &lt;li style="display:none;"&gt;
-                        &lt;a href="" data-toggle="modal" data-target="#gamemodal"&gt;
-                            &lt;img src="http://www.indiabobbles.com/drive/theme/khichdi/img/apple-store-icon.png" alt="apple-store-icon" style="padding-top:10px; max-height:70px;" /&gt;
-                        &lt;/a&gt;
-                    &lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div style="margin-top:50px;"&gt;&lt;/div&gt;
+        &lt;div class="col-sm-6 gamesnippet"&gt;
+            &lt;h1 style="font-family:'Spongeboy Me Bob';"&gt;Agni&lt;/h1&gt;
+            &lt;p&gt;Get ready to defend your city against a foe who is hell bent on destroying it. It seems the end of days are near, as no one talks of peace anymore. Once the onslaught begins you won't have much time to react. Every single shot should be perfectly timed, no room for any miscalculation, one miss and millions perish. &lt;/p&gt;
+            &lt;ul class="list-inline"&gt;
 
-    &lt;/div&gt;</Body>
-  <DateModified>2017-12-02T09:33:16.6160455-07:00</DateModified>
+                &lt;!--&lt;li&gt;
+                    &lt;a  href="https://www.microsoft.com/store/apps/9nblggh4rx5f"&gt;
+                        &lt;img src="https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png" alt="Get" style="padding-top:10px;max-height:50px" /&gt;
+                    &lt;/a&gt;
+                &lt;/li&gt;--&gt;
+                &lt;li&gt;
+                    &lt;a href="//www.indiabobbles.com/agni" target="_blank" title="Play It Right Now"&gt;
+                        &lt;img src="//www.indiabobbles.com/drive/theme/khichdi/img/play-on-web.png" alt="play-on-web" style="padding-top:10px height:70px;" /&gt;
+                    &lt;/a&gt;
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style="margin-top:50px;"&gt;&lt;/div&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-offset-2 col-sm-3" sstyle="text-align:right"&gt;
+            &lt;img src="//www.indiabobbles.com/drive/theme/khichdi/img/meteor-icon.png" alt="meteor-icon" class="img-responsive" style="display:inline;"&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-6 gamesnippet"&gt;
+            &lt;h1 style="font-family:'Spongeboy Me Bob'"&gt;Meteor Treasure&lt;/h1&gt;
+            &lt;p&gt;
+                Welcome to the Red Planet, you have been assigned to navigate the surface of the planet and collect soil samples. Unfortunately your rover is in the midst of a meteor shower which doesn't seem to stop. Now it's your responsibility to save the rover.
+                And while at it, collect the buried treasure inside the collided meteors and score your best.
+            &lt;/p&gt;
+            &lt;ul class="list-inline"&gt;
+                &lt;li style="display:none;"&gt;
+                    &lt;a href="https://play.google.com/store/apps/details?id=com.IndiaBobbles.MeteorTreasure&amp;hl=en"&gt;
+                        &lt;img src="//www.indiabobbles.com/drive/theme/khichdi/img/google-play-store.png" alt="google-play-store" style="padding-top:10px;max-height:50px;" /&gt;
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li style="display:none;"&gt;
+                    &lt;a href="https://www.microsoft.com/store/apps/9wzdncrcwf6s?ocid=badge"&gt;
+                        &lt;img src="https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png" alt="Get" style="padding-top:10px;max-height:50px" /&gt;
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li&gt;
+                    &lt;a href="//www.indiabobbles.com/meteortreasure" target="_blank" title="Play It Right Now"&gt;
+                        &lt;img src="//www.indiabobbles.com/drive/theme/khichdi/img/play-on-web.png" alt="play-on-web" style="padding-top:10px height:70px;" /&gt;
+                    &lt;/a&gt;
+                &lt;/li&gt;
+                &lt;li style="display:none;"&gt;
+                    &lt;a href="" data-toggle="modal" data-target="#gamemodal"&gt;
+                        &lt;img src="//www.indiabobbles.com/drive/theme/khichdi/img/apple-store-icon.png" alt="apple-store-icon" style="padding-top:10px; max-height:70px;" /&gt;
+                    &lt;/a&gt;
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style="margin-top:50px;"&gt;&lt;/div&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-offset-2 col-sm-3" sstyle="text-align:right"&gt;
+            &lt;img src="//www.indiabobbles.com/drive/theme/khichdi/img/lipika.png" alt="meteor-icon" class="img-responsive" style="display:inline;"&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-6 gamesnippet"&gt;
+            &lt;h1 style="font-family:'Spongeboy Me Bob'"&gt;Lipika&lt;/h1&gt;
+            &lt;p&gt;
+                A finger sketching app for kids to practice drawing and writing symbols.
+            &lt;/p&gt;
+            &lt;ul class="list-inline"&gt;
+
+                &lt;li&gt;
+                    &lt;a href="//https://www.amazon.com/dp/B08G4B7VSQ/ref=apps_sf_sta" target="_blank" title="Play It Right Now"&gt;
+                        &lt;img src="//www.indiabobbles.com/drive/theme/khichdi/img/amazon.png" alt="play-on-web" style="padding-top:10px; max-height:70px;" /&gt;
+                    &lt;/a&gt;
+                &lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style="margin-top:50px;"&gt;&lt;/div&gt;
+&lt;/div&gt;</Body>
+  <DateModified>2020-08-19T15:39:39.326155-04:00</DateModified>
   <Head>&lt;style&gt;
 body{
-background-image: url(http://www.indiabobbles.com/drive/theme/khichdi/img/Agni-Screenshot-1.jpg);
+background-image: url(//www.indiabobbles.com/drive/theme/khichdi/img/Agni-Screenshot-1.jpg);
 background-attachment: fixed;
 background-position:bottom;
 background-size: cover;
@@ -92,7 +113,5 @@ font-size:15px;
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>
   <PageMeta>&lt;meta name="description" content="Play free online games like as Agni and Meteor treasure. These games are popular and are in more demand on windows, android operating systems. Download now."/&gt;
-
-
 &lt;meta name ="Keywords" Content="agni game online, meteor treasure game online"/&gt;</PageMeta>
 </CPage>

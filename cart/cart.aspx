@@ -33,9 +33,9 @@
                                     <asp:BoundField DataField="ProductCode" HeaderText="Code" ReadOnly="True" SortExpression="ProductCode" />
                                     <asp:TemplateField HeaderText="Quantity" SortExpression="Quantity">
                                         <ItemTemplate>
-                                            <asp:LinkButton ID="ReduceButton" runat="server" Visible="false" CausesValidation="false" CssClass="label label-default" CommandName="Subtract" CommandArgument='<%# Bind("ID") %>' Text="-"></asp:LinkButton>
+                                            <asp:LinkButton ID="ReduceButton" runat="server" Visible="true" CausesValidation="false" CssClass="label label-default" CommandName="Subtract" CommandArgument='<%# Bind("ID") %>' Text="-"></asp:LinkButton>
                                             <asp:Label ID="Label1" Style="margin-left: 10px; margin-right: 10px;" runat="server" Text='<%# Bind("Quantity") %>'></asp:Label>
-                                            <asp:LinkButton ID="AddButton" runat="server" Visible="false" CausesValidation="false" CssClass="label label-default" CommandName="Add" CommandArgument='<%# Bind("ID") %>' Text="+"></asp:LinkButton>
+                                            <asp:LinkButton ID="AddButton" runat="server" Visible="true" CausesValidation="false" CssClass="label label-default" CommandName="Add" CommandArgument='<%# Bind("ID") %>' Text="+"></asp:LinkButton>
                                         </ItemTemplate>
                                     </asp:TemplateField>
                                     <asp:BoundField DataField="Price" HeaderText="Price" ReadOnly="True" DataFormatString="{0:#0.00}" SortExpression="Price" />

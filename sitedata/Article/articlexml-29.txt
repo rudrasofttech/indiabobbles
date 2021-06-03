@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>In India? Happy Head Bobbling!</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/teacher_scolding_a_young_student_in_class.jpg</OGImage>
+  <MetaTitle>In India? Happy Head Bobbling!</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/teacher_scolding_a_young_student_in_class.jpg</OGImage>
   <OGDescription>The Indian Head Wiggle and Why...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -13,7 +14,7 @@
   <Tag>The Indian Head wiggle, India Bobbles, Bobble Heads India, Great Indian Head Bobble.</Tag>
   <Status>Publish</Status>
   <Description>India bobbles, but why?</Description>
-  <Text>&lt;a href="http://www.indiabobbles.com/blog/India-Bobbles-Fun-With-Photoplasty/index" target="_blank"&gt;&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/teacher_scolding_a_young_student_in_class.jpg" alt="Teacher Scolding Student"&gt;&lt;/a&gt;
+  <Text>&lt;a href="//www.indiabobbles.com/blog/India-Bobbles-Fun-With-Photoplasty/index" target="_blank"&gt;&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Indian-Head-Wobble/teacher_scolding_a_young_student_in_class.jpg" alt="Teacher Scolding Student"&gt;&lt;/a&gt;
 &lt;hr&gt;
 &lt;h4&gt;Situation&lt;/h4&gt;
 &lt;hr&gt;
@@ -59,11 +60,11 @@ You must now wobble your head!
 &lt;h5&gt;
 The Famous Indian Head Wobble has caused mass confusion and anxiety ever since it came into picture. It has been deeply rooted in all cultures and in all parts of the Indian subcontinent. The precise reason or circumstance under which it originated remains a mystery, but the most famous theory is that during the period when the Indian Maharajas and after them during the period when the Englishmen ruled India, there were some really harsh rulers around who wouldn't take ''no'' for an answer. So the solution that the Indians came up with to avoid saying the hideous and unpleasant word was, the head wiggle.
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/blog/father-of-the-bobble-head" target="_blank"&gt;&lt;img src="http://www.indiabobbles.com/drive/Gags/Thanjavur.jpg" alt="Old Indian Bobble Heads" Title="Indian Clay Bobble Heads"&gt;&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/blog/father-of-the-bobble-head" target="_blank"&gt;&lt;img src="//www.indiabobbles.com/drive/Gags/Thanjavur.jpg" alt="Old Indian Bobble Heads" Title="Indian Clay Bobble Heads"&gt;&lt;/a&gt;
 &lt;h5&gt;
-It's one gesture that you would find prevalent and vigorously in use in all parts of this country. People of different regions, religions, languages and cultures, all united by the power of &lt;a href="http://www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" target="_blank"&gt;the Great Head Wiggle&lt;/a&gt;. But this unique-to-India gesture has always caused great curiosity and bewilderment among foreigners. The wobble finds its place somewhere between a nod and shake but does it mean a yes? or a no? or a maybe? or a ''yeah sure, definitely"? or a "Of course I understand you?" 
+It's one gesture that you would find prevalent and vigorously in use in all parts of this country. People of different regions, religions, languages and cultures, all united by the power of &lt;a href="//www.indiabobbles.com/blog/the-bobble-head-and-the-great-indian-head-wobble-connection" target="_blank"&gt;the Great Head Wiggle&lt;/a&gt;. But this unique-to-India gesture has always caused great curiosity and bewilderment among foreigners. The wobble finds its place somewhere between a nod and shake but does it mean a yes? or a no? or a maybe? or a ''yeah sure, definitely"? or a "Of course I understand you?" 
 &lt;/h5&gt;
-&lt;a href="http://www.indiabobbles.com/blog/what-is-it-with-the-indian-head-bobble" target="_blank"&gt;&lt;img src="http://www.indiabobbles.com/drive/Gags/Indian-Head-Bobble.jpg" alt="The Indian Head Wobble" Title="The Indian Head bobble"&gt;&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/blog/what-is-it-with-the-indian-head-bobble" target="_blank"&gt;&lt;img src="//www.indiabobbles.com/drive/Gags/Indian-Head-Bobble.jpg" alt="The Indian Head Wobble" Title="The Indian Head bobble"&gt;&lt;/a&gt;
 &lt;h5&gt;
 Oh well, it could mean any of it or all of it, totally open to how you want to interpret the Wobble (That's exactly what Ma'am Jane did). Most often, this gesture proves a good bet to save you from many a dreadful situations( like in the case of Prateek) when you can just give the famous Indian Wobble and leave the other person to decode what it meant for the rest of his day.
 &lt;/h5&gt;

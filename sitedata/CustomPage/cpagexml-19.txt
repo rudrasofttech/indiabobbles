@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<CPage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<CPage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>19</ID>
   <Name>order-custom-bobbleheads</Name>
   <Title>Order Custom Bobble heads</Title>
@@ -12,13 +12,13 @@
   <Body>&lt;div class="container"&gt;
     &lt;h1 class="bobbleheadname"&gt;Customized Bobbleheads&lt;/h1&gt;
     &lt;div class="row productpagerow"&gt;
-        &lt;div class="col-sm-offset-2 col-sm-8"&gt;&lt;h4 style="text-align:center;"&gt;We do not take customized order at present. You can check our &lt;br /&gt;&lt;a href="http://www.indiabobbles.com/collectibles"&gt;existing designs&lt;/a&gt;.&lt;/h4&gt;
+        &lt;div class="col-sm-offset-2 col-sm-8"&gt;&lt;h4 style="text-align:center;"&gt;We do not take customized order at present. You can check our &lt;br /&gt;&lt;a href="//www.indiabobbles.com/collectibles"&gt;existing designs&lt;/a&gt;.&lt;/h4&gt;
             &lt;datasource name="ShareDataSource" /&gt;
             &lt;datasource name="DisqusDataSource" /&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;</Body>
-  <DateModified>2017-02-11T01:05:19.6077362-07:00</DateModified>
+  <DateModified>2020-07-11T02:39:21.9554498-04:00</DateModified>
   <Head />
   <Sitemap>true</Sitemap>
   <NoTemplate>false</NoTemplate>

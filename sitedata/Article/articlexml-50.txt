@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<Article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Article xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ID>0</ID>
   <Title>These 5 Indian Quotes Will Inspire You to the Core</Title>
-  <OGImage>http://www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Dr-Kalaam-Dreams.jpg</OGImage>
+  <MetaTitle>These 5 Indian Quotes Will Inspire You to the Core</MetaTitle>
+  <OGImage>https://www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Dr-Kalaam-Dreams.jpg</OGImage>
   <OGDescription>These inspiring Indian quotes will change your...</OGDescription>
   <DateCreated>0001-01-01T00:00:00</DateCreated>
   <DateModified xsi:nil="true" />
@@ -19,52 +20,52 @@ When asked as to why we chose to depict these Indian characters through our firs
 &lt;hr&gt;
 &lt;h2&gt;"Jo Dar Gaya Wo Mar Gaya"&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Jo-Dar-Gaya-Wo-Mar-Gaya.jpg" alt="Daku Sambhar Singh Bobble head" title="Inspiration behind Daku Sambhar Singh Bobble head"&gt; 
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Jo-Dar-Gaya-Wo-Mar-Gaya.jpg" alt="Daku Sambhar Singh Bobble head" title="Inspiration behind Daku Sambhar Singh Bobble head"&gt; 
 &lt;h5&gt;
 In the words of Dr. Kalaam "Unless India stands up to the World, No one will respect us. In this world fear has no place. Only strength respects strength". Get it? Want to build a robot?, Want to be an innovator?, Want to go to the moon? Want to be an actor? Go out there and do it! Fearless! Although coming from a villain, this dialogue from our 100 year old Hindi Cinema pretty much sums up the way of human life. Fear is death my friends. Mediocrity is death!&lt;br&gt; &lt;br&gt;
-&lt;a href="http://www.indiabobbles.com/daku-sambhar-singh-bobble-head" class="btn btn-theme"&gt;Buy Daku Sambhar Singh Collectible Bobble Head Now!&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/daku-sambhar-singh-bobble-head" class="btn btn-theme"&gt;Buy Daku Sambhar Singh Collectible Bobble Head Now!&lt;/a&gt;
 &lt;/h5&gt;
 
 &lt;hr&gt;
 &lt;h2&gt;"Be the Change You Want to See"&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Be-The-Change.jpg" alt="Mahatma Gandhi Bobble head" title="Inspiration behind Mahatma Gandhi Bobble head"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Be-The-Change.jpg" alt="Mahatma Gandhi Bobble head" title="Inspiration behind Mahatma Gandhi Bobble head"&gt;
 &lt;h5&gt;
 And he didn't just say it. He proved to be the living example of being the change he wanted to see in his country and the way it was run by the English. Hate filth? Go clean your street yourself today. Detest corruption? Never ever ever bribe an official no matter what. Will ya? Then you will see the change you want.&lt;br&gt; &lt;br&gt;
-&lt;a href="http://www.indiabobbles.com/mahatma-gandhi-bobblehead" class="btn btn-theme"&gt;Buy Mahatma Gandhi Collectible Bobble Head Now!&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/mahatma-gandhi-bobblehead" class="btn btn-theme"&gt;Buy Mahatma Gandhi Collectible Bobble Head Now!&lt;/a&gt;
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h2&gt;"Tumhaare Pas Kya Hai?"&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Tumhare-Pas-Kya-Hai.jpg" alt="Chhote Bachchan Bobble head" title="Inspiration behind Chhote Bachchan Bobble head"&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Tumhare-Pas-Kya-Hai.jpg" alt="Chhote Bachchan Bobble head" title="Inspiration behind Chhote Bachchan Bobble head"&gt;
 &lt;h5&gt;
 &lt;p&gt;
 &lt;i&gt;Han, hai kya tumhare paas?&lt;/i&gt; Ok, Fine, the dialogue came from a criminal and meant to advocate consumerism in the movie, but think about it. What you have today is what you have made of your life.
 &lt;/p&gt; 
 &lt;p&gt;
 Why is it that you got nothing and you sitting your as* over there whining about the stupid government measures and how they don't work in your favor? Go out there make your self some bucks and give your family (including you) a happy and comfortable life. It's no crime my friend. Passe is the ideology of choosing to stay poor and praising the benefits. Love lavishness? Help your self and make it large in this very life. Just like Mr. Bachchan did !&lt;br&gt;&lt;br&gt;
-&lt;a href="http://www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
+&lt;a href="//www.indiabobbles.com/chhote-bachchan-bobblehead" class="btn btn-theme"&gt;Buy Chhote Bachchan Collectible Bobble Head Now!&lt;/a&gt;
 &lt;/p&gt;
 &lt;/h5&gt;
 &lt;hr&gt;
 &lt;h2&gt;"Poorna Swaraj, Bas."&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Bhagat-SIngh-IB.jpg" alt="" title""&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Bhagat-SIngh-IB.jpg" alt="" title""&gt;
 &lt;h5&gt;
 In times when even great leaders like Gandhi and Nehru were making efforts to appease the English government and trying to acquire greater powers within the assembly it was Bhagat Singh and comrades who affirmed that we did not need any &lt;i&gt;Goras&lt;/i&gt; to run our country. He either wanted absolute independence or nothing at all. 
 &lt;/p&gt;
 &lt;p&gt;
-The philosophy may have changed its form to this day but absolute independence is what we all live for. If it wasn't for this philosophy we would never feel the need to be self dependent and take absolute control of our lives and make it worth living. Well at least being an entrepreneur feels like that. &lt;img alt="Smiley winks" width="30" height="30" src="http://www.sherv.net/cm/emoticons/flirt/smiley-winks-emoticon.gif"&gt;  
-&lt;a href="http://www.indiabobbles.com/bhagat-singh-figurine"  class="btn btn-theme"&gt;Buy Bhagat Singh Collectible Figurine Now!&lt;/a&gt;
+The philosophy may have changed its form to this day but absolute independence is what we all live for. If it wasn't for this philosophy we would never feel the need to be self dependent and take absolute control of our lives and make it worth living. Well at least being an entrepreneur feels like that. &lt;img alt="Smiley winks" width="30" height="30" src="//www.sherv.net/cm/emoticons/flirt/smiley-winks-emoticon.gif"&gt;  
+&lt;a href="//www.indiabobbles.com/bhagat-singh-figurine"  class="btn btn-theme"&gt;Buy Bhagat Singh Collectible Figurine Now!&lt;/a&gt;
 &lt;/h5&gt;
 
 &lt;hr&gt;
 &lt;h2&gt;"You have to Dream before your Dream Can Come True"&lt;/h2&gt;
 &lt;hr&gt;
-&lt;img src="http://www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Dr-Kalaam-Dreams.jpg" alt="Dr. Kalaam Bobble head" title="Inspiration behind Dr. Kalaam Bobble head "&gt;
+&lt;img src="//www.indiabobbles.com/drive/Blog-Photos/Inspirational Indian India Bobbles Quotes/Dr-Kalaam-Dreams.jpg" alt="Dr. Kalaam Bobble head" title="Inspiration behind Dr. Kalaam Bobble head "&gt;
 &lt;h5&gt;
 Kalaam is not a noble laureate. He is not the Einstein of this century. He is not even Stephen Hawking. Then who is he? He is the Missile Man of India. And why is that so great? At the time when the so-called hi-tech nations not only forbade to share much necessary missile technology with India but also nixed sanctions to us, it was Dr. Kalam who took up the challenge and built what we needed desperately for our nations security. Dr. Kalaam is hope, he is the confidence that we can do and build anything we want to. Thank his dreams and his will to achieve them, every little kid (poor or rich) in the nation can dream to make it big.&lt;br&gt;&lt;br&gt;
-&lt;a href="http://www.indiabobbles.com/dr-abdul-kalam-bobblehead"  class="btn btn-theme"&gt;Buy Dr. Kalam Collectible Bobble Head Now!&lt;/a&gt;   
+&lt;a href="//www.indiabobbles.com/dr-abdul-kalam-bobblehead"  class="btn btn-theme"&gt;Buy Dr. Kalam Collectible Bobble Head Now!&lt;/a&gt;   
 &lt;/h5&gt;
 &lt;h5&gt;
 These people, their words make us realize that, it is not important what you were born with, its what you do with the time you are given in life that makes sense. So go on, spread the pride of being an Indian. Inspire your loved ones (including your self) by gifting the bobble head collectibles that have these quotes engraved on them. Not only will these gifts be an inspiration for those who receive them, they will also add a sense of contentment to your own heart and soul. 
